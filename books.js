@@ -8533,7 +8533,7 @@ const books = [
         publisher: "统编版出版社",
         cover: "https://book.hikid.org/img/sample.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/156NJcQQyAE6y1teZ0a7ABQ?pwd=1234"  name: "夸克网盘", type: "Quark", url: "https://pan.quark.com/"}
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/156NJcQQyAE6y1teZ0a7ABQ?pwd=1234" }
         ]
     },
     {
