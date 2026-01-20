@@ -6031,103 +6031,103 @@ const books = [
     {
         id: 501,
         school: "小学",
-        title: "英语三年级上册",
+        title: "英语三年级上册（三年级起点 精通）",
         grade: "三年级",
         subject: "英语",
         publisher: "人民教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/yy3a02.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/13UFC-8WgPWimxoTSfjfxbQ?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1ZK9qPPAj9hM3iAEFZpad6A?pwd=qat5" }
         ]
     },
     {
         id: 502,
         school: "小学",
-        title: "英语五年级上册",
+        title: "英语五年级上册（三年级起点 精通）",
         grade: "五年级",
         subject: "英语",
         publisher: "人民教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/yy5a02.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1d58911M1nY7mLRwoZmN5aw?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1ZK9qPPAj9hM3iAEFZpad6A?pwd=qat5" }
         ]
     },
     {
         id: 503,
         school: "小学",
-        title: "英语六年级上册",
+        title: "英语六年级上册（三年级起点 精通）",
         grade: "六年级",
         subject: "英语",
         publisher: "人民教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/yy6a02.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1xPYMZ0PLx_M2_E93cPDEKQ?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1ZK9qPPAj9hM3iAEFZpad6A?pwd=qat5" }
         ]
     },
     {
         id: 504,
         school: "小学",
-        title: "英语四年级上册",
+        title: "英语四年级上册（三年级起点 精通）",
         grade: "四年级",
         subject: "英语",
         publisher: "人民教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/yy4a02.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1up8DVhhmtA7hd2Vyo9WPvg?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1ZK9qPPAj9hM3iAEFZpad6A?pwd=qat5" }
         ]
     },
     {
         id: 505,
         school: "小学",
-        title: "英语三年级下册",
+        title: "英语三年级下册（三年级起点 精通）",
         grade: "三年级",
         subject: "英语",
         publisher: "人民教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/yy3b02.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1CeM0h9EKR43lmJz2QeqEZw?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1ZK9qPPAj9hM3iAEFZpad6A?pwd=qat5" }
         ]
     },
     {
         id: 506,
         school: "小学",
-        title: "英语五年级下册",
+        title: "英语五年级下册（三年级起点 精通）",
         grade: "五年级",
         subject: "英语",
         publisher: "人民教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/yy5b02.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/138fYeLh_OgH5mWKXXrhyCQ?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1ZK9qPPAj9hM3iAEFZpad6A?pwd=qat5" }
         ]
     },
     {
         id: 507,
         school: "小学",
-        title: "英语六年级下册",
+        title: "英语六年级下册（三年级起点 精通）",
         grade: "六年级",
         subject: "英语",
         publisher: "人民教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/yy6b02.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1h7K36epHKMLN8jmBhO-qzQ?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1ZK9qPPAj9hM3iAEFZpad6A?pwd=qat5" }
         ]
     },
     {
         id: 508,
         school: "小学",
-        title: "英语四年级下册",
+        title: "英语四年级下册（三年级起点 精通）",
         grade: "四年级",
         subject: "英语",
         publisher: "人民教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/yy4b02.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1Ac6Rjwu_UHoErDYb8a-sLA?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1ZK9qPPAj9hM3iAEFZpad6A?pwd=qat5" }
         ]
     },
     {
         id: 509,
         school: "小学",
-        title: "英语一年级上册 一年级起点",
+        title: "英语一年级上册（一年级起点）",
         grade: "一年级",
         subject: "英语",
         publisher: "人民教育出版社",
@@ -6139,7 +6139,7 @@ const books = [
     {
         id: 510,
         school: "小学",
-        title: "英语一年级下册 一年级起点",
+        title: "英语一年级下册 （一年级起点）",
         grade: "一年级",
         subject: "英语",
         publisher: "人民教育出版社",
@@ -6151,7 +6151,7 @@ const books = [
     {
         id: 511,
         school: "小学",
-        title: "英语三年级上册 一年级起点",
+        title: "英语三年级上册 （一年级起点）",
         grade: "三年级",
         subject: "英语",
         publisher: "人民教育出版社",
@@ -6163,7 +6163,7 @@ const books = [
     {
         id: 512,
         school: "小学",
-        title: "英语三年级下册 一年级起点",
+        title: "英语三年级下册 （一年级起点）",
         grade: "三年级",
         subject: "英语",
         publisher: "人民教育出版社",
@@ -6175,7 +6175,7 @@ const books = [
     {
         id: 513,
         school: "小学",
-        title: "英语二年级上册 一年级起点",
+        title: "英语二年级上册 （一年级起点）",
         grade: "二年级",
         subject: "英语",
         publisher: "人民教育出版社",
@@ -6187,7 +6187,7 @@ const books = [
     {
         id: 514,
         school: "小学",
-        title: "英语二年级下册 一年级起点",
+        title: "英语二年级下册 （一年级起点）",
         grade: "二年级",
         subject: "英语",
         publisher: "人民教育出版社",
@@ -6199,7 +6199,7 @@ const books = [
     {
         id: 515,
         school: "小学",
-        title: "英语五年级上册 一年级起点",
+        title: "英语五年级上册 （一年级起点）",
         grade: "五年级",
         subject: "英语",
         publisher: "人民教育出版社",
@@ -6211,7 +6211,7 @@ const books = [
     {
         id: 516,
         school: "小学",
-        title: "英语五年级下册 一年级起点",
+        title: "英语五年级下册 （一年级起点）",
         grade: "五年级",
         subject: "英语",
         publisher: "人民教育出版社",
@@ -6223,7 +6223,7 @@ const books = [
     {
         id: 517,
         school: "小学",
-        title: "英语六年级上册 一年级起点",
+        title: "英语六年级上册 （一年级起点）",
         grade: "六年级",
         subject: "英语",
         publisher: "人民教育出版社",
@@ -6235,7 +6235,7 @@ const books = [
     {
         id: 518,
         school: "小学",
-        title: "英语六年级下册 一年级起点",
+        title: "英语六年级下册 （一年级起点）",
         grade: "六年级",
         subject: "英语",
         publisher: "人民教育出版社",
@@ -6247,7 +6247,7 @@ const books = [
     {
         id: 519,
         school: "小学",
-        title: "英语四年级上册 一年级起点",
+        title: "英语四年级上册 （一年级起点）",
         grade: "四年级",
         subject: "英语",
         publisher: "人民教育出版社",
@@ -6259,7 +6259,7 @@ const books = [
     {
         id: 520,
         school: "小学",
-        title: "英语四年级下册 一年级起点",
+        title: "英语四年级下册 （一年级起点）",
         grade: "四年级",
         subject: "英语",
         publisher: "人民教育出版社",
@@ -6271,61 +6271,61 @@ const books = [
     {
         id: 521,
         school: "小学",
-        title: "英语四年级下册",
+        title: "英语四年级下册（三年级起点 PEP）",
         grade: "四年级",
         subject: "英语",
         publisher: "人民教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/yy4b03.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1a_ZFuszcjrsRgKE7duWflw?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1laq-3-lGxAFDdeZxBdiDiw?pwd=3idm" }
         ]
     },
     {
         id: 522,
         school: "小学",
-        title: "英语三年级上册",
+        title: "英语三年级上册（三年级起点 PEP）",
         grade: "三年级",
         subject: "英语",
         publisher: "人民教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/yy3a03.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/13Rbe_TNcbb92xYtYlwaKgQ?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1laq-3-lGxAFDdeZxBdiDiw?pwd=3idm" }
         ]
     },
     {
         id: 523,
         school: "小学",
-        title: "英语五年级上册",
+        title: "英语五年级上册（三年级起点 PEP）",
         grade: "五年级",
         subject: "英语",
         publisher: "人民教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/yy5a03.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1J4RwsNJEZV_KXWOTcfwyXw?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1laq-3-lGxAFDdeZxBdiDiw?pwd=3idm" }
         ]
     },
     {
         id: 524,
         school: "小学",
-        title: "英语六年级上册",
+        title: "英语六年级上册（三年级起点 PEP）",
         grade: "六年级",
         subject: "英语",
         publisher: "人民教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/yy6a03.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1vd-jbYLe-5c1rmjUBZIKRQ?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1laq-3-lGxAFDdeZxBdiDiw?pwd=3idm" }
         ]
     },
     {
         id: 525,
         school: "小学",
-        title: "英语四年级上册",
+        title: "英语四年级上册（三年级起点 PEP）",
         grade: "四年级",
         subject: "英语",
         publisher: "人民教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/yy4a03.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/19Myt-iUhN6DHT_nR-RXGlw?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1laq-3-lGxAFDdeZxBdiDiw?pwd=3idm" }
         ]
     },
     {
@@ -11944,6 +11944,42 @@ const books = [
         cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1k0m5JTOEbipcGQgN1_vztA?pwd=1234" }
+        ]
+    },
+    {
+        id: 994,
+        school: "小学",
+        title: "英语三年级下册（三年级起点 PEP）",
+        grade: "三年级",
+        subject: "英语",
+        publisher: "人民教育出版社",
+        cover: "img/yy3b03.jpg",
+        links: [
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1laq-3-lGxAFDdeZxBdiDiw?pwd=3idm" }
+        ]
+    },
+    {
+        id: 995,
+        school: "小学",
+        title: "英语五年级下册（三年级起点 PEP）",
+        grade: "五年级",
+        subject: "英语",
+        publisher: "人民教育出版社",
+        cover: "img/yy5b03.jpg",
+        links: [
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1laq-3-lGxAFDdeZxBdiDiw?pwd=3idm" }
+        ]
+    },
+    {
+        id: 996,
+        school: "小学",
+        title: "英语六年级下册（三年级起点 PEP）",
+        grade: "六年级",
+        subject: "英语",
+        publisher: "人民教育出版社",
+        cover: "img/yy6b03.jpg",
+        links: [
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1laq-3-lGxAFDdeZxBdiDiw?pwd=3idm" }
         ]
     }
 ];
