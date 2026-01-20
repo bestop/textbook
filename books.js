@@ -3263,7 +3263,7 @@ const books = [
         grade: "五年级",
         subject: "数学",
         publisher: "人民教育出版社",
-        cover: "img/sx1b05.jpg",
+        cover: "img/sx5b01.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1x3FydVZ-VgSzpk-kX4ydAA?pwd=th2n" }
         ]
