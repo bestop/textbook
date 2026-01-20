@@ -2543,9 +2543,9 @@ const books = [
         grade: "七年级",
         subject: "语文",
         publisher: "人民教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/yw7a01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1C3yE0fGWEJtXKpVJyqVrKQ?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1kZjTxS_VvHWs2LKmBjG-qQ?pwd=3b8s" }
         ]
     },
     {
@@ -2555,9 +2555,9 @@ const books = [
         grade: "七年级",
         subject: "语文",
         publisher: "人民教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/yw7b01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1GioEBayzEbTh02NnxCesrA?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1kZjTxS_VvHWs2LKmBjG-qQ?pwd=3b8s" }
         ]
     },
     {
@@ -2567,9 +2567,9 @@ const books = [
         grade: "九年级",
         subject: "语文",
         publisher: "人民教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/yw9a01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1d16QRyNLrjTfqOUdKMjhIQ?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1kZjTxS_VvHWs2LKmBjG-qQ?pwd=3b8s" }
         ]
     },
     {
@@ -2579,9 +2579,9 @@ const books = [
         grade: "九年级",
         subject: "语文",
         publisher: "人民教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/yw9b01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1nSRveUxHuYHbMN2x9LBAyg?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1kZjTxS_VvHWs2LKmBjG-qQ?pwd=3b8s" }
         ]
     },
     {
@@ -2591,9 +2591,9 @@ const books = [
         grade: "八年级",
         subject: "语文",
         publisher: "人民教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/yw8a01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1JGdQ0EJwJdZR8PfGQaT6kw?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1kZjTxS_VvHWs2LKmBjG-qQ?pwd=3b8s" }
         ]
     },
     {
@@ -2603,9 +2603,9 @@ const books = [
         grade: "八年级",
         subject: "语文",
         publisher: "人民教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/yw8b01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1_WwRa3jeyQqwnVcpGx9DjQ?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1kZjTxS_VvHWs2LKmBjG-qQ?pwd=3b8s" }
         ]
     },
     {
@@ -8533,7 +8533,7 @@ const books = [
         publisher: "统编版出版社",
         cover: "img/yw1a01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/156NJcQQyAE6y1teZ0a7ABQ?pwd=1234" },
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1MFFJ2wWAphv9m7xgB4U5CQ?pwd=yb5g" },
             { name: "夸克网盘", type: "quark", url: "https://pan.quark.cn/s/d2d3bb68a73b" }
         ]
     },
@@ -8546,7 +8546,7 @@ const books = [
         publisher: "统编版出版社",
         cover: "img/yw1b01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1d_79KNhmAisaloikgz2CHg?pwd=1234" },
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1MFFJ2wWAphv9m7xgB4U5CQ?pwd=yb5g" },
             { name: "夸克网盘", type: "quark", url: "https://pan.quark.cn/s/7050c5c7e754" }
         ]
     },
@@ -8557,9 +8557,9 @@ const books = [
         grade: "三年级",
         subject: "语文",
         publisher: "统编版出版社",
-        cover: "img/sample.jpg",
+        cover: "img/yw3a01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1DbsrIUFyZHqxibrMykWjZQ?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1MFFJ2wWAphv9m7xgB4U5CQ?pwd=yb5g" }
         ]
     },
     {
@@ -8569,9 +8569,9 @@ const books = [
         grade: "三年级",
         subject: "语文",
         publisher: "统编版出版社",
-        cover: "img/sample.jpg",
+        cover: "img/yw3b01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1mIAWao-IMtYS2opx4mNyZw?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1MFFJ2wWAphv9m7xgB4U5CQ?pwd=yb5g" }
         ]
     },
     {
@@ -8581,9 +8581,9 @@ const books = [
         grade: "二年级",
         subject: "语文",
         publisher: "统编版出版社",
-        cover: "img/sample.jpg",
+        cover: "img/yw2a01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1FBKCODEULaUPu8yEpDtxdA?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1MFFJ2wWAphv9m7xgB4U5CQ?pwd=yb5g" }
         ]
     },
     {
@@ -8593,9 +8593,9 @@ const books = [
         grade: "二年级",
         subject: "语文",
         publisher: "统编版出版社",
-        cover: "img/sample.jpg",
+        cover: "img/yw2b01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1SFVSOA17Rob3aDWdeuxYow?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1MFFJ2wWAphv9m7xgB4U5CQ?pwd=yb5g" }
         ]
     },
     {
@@ -8605,9 +8605,9 @@ const books = [
         grade: "五年级",
         subject: "语文",
         publisher: "统编版出版社",
-        cover: "img/sample.jpg",
+        cover: "img/yw5a01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1xjefbQcYw_AOmRcTRovRXg?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1MFFJ2wWAphv9m7xgB4U5CQ?pwd=yb5g" }
         ]
     },
     {
@@ -8617,9 +8617,9 @@ const books = [
         grade: "五年级",
         subject: "语文",
         publisher: "统编版出版社",
-        cover: "img/sample.jpg",
+        cover: "img/yw5b01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1s8cpNlCrBsYu1zzlDZsksw?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1MFFJ2wWAphv9m7xgB4U5CQ?pwd=yb5g" }
         ]
     },
     {
@@ -8629,9 +8629,9 @@ const books = [
         grade: "六年级",
         subject: "语文",
         publisher: "统编版出版社",
-        cover: "img/sample.jpg",
+        cover: "img/yw6a01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/18QhHLLy0vTcA4_ibI6fD0A?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1MFFJ2wWAphv9m7xgB4U5CQ?pwd=yb5g" }
         ]
     },
     {
@@ -8641,9 +8641,9 @@ const books = [
         grade: "六年级",
         subject: "语文",
         publisher: "统编版出版社",
-        cover: "img/sample.jpg",
+        cover: "img/yw6b01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1tGwq3pVmSboHecEzE2-eyg?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1MFFJ2wWAphv9m7xgB4U5CQ?pwd=yb5g" }
         ]
     },
     {
@@ -8653,9 +8653,9 @@ const books = [
         grade: "四年级",
         subject: "语文",
         publisher: "统编版出版社",
-        cover: "img/sample.jpg",
+        cover: "img/yw4a01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1kgQjoaO4aB3_GZu3Hftgcw?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1MFFJ2wWAphv9m7xgB4U5CQ?pwd=yb5g" }
         ]
     },
     {
@@ -8665,9 +8665,9 @@ const books = [
         grade: "四年级",
         subject: "语文",
         publisher: "统编版出版社",
-        cover: "img/sample.jpg",
+        cover: "img/yw4b01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1IlxrRkzBIXTxMPoK7yOR_g?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1MFFJ2wWAphv9m7xgB4U5CQ?pwd=yb5g" }
         ]
     },
     {
