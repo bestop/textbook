@@ -35,7 +35,7 @@ const books = [
         grade: "九年级",
         subject: "化学",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1l_FvlkXmI1USbdtZ2GwbXw?pwd=1234" }
         ]
@@ -47,7 +47,7 @@ const books = [
         grade: "九年级",
         subject: "化学",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1oMq-x5lE2cI0J48uqVk0oQ?pwd=1234" }
         ]
@@ -59,7 +59,7 @@ const books = [
         grade: "九年级",
         subject: "化学",
         publisher: "北京出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1ObkQDMNmhpe7WaNu0Vnq4w?pwd=1234" }
         ]
@@ -71,7 +71,7 @@ const books = [
         grade: "九年级",
         subject: "化学",
         publisher: "北京出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1ALivkk-sjdcJ7VXdE8NUOA?pwd=1234" }
         ]
@@ -83,7 +83,7 @@ const books = [
         grade: "九年级",
         subject: "化学",
         publisher: "上海教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1nSrJjEOfPC4uYW5AdVgvbw?pwd=1234" }
         ]
@@ -95,7 +95,7 @@ const books = [
         grade: "九年级",
         subject: "化学",
         publisher: "上海教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1KuXTonaLChBmFrzGU6m0Qw?pwd=1234" }
         ]
@@ -107,7 +107,7 @@ const books = [
         grade: "九年级",
         subject: "化学",
         publisher: "科学出版社、广东教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1-1abCoNojS8z9XwDCSfJlg?pwd=1234" }
         ]
@@ -119,7 +119,7 @@ const books = [
         grade: "九年级",
         subject: "化学",
         publisher: "科学出版社、广东教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1VFuCE5PZbgsCd1H9u2KWlw?pwd=1234" }
         ]
@@ -131,7 +131,7 @@ const books = [
         grade: "九年级",
         subject: "化学",
         publisher: "科学普及出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1K1Z-T-K0iStMITnHoFoeRw?pwd=1234" }
         ]
@@ -143,7 +143,7 @@ const books = [
         grade: "九年级",
         subject: "化学",
         publisher: "科学普及出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/12UKe2FyKkoLRzIxZVwyeVg?pwd=1234" }
         ]
@@ -155,7 +155,7 @@ const books = [
         grade: "九年级",
         subject: "化学",
         publisher: "山东教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1AziQixi6cKwkKv-X44cEzw?pwd=1234" }
         ]
@@ -167,7 +167,7 @@ const books = [
         grade: "九年级",
         subject: "化学",
         publisher: "山东教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/147Fw2sa_r3VW87Qi1dS0lw?pwd=1234" }
         ]
@@ -179,7 +179,7 @@ const books = [
         grade: "七年级",
         subject: "历史",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1QojbbgHf11Jb-X5jFNOXGg?pwd=1234" }
         ]
@@ -191,7 +191,7 @@ const books = [
         grade: "七年级",
         subject: "历史",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/10wVqBCMmHxE9NOmAf7jd0w?pwd=1234" }
         ]
@@ -203,7 +203,7 @@ const books = [
         grade: "九年级",
         subject: "历史",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/18GJ_9UpRLN9CiJiN98QMVA?pwd=1234" }
         ]
@@ -215,7 +215,7 @@ const books = [
         grade: "九年级",
         subject: "历史",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1pIs5xU_OVhV_9Loa9m3lHw?pwd=1234" }
         ]
@@ -227,7 +227,7 @@ const books = [
         grade: "八年级",
         subject: "历史",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1khSLtFMlVUSshFOSoMt26Q?pwd=1234" }
         ]
@@ -239,7 +239,7 @@ const books = [
         grade: "八年级",
         subject: "历史",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/11N8X7NXEs9jeXwb9UMS8gQ?pwd=1234" }
         ]
@@ -251,7 +251,7 @@ const books = [
         grade: "七年级",
         subject: "地理",
         publisher: "中国地图出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1HpyBOAm83myWnycJ5HpwXQ?pwd=1234" }
         ]
@@ -263,7 +263,7 @@ const books = [
         grade: "七年级",
         subject: "地理",
         publisher: "中国地图出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1vtBk43STmrxCv5hcqjD_Ag?pwd=1234" }
         ]
@@ -275,7 +275,7 @@ const books = [
         grade: "八年级",
         subject: "地理",
         publisher: "中国地图出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1lZsm342bhrOUCpCheQMSfw?pwd=1234" }
         ]
@@ -287,7 +287,7 @@ const books = [
         grade: "八年级",
         subject: "地理",
         publisher: "中国地图出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1dlZLTldBI5uUptXmLyDmyw?pwd=1234" }
         ]
@@ -299,7 +299,7 @@ const books = [
         grade: "七年级",
         subject: "地理",
         publisher: "中国地图出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1bjmrZbwVXURx7DdEvJlFzA?pwd=1234" }
         ]
@@ -311,7 +311,7 @@ const books = [
         grade: "七年级",
         subject: "地理",
         publisher: "中国地图出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1cCgKeejZvecnpq6oUlkdEA?pwd=1234" }
         ]
@@ -323,7 +323,7 @@ const books = [
         grade: "八年级",
         subject: "地理",
         publisher: "中国地图出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1p78WMPnYkOrWzdnOh8t2tw?pwd=1234" }
         ]
@@ -335,7 +335,7 @@ const books = [
         grade: "八年级",
         subject: "地理",
         publisher: "中国地图出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/12jPILECCIq9S2Bc5iyA3pg?pwd=1234" }
         ]
@@ -347,7 +347,7 @@ const books = [
         grade: "七年级",
         subject: "地理",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/10BFjwbQV9tq8FzriSmZd-w?pwd=1234" }
         ]
@@ -359,7 +359,7 @@ const books = [
         grade: "七年级",
         subject: "地理",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1BgUxcvvc6KT7HC85HtAMbw?pwd=1234" }
         ]
@@ -371,7 +371,7 @@ const books = [
         grade: "八年级",
         subject: "地理",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1tt8UPVHUU6fnUcMjYxyO-A?pwd=1234" }
         ]
@@ -383,7 +383,7 @@ const books = [
         grade: "八年级",
         subject: "地理",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1I1k6Mb8hytiV9OL5CK5NVA?pwd=1234" }
         ]
@@ -395,7 +395,7 @@ const books = [
         grade: "七年级",
         subject: "地理",
         publisher: "商务印书馆、星球地图出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1a0JQt-9jzDZMmyQq-K-YlQ?pwd=1234" }
         ]
@@ -407,7 +407,7 @@ const books = [
         grade: "七年级",
         subject: "地理",
         publisher: "商务印书馆、星球地图出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1ZiGwF8DtfDOS50yB-SLkWw?pwd=1234" }
         ]
@@ -419,7 +419,7 @@ const books = [
         grade: "八年级",
         subject: "地理",
         publisher: "商务印书馆、星球地图出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1FPBTIE11t4Tw94gLO8s7Og?pwd=1234" }
         ]
@@ -431,7 +431,7 @@ const books = [
         grade: "八年级",
         subject: "地理",
         publisher: "商务印书馆、星球地图出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1TpG3GQcwzxO-0YZoeqPF9w?pwd=1234" }
         ]
@@ -443,7 +443,7 @@ const books = [
         grade: "七年级",
         subject: "地理",
         publisher: "山西教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1dwrWDQF-IQy9hDwSDuYyjA?pwd=1234" }
         ]
@@ -455,7 +455,7 @@ const books = [
         grade: "七年级",
         subject: "地理",
         publisher: "山西教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1uJ1ahJZgu1maruloNUTrrw?pwd=1234" }
         ]
@@ -467,7 +467,7 @@ const books = [
         grade: "八年级",
         subject: "地理",
         publisher: "山西教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1tLdFyRdK_qW2t7ZIEPWazA?pwd=1234" }
         ]
@@ -479,7 +479,7 @@ const books = [
         grade: "八年级",
         subject: "地理",
         publisher: "山西教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1HespZOy-aQKl-QJ897jiog?pwd=1234" }
         ]
@@ -491,7 +491,7 @@ const books = [
         grade: "七年级",
         subject: "地理",
         publisher: "湖南教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/17MfY8WxeNcY4p9eNrschUw?pwd=1234" }
         ]
@@ -503,7 +503,7 @@ const books = [
         grade: "七年级",
         subject: "地理",
         publisher: "湖南教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1K5gE23P-q3LhktzX5bKxiw?pwd=1234" }
         ]
@@ -515,7 +515,7 @@ const books = [
         grade: "八年级",
         subject: "地理",
         publisher: "湖南教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1l-0H_T376nQ3fcE_U8y73Q?pwd=1234" }
         ]
@@ -527,7 +527,7 @@ const books = [
         grade: "八年级",
         subject: "地理",
         publisher: "湖南教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1AmPLaYIuaJpbdJuyFkY7Vg?pwd=1234" }
         ]
@@ -539,7 +539,7 @@ const books = [
         grade: "七年级",
         subject: "地理",
         publisher: "科学普及出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/13VKAgcFFVk4ah-cgejpFdw?pwd=1234" }
         ]
@@ -551,7 +551,7 @@ const books = [
         grade: "七年级",
         subject: "地理",
         publisher: "科学普及出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1IKT_ArabJ2Ek1PYZj0h1BA?pwd=1234" }
         ]
@@ -563,7 +563,7 @@ const books = [
         grade: "八年级",
         subject: "地理",
         publisher: "科学普及出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1PoiBX8JIgEYaKa2aYpBjkw?pwd=1234" }
         ]
@@ -575,7 +575,7 @@ const books = [
         grade: "八年级",
         subject: "地理",
         publisher: "科学普及出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1lJ_G5_AGG3GbPfnsoB7XAQ?pwd=1234" }
         ]
@@ -587,7 +587,7 @@ const books = [
         grade: "七年级",
         subject: "地理",
         publisher: "广东教育出版社、广东人民出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1vtH_mnhdi4eggoXKvktMdQ?pwd=1234" }
         ]
@@ -599,7 +599,7 @@ const books = [
         grade: "七年级",
         subject: "地理",
         publisher: "广东教育出版社、广东人民出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1mo800UK-pvLRISSg90VV2w?pwd=1234" }
         ]
@@ -611,7 +611,7 @@ const books = [
         grade: "八年级",
         subject: "地理",
         publisher: "广东教育出版社、广东人民出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1rZhMuzPjSOLRdCQcxYmQrw?pwd=1234" }
         ]
@@ -623,7 +623,7 @@ const books = [
         grade: "八年级",
         subject: "地理",
         publisher: "广东教育出版社、广东人民出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1j0mmGIWjVPF1SMILzG5VfQ?pwd=1234" }
         ]
@@ -635,7 +635,7 @@ const books = [
         grade: "七年级",
         subject: "数学",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1K3IX4MzRqWxwvHpf-CKV1Q?pwd=1234" }
         ]
@@ -647,7 +647,7 @@ const books = [
         grade: "七年级",
         subject: "数学",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/14YQqC7p6jwkm-rumgKpq7g?pwd=1234" }
         ]
@@ -659,7 +659,7 @@ const books = [
         grade: "九年级",
         subject: "数学",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1RgZiLh1K7PtuVPswJ0uzjQ?pwd=1234" }
         ]
@@ -671,7 +671,7 @@ const books = [
         grade: "九年级",
         subject: "数学",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1q508HmMcQtUDrDBgcWyEMA?pwd=1234" }
         ]
@@ -683,7 +683,7 @@ const books = [
         grade: "八年级",
         subject: "数学",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1jcI8X5zZQZKeRlywd0jZ9Q?pwd=1234" }
         ]
@@ -695,7 +695,7 @@ const books = [
         grade: "八年级",
         subject: "数学",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1SsSQHGudkpQJOn0okcuwZg?pwd=1234" }
         ]
@@ -707,7 +707,7 @@ const books = [
         grade: "七年级",
         subject: "数学",
         publisher: "河北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1cF0me1MI23HwcWjC1YQzPQ?pwd=1234" }
         ]
@@ -719,7 +719,7 @@ const books = [
         grade: "七年级",
         subject: "数学",
         publisher: "河北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1GkIz6mBAEyraSyeRPJ-sFA?pwd=1234" }
         ]
@@ -731,7 +731,7 @@ const books = [
         grade: "九年级",
         subject: "数学",
         publisher: "河北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1itdRsXfyny8UgYolFK8Dvg?pwd=1234" }
         ]
@@ -743,7 +743,7 @@ const books = [
         grade: "九年级",
         subject: "数学",
         publisher: "河北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1PAVRPZeMaVSe_ghEi8rpWw?pwd=1234" }
         ]
@@ -755,7 +755,7 @@ const books = [
         grade: "八年级",
         subject: "数学",
         publisher: "河北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1itNC9uupyPmta1aSvqmMuA?pwd=1234" }
         ]
@@ -767,7 +767,7 @@ const books = [
         grade: "八年级",
         subject: "数学",
         publisher: "河北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1deS8oTso7YZh3CuTrvdECA?pwd=1234" }
         ]
@@ -779,7 +779,7 @@ const books = [
         grade: "七年级",
         subject: "数学",
         publisher: "北京出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1VCpX8snaBZ-JPNLknh2NAA?pwd=1234" }
         ]
@@ -791,7 +791,7 @@ const books = [
         grade: "七年级",
         subject: "数学",
         publisher: "北京出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1XjGTT_nvAuZkH5ejON11_A?pwd=1234" }
         ]
@@ -803,7 +803,7 @@ const books = [
         grade: "九年级",
         subject: "数学",
         publisher: "北京出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1k0iunDamWnMSEM6kzmlywA?pwd=1234" }
         ]
@@ -815,7 +815,7 @@ const books = [
         grade: "八年级",
         subject: "数学",
         publisher: "北京出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1nT3cTLfREVvaufC0uxuXtg?pwd=1234" }
         ]
@@ -827,7 +827,7 @@ const books = [
         grade: "七年级",
         subject: "数学",
         publisher: "华东师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/11R6oHjAirw9b3mk4MPCtUw?pwd=1234" }
         ]
@@ -839,7 +839,7 @@ const books = [
         grade: "七年级",
         subject: "数学",
         publisher: "华东师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1F_OIp0qH7E5Q1r57upW4tQ?pwd=1234" }
         ]
@@ -851,7 +851,7 @@ const books = [
         grade: "九年级",
         subject: "数学",
         publisher: "华东师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1kLuIsbZjG_nQ6B_IAGFwHg?pwd=1234" }
         ]
@@ -863,7 +863,7 @@ const books = [
         grade: "九年级",
         subject: "数学",
         publisher: "华东师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1mwM3LgvrBQw4f14zs_lS_Q?pwd=1234" }
         ]
@@ -875,7 +875,7 @@ const books = [
         grade: "八年级",
         subject: "数学",
         publisher: "华东师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1k_MKsJrW_AeGQogjSeOBag?pwd=1234" }
         ]
@@ -887,7 +887,7 @@ const books = [
         grade: "八年级",
         subject: "数学",
         publisher: "华东师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1hL6vFqhSPjWwyi2d22Fl9g?pwd=1234" }
         ]
@@ -899,7 +899,7 @@ const books = [
         grade: "七年级",
         subject: "数学",
         publisher: "上海科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1lBv6COnweS5mmED-ik_3mA?pwd=1234" }
         ]
@@ -911,7 +911,7 @@ const books = [
         grade: "七年级",
         subject: "数学",
         publisher: "上海科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1jxLcBFcharTQ_YOM7IZjKw?pwd=1234" }
         ]
@@ -923,7 +923,7 @@ const books = [
         grade: "九年级",
         subject: "数学",
         publisher: "上海科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1t65669leg9OGN6ERqtZjIA?pwd=1234" }
         ]
@@ -935,7 +935,7 @@ const books = [
         grade: "九年级",
         subject: "数学",
         publisher: "上海科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1J1uMwjFua09R0sjO0AMr2g?pwd=1234" }
         ]
@@ -947,7 +947,7 @@ const books = [
         grade: "八年级",
         subject: "数学",
         publisher: "上海科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1ozEOU6OuIDXjhY-sPTo6Hg?pwd=1234" }
         ]
@@ -959,7 +959,7 @@ const books = [
         grade: "八年级",
         subject: "数学",
         publisher: "上海科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1eateuvKFTV1ELeKKhuK_Nw?pwd=1234" }
         ]
@@ -971,7 +971,7 @@ const books = [
         grade: "七年级",
         subject: "数学",
         publisher: "浙江教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1615rBsMfmOZGYT2RUfkQFQ?pwd=1234" }
         ]
@@ -983,7 +983,7 @@ const books = [
         grade: "七年级",
         subject: "数学",
         publisher: "浙江教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/10-OL_nGX_4Pp5zBAjiKJ3Q?pwd=1234" }
         ]
@@ -995,7 +995,7 @@ const books = [
         grade: "九年级",
         subject: "数学",
         publisher: "浙江教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/171Rfx4bWDzZ5lapPRgBY6g?pwd=1234" }
         ]
@@ -1007,7 +1007,7 @@ const books = [
         grade: "九年级",
         subject: "数学",
         publisher: "浙江教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1oij8z85Ozw4YDw30-rIVaA?pwd=1234" }
         ]
@@ -1019,7 +1019,7 @@ const books = [
         grade: "八年级",
         subject: "数学",
         publisher: "浙江教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1YwaKgJ-v3F2uTYni5DY5XA?pwd=1234" }
         ]
@@ -1031,7 +1031,7 @@ const books = [
         grade: "八年级",
         subject: "数学",
         publisher: "浙江教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1IhuO4Q846JerflXljOBkIw?pwd=1234" }
         ]
@@ -1043,7 +1043,7 @@ const books = [
         grade: "七年级",
         subject: "数学",
         publisher: "湖南教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1OadqzOAfnmUpOiPRoiv58g?pwd=1234" }
         ]
@@ -1055,7 +1055,7 @@ const books = [
         grade: "七年级",
         subject: "数学",
         publisher: "湖南教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1DTOAs0zCKxBHxIBZ8fZlGw?pwd=1234" }
         ]
@@ -1067,7 +1067,7 @@ const books = [
         grade: "九年级",
         subject: "数学",
         publisher: "湖南教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1JlJVt_Lxux7z_Xv8GbuAEA?pwd=1234" }
         ]
@@ -1079,7 +1079,7 @@ const books = [
         grade: "九年级",
         subject: "数学",
         publisher: "湖南教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1h2dwY2XHkxfn2bzWOXsliA?pwd=1234" }
         ]
@@ -1091,7 +1091,7 @@ const books = [
         grade: "八年级",
         subject: "数学",
         publisher: "湖南教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/18M1U7UFgQSPHZzrmj6I_hQ?pwd=1234" }
         ]
@@ -1103,7 +1103,7 @@ const books = [
         grade: "八年级",
         subject: "数学",
         publisher: "湖南教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1fodi-foQSKqLhfruru1mXQ?pwd=1234" }
         ]
@@ -1115,7 +1115,7 @@ const books = [
         grade: "七年级",
         subject: "数学",
         publisher: "江苏凤凰科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1JIOt8UV7S6DwSix3bHFqkg?pwd=1234" }
         ]
@@ -1127,7 +1127,7 @@ const books = [
         grade: "九年级",
         subject: "数学",
         publisher: "江苏凤凰科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/18BjCL_PCOHYTwcZukXbYyg?pwd=1234" }
         ]
@@ -1139,7 +1139,7 @@ const books = [
         grade: "九年级",
         subject: "数学",
         publisher: "江苏凤凰科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/19pFX1i6NYH-YOZr4NemzvA?pwd=1234" }
         ]
@@ -1151,7 +1151,7 @@ const books = [
         grade: "八年级",
         subject: "数学",
         publisher: "江苏凤凰科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1t9EsrC8Ja4faZx4WXulcOw?pwd=1234" }
         ]
@@ -1163,7 +1163,7 @@ const books = [
         grade: "八年级",
         subject: "数学",
         publisher: "江苏凤凰科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1DZIEr40Geo4fzCzrPkU_eA?pwd=1234" }
         ]
@@ -1175,7 +1175,7 @@ const books = [
         grade: "七年级",
         subject: "数学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1kbd-BppxPBAhbk4HRf8ZFw?pwd=1234" }
         ]
@@ -1187,7 +1187,7 @@ const books = [
         grade: "七年级",
         subject: "数学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1WYzvNG6NvLnkm71Dka_Irw?pwd=1234" }
         ]
@@ -1199,7 +1199,7 @@ const books = [
         grade: "九年级",
         subject: "数学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1tjn0Oy_Fr1wEK7hYYKH0-A?pwd=1234" }
         ]
@@ -1211,7 +1211,7 @@ const books = [
         grade: "九年级",
         subject: "数学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/14EEIeh7kWKPjKuV-DXpz3Q?pwd=1234" }
         ]
@@ -1223,7 +1223,7 @@ const books = [
         grade: "八年级",
         subject: "数学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/15eEi1jipDoX_8NxRkrBlyA?pwd=1234" }
         ]
@@ -1235,7 +1235,7 @@ const books = [
         grade: "八年级",
         subject: "数学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1x-VBSUNlmWTLQJVlhduprw?pwd=1234" }
         ]
@@ -1247,7 +1247,7 @@ const books = [
         grade: "九年级",
         subject: "物理",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/12gwq3DIbfS3IFDu594AyyQ?pwd=1234" }
         ]
@@ -1259,7 +1259,7 @@ const books = [
         grade: "八年级",
         subject: "物理",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1p4fWL2xxVld90Ub8DW4aog?pwd=1234" }
         ]
@@ -1271,7 +1271,7 @@ const books = [
         grade: "八年级",
         subject: "物理",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1dqo-sSkrZlR1EZ3aa0DiAg?pwd=1234" }
         ]
@@ -1283,7 +1283,7 @@ const books = [
         grade: "九年级",
         subject: "物理",
         publisher: "北京师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1XIHHUrYHuhpSNifrISR6mA?pwd=1234" }
         ]
@@ -1295,7 +1295,7 @@ const books = [
         grade: "八年级",
         subject: "物理",
         publisher: "北京师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1DwUTXux-0oMV8yhg7YJcLA?pwd=1234" }
         ]
@@ -1307,7 +1307,7 @@ const books = [
         grade: "九年级",
         subject: "物理",
         publisher: "北京师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1AME6dvkUhAlQUA90wa2uXQ?pwd=1234" }
         ]
@@ -1319,7 +1319,7 @@ const books = [
         grade: "八年级",
         subject: "物理",
         publisher: "北京师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1G0nmBq35dpeyT08yyxO6hw?pwd=1234" }
         ]
@@ -1331,7 +1331,7 @@ const books = [
         grade: "八年级",
         subject: "物理",
         publisher: "北京师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1llP0KdRRmZWIes67ELC73A?pwd=1234" }
         ]
@@ -1343,7 +1343,7 @@ const books = [
         grade: "九年级",
         subject: "物理",
         publisher: "教育科学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1NLdEt5Az-vSeRKr5uLIt1A?pwd=1234" }
         ]
@@ -1355,7 +1355,7 @@ const books = [
         grade: "九年级",
         subject: "物理",
         publisher: "教育科学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1ZtD6Z8FJsyxVInyA8dhDFA?pwd=1234" }
         ]
@@ -1367,7 +1367,7 @@ const books = [
         grade: "八年级",
         subject: "物理",
         publisher: "教育科学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1zCKvJ0dC1A0vhsMTN_yBvQ?pwd=1234" }
         ]
@@ -1379,7 +1379,7 @@ const books = [
         grade: "八年级",
         subject: "物理",
         publisher: "教育科学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1RPpRqWF0cW7n4tJZPgH1sw?pwd=1234" }
         ]
@@ -1391,7 +1391,7 @@ const books = [
         grade: "九年级",
         subject: "物理",
         publisher: "上海科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1YVaKfC8e7qM4vpFMwVBTAQ?pwd=1234" }
         ]
@@ -1403,7 +1403,7 @@ const books = [
         grade: "八年级",
         subject: "物理",
         publisher: "上海科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1P0gRTEohT7z6Zz7uQvMdEQ?pwd=1234" }
         ]
@@ -1415,7 +1415,7 @@ const books = [
         grade: "九年级",
         subject: "物理",
         publisher: "上海科学技术出版社、广东教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1QHlkiIPtxnT7FreN_a5j8Q?pwd=1234" }
         ]
@@ -1427,7 +1427,7 @@ const books = [
         grade: "九年级",
         subject: "物理",
         publisher: "上海科学技术出版社、广东教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1j52BenSQvFLeyySmrY_lBQ?pwd=1234" }
         ]
@@ -1439,7 +1439,7 @@ const books = [
         grade: "八年级",
         subject: "物理",
         publisher: "上海科学技术出版社、广东教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1qVhUD9ldNdfS5f9bqeS3Bg?pwd=1234" }
         ]
@@ -1451,7 +1451,7 @@ const books = [
         grade: "八年级",
         subject: "物理",
         publisher: "上海科学技术出版社、广东教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1w82HUCGCi-BM_NlWlOEDbQ?pwd=1234" }
         ]
@@ -1463,7 +1463,7 @@ const books = [
         grade: "九年级",
         subject: "物理",
         publisher: "江苏凤凰科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/12Sf3pxJ1l_W7GuXYBP-WFQ?pwd=1234" }
         ]
@@ -1475,7 +1475,7 @@ const books = [
         grade: "九年级",
         subject: "物理",
         publisher: "江苏凤凰科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/18Wu4F5JnMPs1iYtawjAX6Q?pwd=1234" }
         ]
@@ -1487,7 +1487,7 @@ const books = [
         grade: "八年级",
         subject: "物理",
         publisher: "江苏凤凰科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1PPCxwKCvEAUAxgRSfPcf9A?pwd=1234" }
         ]
@@ -1499,7 +1499,7 @@ const books = [
         grade: "八年级",
         subject: "物理",
         publisher: "江苏凤凰科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1oVQHdVrQyz3mDcJYgtWC_w?pwd=1234" }
         ]
@@ -1511,7 +1511,7 @@ const books = [
         grade: "七年级",
         subject: "生物学",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/11kglhE1OvQArPyDA24WdEQ?pwd=1234" }
         ]
@@ -1523,7 +1523,7 @@ const books = [
         grade: "七年级",
         subject: "生物学",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1BPcAFCvVi5EXJ6PVae0rYA?pwd=1234" }
         ]
@@ -1535,7 +1535,7 @@ const books = [
         grade: "八年级",
         subject: "生物学",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1ZbD6Z2_EDR5tyS-6FtZ75A?pwd=1234" }
         ]
@@ -1547,7 +1547,7 @@ const books = [
         grade: "八年级",
         subject: "生物学",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1fam6bcZOKajGHwb9gkYGAg?pwd=1234" }
         ]
@@ -1559,7 +1559,7 @@ const books = [
         grade: "七年级",
         subject: "生物学",
         publisher: "河北少年儿童出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1Zyjh9XRBOQv0zd_S-13Ngg?pwd=1234" }
         ]
@@ -1571,7 +1571,7 @@ const books = [
         grade: "七年级",
         subject: "生物学",
         publisher: "河北少年儿童出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1Dh5TCJR9qCiY8LMsMXnkdg?pwd=1234" }
         ]
@@ -1583,7 +1583,7 @@ const books = [
         grade: "八年级",
         subject: "生物学",
         publisher: "河北少年儿童出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1rIRkUO1xu8lZ-Q-ZclWfNw?pwd=1234" }
         ]
@@ -1595,7 +1595,7 @@ const books = [
         grade: "八年级",
         subject: "生物学",
         publisher: "河北少年儿童出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1piRRJvWT_nRXa3YHK0k6eg?pwd=1234" }
         ]
@@ -1607,7 +1607,7 @@ const books = [
         grade: "七年级",
         subject: "生物学",
         publisher: "北京出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1MGLfebrUQ_s1oJK8JdOA3A?pwd=1234" }
         ]
@@ -1619,7 +1619,7 @@ const books = [
         grade: "七年级",
         subject: "生物学",
         publisher: "北京出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/11KEEjWYdTjKvDSzKKUPM4g?pwd=1234" }
         ]
@@ -1631,7 +1631,7 @@ const books = [
         grade: "八年级",
         subject: "生物学",
         publisher: "北京出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/11YRl5zm6XunRNRdlBnAx4w?pwd=1234" }
         ]
@@ -1643,7 +1643,7 @@ const books = [
         grade: "八年级",
         subject: "生物学",
         publisher: "北京出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/10_cClX9C4qQgbiyhxWlSGQ?pwd=1234" }
         ]
@@ -1655,7 +1655,7 @@ const books = [
         grade: "七年级",
         subject: "生物学",
         publisher: "北京师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1MaDLgFBassx1pM7H49ay8A?pwd=1234" }
         ]
@@ -1667,7 +1667,7 @@ const books = [
         grade: "七年级",
         subject: "生物学",
         publisher: "北京师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1QXF1fJSYDNX0myiOBjei5w?pwd=1234" }
         ]
@@ -1679,7 +1679,7 @@ const books = [
         grade: "八年级",
         subject: "生物学",
         publisher: "北京师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1x9ufmOJNBYBdfX7gBvnS3Q?pwd=1234" }
         ]
@@ -1691,7 +1691,7 @@ const books = [
         grade: "八年级",
         subject: "生物学",
         publisher: "北京师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1VnLO3Tbgbi5X7RY8cGm5CA?pwd=1234" }
         ]
@@ -1703,7 +1703,7 @@ const books = [
         grade: "七年级",
         subject: "生物学",
         publisher: "济南出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1d3xfmaZSPwSpAkKlX8QF2w?pwd=1234" }
         ]
@@ -1715,7 +1715,7 @@ const books = [
         grade: "七年级",
         subject: "生物学",
         publisher: "济南出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1_IcEbLRaaZjRUgN-4NGdnA?pwd=1234" }
         ]
@@ -1727,7 +1727,7 @@ const books = [
         grade: "八年级",
         subject: "生物学",
         publisher: "济南出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/19ijwEThT46KnOWIsmanTdA?pwd=1234" }
         ]
@@ -1739,7 +1739,7 @@ const books = [
         grade: "八年级",
         subject: "生物学",
         publisher: "济南出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1jhgthcof4ogm-HjANWCLXQ?pwd=1234" }
         ]
@@ -1751,7 +1751,7 @@ const books = [
         grade: "七年级",
         subject: "生物学",
         publisher: "江苏凤凰教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1gspjsjZZenqS-hqYfvTIVQ?pwd=1234" }
         ]
@@ -1763,7 +1763,7 @@ const books = [
         grade: "七年级",
         subject: "生物学",
         publisher: "江苏凤凰教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1ymW7tX94Z-_Qj6p4D6U04A?pwd=1234" }
         ]
@@ -1775,7 +1775,7 @@ const books = [
         grade: "八年级",
         subject: "生物学",
         publisher: "江苏凤凰教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1ySKfe_CI3e6AY4RiztEg-w?pwd=1234" }
         ]
@@ -1787,7 +1787,7 @@ const books = [
         grade: "八年级",
         subject: "生物学",
         publisher: "江苏凤凰教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/19wkTaZzJmUcQ5qnafgg1FA?pwd=1234" }
         ]
@@ -1799,7 +1799,7 @@ const books = [
         grade: "七年级",
         subject: "生物学",
         publisher: "江苏凤凰科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1Nill0hDQ8U84aU-HW3bT1w?pwd=1234" }
         ]
@@ -1811,7 +1811,7 @@ const books = [
         grade: "七年级",
         subject: "生物学",
         publisher: "江苏凤凰科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1Nh1A-tL00wbid5WTcHtFYQ?pwd=1234" }
         ]
@@ -1823,7 +1823,7 @@ const books = [
         grade: "八年级",
         subject: "生物学",
         publisher: "江苏凤凰科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1BFgn4LltgFsm8mhyCytcIQ?pwd=1234" }
         ]
@@ -1835,7 +1835,7 @@ const books = [
         grade: "八年级",
         subject: "生物学",
         publisher: "江苏凤凰科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1O82rveGA5ZA2WHsW1bzJdg?pwd=1234" }
         ]
@@ -1847,7 +1847,7 @@ const books = [
         grade: "七年级",
         subject: "科学",
         publisher: "华东师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1bFwGR9Lbg7YnaGuQol_UdA?pwd=1234" }
         ]
@@ -1859,7 +1859,7 @@ const books = [
         grade: "七年级",
         subject: "科学",
         publisher: "华东师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1egWaDu7ptl9SXb9U5EoOfw?pwd=1234" }
         ]
@@ -1871,7 +1871,7 @@ const books = [
         grade: "九年级",
         subject: "科学",
         publisher: "华东师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1fAVJXyAJOj7Mf3SozJCjUA?pwd=1234" }
         ]
@@ -1883,7 +1883,7 @@ const books = [
         grade: "九年级",
         subject: "科学",
         publisher: "华东师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1b_MrUmg6HEnsULkF-kaBYA?pwd=1234" }
         ]
@@ -1895,7 +1895,7 @@ const books = [
         grade: "八年级",
         subject: "科学",
         publisher: "华东师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1hpcuYBTlNnWvQ-gzwtmpAw?pwd=1234" }
         ]
@@ -1907,7 +1907,7 @@ const books = [
         grade: "八年级",
         subject: "科学",
         publisher: "华东师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1iCMXTyTAyc_XKxbAraSySg?pwd=1234" }
         ]
@@ -1919,7 +1919,7 @@ const books = [
         grade: "七年级",
         subject: "科学",
         publisher: "武汉出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1yE8SYlG9mmeskDBntLU11A?pwd=1234" }
         ]
@@ -1931,7 +1931,7 @@ const books = [
         grade: "七年级",
         subject: "科学",
         publisher: "武汉出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1ZfGLRaNLqd5augoJPcuEEA?pwd=1234" }
         ]
@@ -1943,7 +1943,7 @@ const books = [
         grade: "九年级",
         subject: "科学",
         publisher: "武汉出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1IDblinAEyiIcMZ2c3GIrZg?pwd=1234" }
         ]
@@ -1955,7 +1955,7 @@ const books = [
         grade: "九年级",
         subject: "科学",
         publisher: "武汉出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1R3ycCCyUr9MM0h0-ZHPViw?pwd=1234" }
         ]
@@ -1967,7 +1967,7 @@ const books = [
         grade: "八年级",
         subject: "科学",
         publisher: "武汉出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1OzTQXi5LlDoxMlhMpeb_yg?pwd=1234" }
         ]
@@ -1979,7 +1979,7 @@ const books = [
         grade: "八年级",
         subject: "科学",
         publisher: "武汉出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1vTSMP8QUi09wYNNKVyxoLA?pwd=1234" }
         ]
@@ -1991,7 +1991,7 @@ const books = [
         grade: "七年级",
         subject: "科学",
         publisher: "上海教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1AKGQQJf1vSw75OBnSSikLw?pwd=1234" }
         ]
@@ -2003,7 +2003,7 @@ const books = [
         grade: "七年级",
         subject: "科学",
         publisher: "上海教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1q4CtsOb-Tj8BYaC-JvayAQ?pwd=1234" }
         ]
@@ -2015,7 +2015,7 @@ const books = [
         grade: "九年级",
         subject: "科学",
         publisher: "上海教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1UI-UhbfaLS3wJ0aM0W7HMA?pwd=1234" }
         ]
@@ -2027,7 +2027,7 @@ const books = [
         grade: "九年级",
         subject: "科学",
         publisher: "上海教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1QIn5k5hk6W1w6ivfd2Y7QA?pwd=1234" }
         ]
@@ -2039,7 +2039,7 @@ const books = [
         grade: "八年级",
         subject: "科学",
         publisher: "上海教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1F3WUhtM_gHv-ztJ32_WdYg?pwd=1234" }
         ]
@@ -2051,7 +2051,7 @@ const books = [
         grade: "八年级",
         subject: "科学",
         publisher: "上海教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1glwhBPO6Fr1b2rlwey-Ldg?pwd=1234" }
         ]
@@ -2063,7 +2063,7 @@ const books = [
         grade: "七年级",
         subject: "科学",
         publisher: "浙江教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1KPccecu9O0CWlTVnjh0wXQ?pwd=1234" }
         ]
@@ -2075,7 +2075,7 @@ const books = [
         grade: "七年级",
         subject: "科学",
         publisher: "浙江教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1ZXYiZ4lyj6YliO6e_2CFqQ?pwd=1234" }
         ]
@@ -2087,7 +2087,7 @@ const books = [
         grade: "九年级",
         subject: "科学",
         publisher: "浙江教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1nhiSGKew6Pnd7pa6Ufg-zA?pwd=1234" }
         ]
@@ -2099,7 +2099,7 @@ const books = [
         grade: "九年级",
         subject: "科学",
         publisher: "浙江教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1nYhCHT-CS8jiu5MsXKFJGA?pwd=1234" }
         ]
@@ -2111,7 +2111,7 @@ const books = [
         grade: "八年级",
         subject: "科学",
         publisher: "浙江教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1-_GLrTDMNkPfhqlQiFF77Q?pwd=1234" }
         ]
@@ -2123,7 +2123,7 @@ const books = [
         grade: "八年级",
         subject: "科学",
         publisher: "浙江教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1950sRQxWqSLGbThxhRdhOA?pwd=1234" }
         ]
@@ -2135,7 +2135,7 @@ const books = [
         grade: "七年级",
         subject: "英语",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1leza_WJXgVCotuvO5HrUtg?pwd=1234" }
         ]
@@ -2147,7 +2147,7 @@ const books = [
         grade: "七年级",
         subject: "英语",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1I10Ooy7RyOAGwhF5XGws3A?pwd=1234" }
         ]
@@ -2159,7 +2159,7 @@ const books = [
         grade: "九年级",
         subject: "英语",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1Jr5Wz8ptJiDUlqh7WRV2eg?pwd=1234" }
         ]
@@ -2171,7 +2171,7 @@ const books = [
         grade: "八年级",
         subject: "英语",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/18cp6cj3n2JG3IvtP6mkGWQ?pwd=1234" }
         ]
@@ -2183,7 +2183,7 @@ const books = [
         grade: "八年级",
         subject: "英语",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1VKt3F-PUpLC2pzz1S8Bz5w?pwd=1234" }
         ]
@@ -2195,7 +2195,7 @@ const books = [
         grade: "七年级",
         subject: "英语",
         publisher: "河北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1UEynndvJHxF5R8SQadKlhQ?pwd=1234" }
         ]
@@ -2207,7 +2207,7 @@ const books = [
         grade: "七年级",
         subject: "英语",
         publisher: "河北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1ixfbSQeEVGYziMHUZvHCXA?pwd=1234" }
         ]
@@ -2219,7 +2219,7 @@ const books = [
         grade: "九年级",
         subject: "英语",
         publisher: "河北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1GiG9tov30Cf7EtHnh1p6MA?pwd=1234" }
         ]
@@ -2231,7 +2231,7 @@ const books = [
         grade: "八年级",
         subject: "英语",
         publisher: "河北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1aYetqucBotvuMmBv5hAqMQ?pwd=1234" }
         ]
@@ -2243,7 +2243,7 @@ const books = [
         grade: "八年级",
         subject: "英语",
         publisher: "河北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1PhwdZzawBt3ZLdcHP86ZQw?pwd=1234" }
         ]
@@ -2255,7 +2255,7 @@ const books = [
         grade: "七年级",
         subject: "英语",
         publisher: "外语教学与研究出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1gXJAuaj7oZwsYpRRX4TlVQ?pwd=1234" }
         ]
@@ -2267,7 +2267,7 @@ const books = [
         grade: "七年级",
         subject: "英语",
         publisher: "外语教学与研究出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1ifUZTgjk8WA96CnEOnbt3w?pwd=1234" }
         ]
@@ -2279,7 +2279,7 @@ const books = [
         grade: "九年级",
         subject: "英语",
         publisher: "外语教学与研究出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1qNkbbvQpZKFVLV3GFT009Q?pwd=1234" }
         ]
@@ -2291,7 +2291,7 @@ const books = [
         grade: "九年级",
         subject: "英语",
         publisher: "外语教学与研究出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1cx9dphSxjW-0O6_-XCdUZg?pwd=1234" }
         ]
@@ -2303,7 +2303,7 @@ const books = [
         grade: "八年级",
         subject: "英语",
         publisher: "外语教学与研究出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1ycsmbyP_U_2kQ4WZz7-PFQ?pwd=1234" }
         ]
@@ -2315,7 +2315,7 @@ const books = [
         grade: "八年级",
         subject: "英语",
         publisher: "外语教学与研究出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1M_Kc_ZOoUcuQrxskgRbA2g?pwd=1234" }
         ]
@@ -2327,7 +2327,7 @@ const books = [
         grade: "七年级",
         subject: "英语",
         publisher: "上海外语教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1woYZPMPBUkBZfhY9x2tjxA?pwd=1234" }
         ]
@@ -2339,7 +2339,7 @@ const books = [
         grade: "七年级",
         subject: "英语",
         publisher: "上海外语教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/14_tx5OaRhZ6xotgtLCFY_w?pwd=1234" }
         ]
@@ -2351,7 +2351,7 @@ const books = [
         grade: "九年级",
         subject: "英语",
         publisher: "上海外语教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1C_gcM8j5NzhqMNs6XsWiAg?pwd=1234" }
         ]
@@ -2363,7 +2363,7 @@ const books = [
         grade: "九年级",
         subject: "英语",
         publisher: "上海外语教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/18fXKYu8ssdGBVUi1MZzLyQ?pwd=1234" }
         ]
@@ -2375,7 +2375,7 @@ const books = [
         grade: "八年级",
         subject: "英语",
         publisher: "上海外语教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1H-yxHGndrrI9HJfR_oRyMw?pwd=1234" }
         ]
@@ -2387,7 +2387,7 @@ const books = [
         grade: "八年级",
         subject: "英语",
         publisher: "上海外语教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1JtwZil2DkhEI1kYLHXWThg?pwd=1234" }
         ]
@@ -2399,7 +2399,7 @@ const books = [
         grade: "七年级",
         subject: "英语",
         publisher: "上海教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/12roYjn7sy2J-NCSSlF6bMw?pwd=1234" }
         ]
@@ -2411,7 +2411,7 @@ const books = [
         grade: "七年级",
         subject: "英语",
         publisher: "上海教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1lJD32cJ9N4jiKqDpMlrNzw?pwd=1234" }
         ]
@@ -2423,7 +2423,7 @@ const books = [
         grade: "九年级",
         subject: "英语",
         publisher: "上海教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1d1bQxYbyG-LX8W93SdaJQg?pwd=1234" }
         ]
@@ -2435,7 +2435,7 @@ const books = [
         grade: "九年级",
         subject: "英语",
         publisher: "上海教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1iPO-2j5cTrqaI9BSC5-rYg?pwd=1234" }
         ]
@@ -2447,7 +2447,7 @@ const books = [
         grade: "八年级",
         subject: "英语",
         publisher: "上海教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1xarudbscrDUR4RIsJjof8w?pwd=1234" }
         ]
@@ -2459,7 +2459,7 @@ const books = [
         grade: "八年级",
         subject: "英语",
         publisher: "上海教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1MtGWBJ-kYPj8H-Ft97BYEw?pwd=1234" }
         ]
@@ -2471,7 +2471,7 @@ const books = [
         grade: "七年级",
         subject: "英语",
         publisher: "科学普及出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1PDa1GsNHTe4OND9D7hMVzg?pwd=1234" }
         ]
@@ -2483,7 +2483,7 @@ const books = [
         grade: "七年级",
         subject: "英语",
         publisher: "科学普及出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1LJ0hQChvVCdMKc9AQEF0aw?pwd=1234" }
         ]
@@ -2495,7 +2495,7 @@ const books = [
         grade: "九年级",
         subject: "英语",
         publisher: "科学普及出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1BGCmRTxSjQ5vH04Ii6w_4w?pwd=1234" }
         ]
@@ -2507,7 +2507,7 @@ const books = [
         grade: "九年级",
         subject: "英语",
         publisher: "科学普及出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1-PUZR9MFQ3Y0Oe3wrReOtQ?pwd=1234" }
         ]
@@ -2519,7 +2519,7 @@ const books = [
         grade: "八年级",
         subject: "英语",
         publisher: "科学普及出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1DdGGGir5_Kce9StSxj1hzg?pwd=1234" }
         ]
@@ -2531,7 +2531,7 @@ const books = [
         grade: "八年级",
         subject: "英语",
         publisher: "科学普及出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1IwvOGdxGpJL9FBhLjRrS4A?pwd=1234" }
         ]
@@ -2543,7 +2543,7 @@ const books = [
         grade: "七年级",
         subject: "语文",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1C3yE0fGWEJtXKpVJyqVrKQ?pwd=1234" }
         ]
@@ -2555,7 +2555,7 @@ const books = [
         grade: "七年级",
         subject: "语文",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1GioEBayzEbTh02NnxCesrA?pwd=1234" }
         ]
@@ -2567,7 +2567,7 @@ const books = [
         grade: "九年级",
         subject: "语文",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1d16QRyNLrjTfqOUdKMjhIQ?pwd=1234" }
         ]
@@ -2579,7 +2579,7 @@ const books = [
         grade: "九年级",
         subject: "语文",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1nSRveUxHuYHbMN2x9LBAyg?pwd=1234" }
         ]
@@ -2591,7 +2591,7 @@ const books = [
         grade: "八年级",
         subject: "语文",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1JGdQ0EJwJdZR8PfGQaT6kw?pwd=1234" }
         ]
@@ -2603,7 +2603,7 @@ const books = [
         grade: "八年级",
         subject: "语文",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1_WwRa3jeyQqwnVcpGx9DjQ?pwd=1234" }
         ]
@@ -2615,7 +2615,7 @@ const books = [
         grade: "九年级",
         subject: "化学",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1zg-IAn_Kmg93f0M8x6lXQw?pwd=1234" }
         ]
@@ -2627,7 +2627,7 @@ const books = [
         grade: "八年级",
         subject: "化学",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/10RTOCdXmiE_YbyXoIaIxpg?pwd=1234" }
         ]
@@ -2639,7 +2639,7 @@ const books = [
         grade: "九年级",
         subject: "化学",
         publisher: "山东教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1yTkFX_P3mxRAqK64j9RXzg?pwd=1234" }
         ]
@@ -2651,7 +2651,7 @@ const books = [
         grade: "八年级",
         subject: "化学",
         publisher: "山东教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1hWR49SQrQ7soFE4wWY41Tw?pwd=1234" }
         ]
@@ -2663,7 +2663,7 @@ const books = [
         grade: "七年级",
         subject: "数学",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/16LtfgHgDwtKfXhJFI3Jj_Q?pwd=1234" }
         ]
@@ -2675,7 +2675,7 @@ const books = [
         grade: "七年级",
         subject: "数学",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1ddTdvVO3m7ujmG9EtYG-PQ?pwd=1234" }
         ]
@@ -2687,7 +2687,7 @@ const books = [
         grade: "九年级",
         subject: "数学",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/15aGxhq_dRgd2Gs2sKjzlBw?pwd=1234" }
         ]
@@ -2699,7 +2699,7 @@ const books = [
         grade: "九年级",
         subject: "数学",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1W7tLOE5tyEdx3NrXFcqlEQ?pwd=1234" }
         ]
@@ -2711,7 +2711,7 @@ const books = [
         grade: "八年级",
         subject: "数学",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1k0jZ3u26LNAR1Sj4IazuYA?pwd=1234" }
         ]
@@ -2723,7 +2723,7 @@ const books = [
         grade: "八年级",
         subject: "数学",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/12Kw4G77ROPwhewK2idh9MA?pwd=1234" }
         ]
@@ -2735,7 +2735,7 @@ const books = [
         grade: "六年级",
         subject: "数学",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1D6B3v-ZKG_tSAP8BULtkFA?pwd=1234" }
         ]
@@ -2747,7 +2747,7 @@ const books = [
         grade: "六年级",
         subject: "数学",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1_sEDRDfQsYZYChmIwcS6gA?pwd=1234" }
         ]
@@ -2759,7 +2759,7 @@ const books = [
         grade: "七年级",
         subject: "数学",
         publisher: "山东教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1OH1LdLNvb_CQW3ZCQQDzKw?pwd=1234" }
         ]
@@ -2771,7 +2771,7 @@ const books = [
         grade: "七年级",
         subject: "数学",
         publisher: "山东教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1W6jMbFKVh7iiON0YxjWCng?pwd=1234" }
         ]
@@ -2783,7 +2783,7 @@ const books = [
         grade: "九年级",
         subject: "数学",
         publisher: "山东教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1g5Q3bxrKyWMFVTnSeYYN0Q?pwd=1234" }
         ]
@@ -2795,7 +2795,7 @@ const books = [
         grade: "九年级",
         subject: "数学",
         publisher: "山东教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1vjPqKo7zD6nPw3ajCrRfMA?pwd=1234" }
         ]
@@ -2807,7 +2807,7 @@ const books = [
         grade: "八年级",
         subject: "数学",
         publisher: "山东教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1ENxYO402wrkFvOnCM5q6_Q?pwd=1234" }
         ]
@@ -2819,7 +2819,7 @@ const books = [
         grade: "八年级",
         subject: "数学",
         publisher: "山东教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1dzTWLm1vJp43YcH649rjow?pwd=1234" }
         ]
@@ -2831,7 +2831,7 @@ const books = [
         grade: "六年级",
         subject: "数学",
         publisher: "山东教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1YIXAfTuDWJA3CSsyDMPHpg?pwd=1234" }
         ]
@@ -2843,7 +2843,7 @@ const books = [
         grade: "六年级",
         subject: "数学",
         publisher: "山东教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1MVxp7o2vM7L9pE425m6FGg?pwd=1234" }
         ]
@@ -2855,7 +2855,7 @@ const books = [
         grade: "九年级",
         subject: "物理",
         publisher: "山东科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1m9dzYyy--8xG2hHaqKajZQ?pwd=1234" }
         ]
@@ -2867,7 +2867,7 @@ const books = [
         grade: "九年级",
         subject: "物理",
         publisher: "山东科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1lkkCI7RBMogFt1jb2xfZYw?pwd=1234" }
         ]
@@ -2879,7 +2879,7 @@ const books = [
         grade: "八年级",
         subject: "物理",
         publisher: "山东科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1E4m8Bhx-Zd_eNs1ipiz9qA?pwd=1234" }
         ]
@@ -2891,7 +2891,7 @@ const books = [
         grade: "八年级",
         subject: "物理",
         publisher: "山东科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1DCZaWAJCyX_8PYnyxmVCMQ?pwd=1234" }
         ]
@@ -2903,7 +2903,7 @@ const books = [
         grade: "七年级",
         subject: "生物学",
         publisher: "山东科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1_dUaDSnvvAmLkOD6SzvY5A?pwd=1234" }
         ]
@@ -2915,7 +2915,7 @@ const books = [
         grade: "七年级",
         subject: "生物学",
         publisher: "山东科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1MuKQtDCvmcJI3bPdN0To_g?pwd=1234" }
         ]
@@ -2927,7 +2927,7 @@ const books = [
         grade: "八年级",
         subject: "生物学",
         publisher: "山东科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1ee0aS1t9gCSmStKj_fvIug?pwd=1234" }
         ]
@@ -2939,7 +2939,7 @@ const books = [
         grade: "八年级",
         subject: "生物学",
         publisher: "山东科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1F8IvHOVM_iW_bXFcrlxqHA?pwd=1234" }
         ]
@@ -2951,7 +2951,7 @@ const books = [
         grade: "六年级",
         subject: "生物学",
         publisher: "山东科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1yf1pzHz_AoJjk3iYBNkZYQ?pwd=1234" }
         ]
@@ -2963,7 +2963,7 @@ const books = [
         grade: "六年级",
         subject: "生物学",
         publisher: "山东科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/14jv4reCBJ4lzS5M7hoWK3w?pwd=1234" }
         ]
@@ -2975,7 +2975,7 @@ const books = [
         grade: "七年级",
         subject: "英语",
         publisher: "教育科学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/16X73_PsBQMzu5Ot7w1Sadw?pwd=1234" }
         ]
@@ -2987,7 +2987,7 @@ const books = [
         grade: "七年级",
         subject: "英语",
         publisher: "教育科学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1V-W0aqmShl6V65fmXoFZhQ?pwd=1234" }
         ]
@@ -2999,7 +2999,7 @@ const books = [
         grade: "九年级",
         subject: "英语",
         publisher: "教育科学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1xkB854OOBt3z1XVpsTwIOQ?pwd=1234" }
         ]
@@ -3011,7 +3011,7 @@ const books = [
         grade: "九年级",
         subject: "英语",
         publisher: "教育科学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1QY4t65FchPd9HBi8lcqcSg?pwd=1234" }
         ]
@@ -3023,7 +3023,7 @@ const books = [
         grade: "八年级",
         subject: "英语",
         publisher: "教育科学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/16RxoAhh1XiD9fdTH6lhDiQ?pwd=1234" }
         ]
@@ -3035,7 +3035,7 @@ const books = [
         grade: "八年级",
         subject: "英语",
         publisher: "教育科学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1sIa334Dhy0ePnJONsdIRcA?pwd=1234" }
         ]
@@ -3047,7 +3047,7 @@ const books = [
         grade: "六年级",
         subject: "英语",
         publisher: "教育科学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1BdUR70Xpvqk3k9RdCc-KaQ?pwd=1234" }
         ]
@@ -3059,7 +3059,7 @@ const books = [
         grade: "六年级",
         subject: "英语",
         publisher: "教育科学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/15LMGMxmeJ6emyGvO6KdE8g?pwd=1234" }
         ]
@@ -3071,7 +3071,7 @@ const books = [
         grade: "七年级",
         subject: "英语",
         publisher: "山东教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1V7_R_qEpMXje57dAOs_cRA?pwd=1234" }
         ]
@@ -3083,7 +3083,7 @@ const books = [
         grade: "七年级",
         subject: "英语",
         publisher: "山东教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1sXlFmMIze96YyVq818-NGg?pwd=1234" }
         ]
@@ -3095,7 +3095,7 @@ const books = [
         grade: "九年级",
         subject: "英语",
         publisher: "山东教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1qVGHwPtyLogOA_bZxQEW7g?pwd=1234" }
         ]
@@ -3107,7 +3107,7 @@ const books = [
         grade: "八年级",
         subject: "英语",
         publisher: "山东教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1ASIWy7vn_aorEe7C_vMJ0A?pwd=1234" }
         ]
@@ -3119,7 +3119,7 @@ const books = [
         grade: "八年级",
         subject: "英语",
         publisher: "山东教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1jtJrqERx5j9KLYS3d0Z3ug?pwd=1234" }
         ]
@@ -3131,7 +3131,7 @@ const books = [
         grade: "六年级",
         subject: "英语",
         publisher: "山东教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1cFYQkT7OCNLFCjxqreAzKg?pwd=1234" }
         ]
@@ -3143,7 +3143,7 @@ const books = [
         grade: "六年级",
         subject: "英语",
         publisher: "山东教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1rafdQzSLNdLioagfIK1bGg?pwd=1234" }
         ]
@@ -3155,7 +3155,7 @@ const books = [
         grade: "一年级",
         subject: "数学",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1qGIN3aS2I4I8uvH7tNH-4g?pwd=1234" }
         ]
@@ -3167,7 +3167,7 @@ const books = [
         grade: "三年级",
         subject: "数学",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1Vz8o7uEo9At4nDGWQGbJJw?pwd=1234" }
         ]
@@ -3179,7 +3179,7 @@ const books = [
         grade: "二年级",
         subject: "数学",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1lN67pqkEbrYgRxpve-9Z5A?pwd=1234" }
         ]
@@ -3191,7 +3191,7 @@ const books = [
         grade: "五年级",
         subject: "数学",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1MpLf1vIa7tthKtZD2I1Htg?pwd=1234" }
         ]
@@ -3203,7 +3203,7 @@ const books = [
         grade: "六年级",
         subject: "数学",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1GNy66wEvpLLji_56K8l0qg?pwd=1234" }
         ]
@@ -3215,7 +3215,7 @@ const books = [
         grade: "四年级",
         subject: "数学",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1BHOVJ-v_2FtzuDUba1MVTg?pwd=1234" }
         ]
@@ -3227,7 +3227,7 @@ const books = [
         grade: "一年级",
         subject: "数学",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1qAnhVfw6BEZmPU5cbwIGWw?pwd=1234" }
         ]
@@ -3239,7 +3239,7 @@ const books = [
         grade: "三年级",
         subject: "数学",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1ZztSM-x1dGQ7tG_yfOWljA?pwd=1234" }
         ]
@@ -3251,7 +3251,7 @@ const books = [
         grade: "二年级",
         subject: "数学",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1YFMPovN_wggQWa07sTbTqw?pwd=1234" }
         ]
@@ -3263,7 +3263,7 @@ const books = [
         grade: "五年级",
         subject: "数学",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1EHXBfMyTxi8iC08Jb7l60g?pwd=1234" }
         ]
@@ -3275,7 +3275,7 @@ const books = [
         grade: "六年级",
         subject: "数学",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/19dLw5cevkIuiLTwwyWHEHw?pwd=1234" }
         ]
@@ -3287,7 +3287,7 @@ const books = [
         grade: "四年级",
         subject: "数学",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1r5sszNxdx1vCw5rgIxIwJw?pwd=1234" }
         ]
@@ -3299,7 +3299,7 @@ const books = [
         grade: "一年级",
         subject: "数学",
         publisher: "河北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1mn3nTdDFtOsVTXYb9zEngw?pwd=1234" }
         ]
@@ -3311,7 +3311,7 @@ const books = [
         grade: "一年级",
         subject: "数学",
         publisher: "河北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1hQiUaqxkvYHQ-jmy1xaCaA?pwd=1234" }
         ]
@@ -3323,7 +3323,7 @@ const books = [
         grade: "三年级",
         subject: "数学",
         publisher: "河北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1KELgxm2vrIH6hgSjYiDbsQ?pwd=1234" }
         ]
@@ -3335,7 +3335,7 @@ const books = [
         grade: "三年级",
         subject: "数学",
         publisher: "河北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1CpjJa9RAg8bDb6rju7I31A?pwd=1234" }
         ]
@@ -3347,7 +3347,7 @@ const books = [
         grade: "二年级",
         subject: "数学",
         publisher: "河北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1Osm_3MGhk6Tl8Oyb1J5nEQ?pwd=1234" }
         ]
@@ -3359,7 +3359,7 @@ const books = [
         grade: "二年级",
         subject: "数学",
         publisher: "河北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/11bNaJfW1ytaFfchGjMtdWw?pwd=1234" }
         ]
@@ -3371,7 +3371,7 @@ const books = [
         grade: "五年级",
         subject: "数学",
         publisher: "河北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/18jP8HopoLDjnGdSeJ5rfMg?pwd=1234" }
         ]
@@ -3383,7 +3383,7 @@ const books = [
         grade: "五年级",
         subject: "数学",
         publisher: "河北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1g66uXm5v57ypDOGPzDjHbw?pwd=1234" }
         ]
@@ -3395,7 +3395,7 @@ const books = [
         grade: "六年级",
         subject: "数学",
         publisher: "河北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1oeLTPKjt46mOr6gRZ2aL1Q?pwd=1234" }
         ]
@@ -3407,7 +3407,7 @@ const books = [
         grade: "六年级",
         subject: "数学",
         publisher: "河北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1wHDTZbELoInosHaR0fwdQA?pwd=1234" }
         ]
@@ -3419,7 +3419,7 @@ const books = [
         grade: "四年级",
         subject: "数学",
         publisher: "河北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1yLx67FxAOXPrvs_mYl7gmQ?pwd=1234" }
         ]
@@ -3431,7 +3431,7 @@ const books = [
         grade: "四年级",
         subject: "数学",
         publisher: "河北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/115O3I9JKhbOP-1BeTD0J1A?pwd=1234" }
         ]
@@ -3443,7 +3443,7 @@ const books = [
         grade: "一年级",
         subject: "数学",
         publisher: "北京出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1sE-DHMriQQvsSjF5ToWtmw?pwd=1234" }
         ]
@@ -3455,7 +3455,7 @@ const books = [
         grade: "一年级",
         subject: "数学",
         publisher: "北京出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1cKK0IHcSnxSGsiXKUalP_g?pwd=1234" }
         ]
@@ -3467,7 +3467,7 @@ const books = [
         grade: "三年级",
         subject: "数学",
         publisher: "北京出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1L7BUK7-F2Q_sZZF2BSQRdA?pwd=1234" }
         ]
@@ -3479,7 +3479,7 @@ const books = [
         grade: "三年级",
         subject: "数学",
         publisher: "北京出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1e4TkvG4ZNQxB_E4hGG3Dxw?pwd=1234" }
         ]
@@ -3491,7 +3491,7 @@ const books = [
         grade: "二年级",
         subject: "数学",
         publisher: "北京出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1a_Uq9MYZAd6XrfsTlQwrdQ?pwd=1234" }
         ]
@@ -3503,7 +3503,7 @@ const books = [
         grade: "二年级",
         subject: "数学",
         publisher: "北京出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/10CAQbQDz_MOOwdCEfSYN5Q?pwd=1234" }
         ]
@@ -3515,7 +3515,7 @@ const books = [
         grade: "五年级",
         subject: "数学",
         publisher: "北京出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1Pe1C05_I614OVpksrA4O5A?pwd=1234" }
         ]
@@ -3527,7 +3527,7 @@ const books = [
         grade: "五年级",
         subject: "数学",
         publisher: "北京出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1r5FFU6m7mE2RWoff9QjBBw?pwd=1234" }
         ]
@@ -3539,7 +3539,7 @@ const books = [
         grade: "六年级",
         subject: "数学",
         publisher: "北京出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1SMZNz2a6n_FVMAwnVeSbUw?pwd=1234" }
         ]
@@ -3551,7 +3551,7 @@ const books = [
         grade: "六年级",
         subject: "数学",
         publisher: "北京出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/198fIgDg_XlC8-Gua5Vru_w?pwd=1234" }
         ]
@@ -3563,7 +3563,7 @@ const books = [
         grade: "四年级",
         subject: "数学",
         publisher: "北京出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1hb_5Fx1A2UwLY06Df_S8rw?pwd=1234" }
         ]
@@ -3575,7 +3575,7 @@ const books = [
         grade: "四年级",
         subject: "数学",
         publisher: "北京出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1mrleoJ64vWd2c6pvu-LRUg?pwd=1234" }
         ]
@@ -3587,7 +3587,7 @@ const books = [
         grade: "一年级",
         subject: "数学",
         publisher: "北京师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1SMaIuBCkw3QtZbBWepguLQ?pwd=1234" }
         ]
@@ -3599,7 +3599,7 @@ const books = [
         grade: "一年级",
         subject: "数学",
         publisher: "北京师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1--9FsEjdiiP5ZBwfg_0ROA?pwd=1234" }
         ]
@@ -3611,7 +3611,7 @@ const books = [
         grade: "三年级",
         subject: "数学",
         publisher: "北京师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1JZj3bAVuQqTeNwggglq-Jg?pwd=1234" }
         ]
@@ -3623,7 +3623,7 @@ const books = [
         grade: "三年级",
         subject: "数学",
         publisher: "北京师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/10z5lvwnxhKdUXmdDfOF5HQ?pwd=1234" }
         ]
@@ -3635,7 +3635,7 @@ const books = [
         grade: "二年级",
         subject: "数学",
         publisher: "北京师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/15KO36sFkZF58Cz5S8xnkiQ?pwd=1234" }
         ]
@@ -3647,7 +3647,7 @@ const books = [
         grade: "五年级",
         subject: "数学",
         publisher: "北京师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1wIP93EjyVpyU5EQKYVeiKA?pwd=1234" }
         ]
@@ -3659,7 +3659,7 @@ const books = [
         grade: "五年级",
         subject: "数学",
         publisher: "北京师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1Sv64LmZTzQ0c3p8IXfo9Qg?pwd=1234" }
         ]
@@ -3671,7 +3671,7 @@ const books = [
         grade: "六年级",
         subject: "数学",
         publisher: "北京师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/13zXqhFTMsCLgWVX9if4MOA?pwd=1234" }
         ]
@@ -3683,7 +3683,7 @@ const books = [
         grade: "四年级",
         subject: "数学",
         publisher: "北京师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1uFPIqmqyY5MJS-0KPaIjZg?pwd=1234" }
         ]
@@ -3695,7 +3695,7 @@ const books = [
         grade: "一年级",
         subject: "数学",
         publisher: "江苏凤凰教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1yr3GGLXTCbwhbMMy6HBX2g?pwd=1234" }
         ]
@@ -3707,7 +3707,7 @@ const books = [
         grade: "一年级",
         subject: "数学",
         publisher: "江苏凤凰教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1ZNmqQN_e44c8fVHb_Yy0Aw?pwd=1234" }
         ]
@@ -3719,7 +3719,7 @@ const books = [
         grade: "三年级",
         subject: "数学",
         publisher: "江苏凤凰教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1vr6Griusj_I1RZOOnzkTpA?pwd=1234" }
         ]
@@ -3731,7 +3731,7 @@ const books = [
         grade: "三年级",
         subject: "数学",
         publisher: "江苏凤凰教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1nWvZGdCrfHgfglFfw_MmqA?pwd=1234" }
         ]
@@ -3743,7 +3743,7 @@ const books = [
         grade: "二年级",
         subject: "数学",
         publisher: "江苏凤凰教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1rxK1XdEyHNcxjhQzShcwJA?pwd=1234" }
         ]
@@ -3755,7 +3755,7 @@ const books = [
         grade: "二年级",
         subject: "数学",
         publisher: "江苏凤凰教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1f9T-AAYolsqfgmV1E8eiaQ?pwd=1234" }
         ]
@@ -3767,7 +3767,7 @@ const books = [
         grade: "五年级",
         subject: "数学",
         publisher: "江苏凤凰教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1z7uvbUzzKrWpWoH3rhXkGw?pwd=1234" }
         ]
@@ -3779,7 +3779,7 @@ const books = [
         grade: "五年级",
         subject: "数学",
         publisher: "江苏凤凰教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1vb4zGiacMtHzGjMkRX1AXw?pwd=1234" }
         ]
@@ -3791,7 +3791,7 @@ const books = [
         grade: "六年级",
         subject: "数学",
         publisher: "江苏凤凰教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1k1w06ukRI5nxY8Fx-0R99w?pwd=1234" }
         ]
@@ -3803,7 +3803,7 @@ const books = [
         grade: "六年级",
         subject: "数学",
         publisher: "江苏凤凰教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/15EVAfA359UmxhcNfAxAhhQ?pwd=1234" }
         ]
@@ -3815,7 +3815,7 @@ const books = [
         grade: "四年级",
         subject: "数学",
         publisher: "江苏凤凰教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/18hAj_cq5HlU7_zyZuc0kHQ?pwd=1234" }
         ]
@@ -3827,7 +3827,7 @@ const books = [
         grade: "四年级",
         subject: "数学",
         publisher: "江苏凤凰教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/12Y0TQImt2xU9ArFA3i12bQ?pwd=1234" }
         ]
@@ -3839,7 +3839,7 @@ const books = [
         grade: "一年级",
         subject: "数学",
         publisher: "西南大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1gkE51YUuTC2Y9gREtaGnwg?pwd=1234" }
         ]
@@ -3851,7 +3851,7 @@ const books = [
         grade: "三年级",
         subject: "数学",
         publisher: "西南大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1BC4VutAmuGjD6aFIw3v9iw?pwd=1234" }
         ]
@@ -3863,7 +3863,7 @@ const books = [
         grade: "二年级",
         subject: "数学",
         publisher: "西南大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1BF_deCJGYb9M-fkx-AgBGg?pwd=1234" }
         ]
@@ -3875,7 +3875,7 @@ const books = [
         grade: "五年级",
         subject: "数学",
         publisher: "西南大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1CyqyF3hEV_yHzYPxIqPEpg?pwd=1234" }
         ]
@@ -3887,7 +3887,7 @@ const books = [
         grade: "五年级",
         subject: "数学",
         publisher: "西南大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1k7aXgaMrIBXoVFQt_tbVvw?pwd=1234" }
         ]
@@ -3899,7 +3899,7 @@ const books = [
         grade: "六年级",
         subject: "数学",
         publisher: "西南大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1ZAXKMk_J5OgDHIrR0fD2OA?pwd=1234" }
         ]
@@ -3911,7 +3911,7 @@ const books = [
         grade: "一年级",
         subject: "数学",
         publisher: "西南师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1LpJIMFySpHIz3xKRlueKew?pwd=1234" }
         ]
@@ -3923,7 +3923,7 @@ const books = [
         grade: "一年级",
         subject: "数学",
         publisher: "西南师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1VWq4N2-QbpGP0EZ4PO1PHw?pwd=1234" }
         ]
@@ -3935,7 +3935,7 @@ const books = [
         grade: "三年级",
         subject: "数学",
         publisher: "西南师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1iA_CTBxS3MJpa7hg56JVxg?pwd=1234" }
         ]
@@ -3947,7 +3947,7 @@ const books = [
         grade: "三年级",
         subject: "数学",
         publisher: "西南师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1dkIGHjYqm2qosG6mAfFUnA?pwd=1234" }
         ]
@@ -3959,7 +3959,7 @@ const books = [
         grade: "二年级",
         subject: "数学",
         publisher: "西南师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1tPehZtzHW2h_L2zyRt710A?pwd=1234" }
         ]
@@ -3971,7 +3971,7 @@ const books = [
         grade: "二年级",
         subject: "数学",
         publisher: "西南师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1ErgM8nTjdeWS8iH35ne12Q?pwd=1234" }
         ]
@@ -3983,7 +3983,7 @@ const books = [
         grade: "五年级",
         subject: "数学",
         publisher: "西南师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1tbY0NZQERvc6S7lttP_N7A?pwd=1234" }
         ]
@@ -3995,7 +3995,7 @@ const books = [
         grade: "五年级",
         subject: "数学",
         publisher: "西南师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1sXF_1Sv15h0v-hI5AD1YXg?pwd=1234" }
         ]
@@ -4007,7 +4007,7 @@ const books = [
         grade: "六年级",
         subject: "数学",
         publisher: "西南师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1U6UxbnsrmslPlXt6YflmqA?pwd=1234" }
         ]
@@ -4019,7 +4019,7 @@ const books = [
         grade: "六年级",
         subject: "数学",
         publisher: "西南师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1WZlIA-maOQzuEZj-6Gyp_g?pwd=1234" }
         ]
@@ -4031,7 +4031,7 @@ const books = [
         grade: "四年级",
         subject: "数学",
         publisher: "西南师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1JQv7l8H1uFN7dE3ZBx-ejA?pwd=1234" }
         ]
@@ -4043,7 +4043,7 @@ const books = [
         grade: "四年级",
         subject: "数学",
         publisher: "西南师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1UXSFBSdyf2FYvqQ1wJpM9A?pwd=1234" }
         ]
@@ -4055,7 +4055,7 @@ const books = [
         grade: "一年级",
         subject: "数学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/171n6KBz44ZwUc4eBvhyiZg?pwd=1234" }
         ]
@@ -4067,7 +4067,7 @@ const books = [
         grade: "一年级",
         subject: "数学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1p-DTlYAtVBqTqKCwEEmkNQ?pwd=1234" }
         ]
@@ -4079,7 +4079,7 @@ const books = [
         grade: "三年级",
         subject: "数学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1hef185ZFEqR4NGDhjR_-nQ?pwd=1234" }
         ]
@@ -4091,7 +4091,7 @@ const books = [
         grade: "三年级",
         subject: "数学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/133qTZEP8UFN_1KF318PktQ?pwd=1234" }
         ]
@@ -4103,7 +4103,7 @@ const books = [
         grade: "二年级",
         subject: "数学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1ebJngG_dRbxYpCs3Y8Wffg?pwd=1234" }
         ]
@@ -4115,7 +4115,7 @@ const books = [
         grade: "二年级",
         subject: "数学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/172Z15sdG1XwRGEOOP0eSLA?pwd=1234" }
         ]
@@ -4127,7 +4127,7 @@ const books = [
         grade: "五年级",
         subject: "数学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/18HJYBbzmb1JzOWNosMt6tw?pwd=1234" }
         ]
@@ -4139,7 +4139,7 @@ const books = [
         grade: "五年级",
         subject: "数学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1UgfSOYm6Cf3MM5Y5yk-a-w?pwd=1234" }
         ]
@@ -4151,7 +4151,7 @@ const books = [
         grade: "六年级",
         subject: "数学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1ZpkUPHfzaIwT6oe1fwXu9g?pwd=1234" }
         ]
@@ -4163,7 +4163,7 @@ const books = [
         grade: "六年级",
         subject: "数学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1RVi8EFg-LVuLiya_5CE4Gw?pwd=1234" }
         ]
@@ -4175,7 +4175,7 @@ const books = [
         grade: "四年级",
         subject: "数学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1SyVZ7V4kgJfly-HjDecuMw?pwd=1234" }
         ]
@@ -4187,7 +4187,7 @@ const books = [
         grade: "四年级",
         subject: "数学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1VS174_o1QJsT_3_68btwjQ?pwd=1234" }
         ]
@@ -4199,7 +4199,7 @@ const books = [
         grade: "一年级",
         subject: "科学",
         publisher: "人民教育出版社、湖北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1K3NJUQhSHr8Jt-lLM2E9PA?pwd=1234" }
         ]
@@ -4211,7 +4211,7 @@ const books = [
         grade: "一年级",
         subject: "科学",
         publisher: "人民教育出版社、湖北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1O8s3JsGIelM81Nsjm4N_XQ?pwd=1234" }
         ]
@@ -4223,7 +4223,7 @@ const books = [
         grade: "三年级",
         subject: "科学",
         publisher: "人民教育出版社、湖北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1_nDR3qiqQi6vXbWMY5YP8A?pwd=1234" }
         ]
@@ -4235,7 +4235,7 @@ const books = [
         grade: "三年级",
         subject: "科学",
         publisher: "人民教育出版社、湖北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1aOQ2E3E2j1yvM5MWFb17QA?pwd=1234" }
         ]
@@ -4247,7 +4247,7 @@ const books = [
         grade: "二年级",
         subject: "科学",
         publisher: "人民教育出版社、湖北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1bHv7glLtVhXUpgUL8jJuTQ?pwd=1234" }
         ]
@@ -4259,7 +4259,7 @@ const books = [
         grade: "二年级",
         subject: "科学",
         publisher: "人民教育出版社、湖北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1zW1opI3VFGcDXfyMDudYIw?pwd=1234" }
         ]
@@ -4271,7 +4271,7 @@ const books = [
         grade: "五年级",
         subject: "科学",
         publisher: "人民教育出版社、湖北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1TQIwGTG8GuKrArK2PQ0WDg?pwd=1234" }
         ]
@@ -4283,7 +4283,7 @@ const books = [
         grade: "六年级",
         subject: "科学",
         publisher: "人民教育出版社、湖北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1Y4Sy-UR1MowEo0yyGqlQbA?pwd=1234" }
         ]
@@ -4295,7 +4295,7 @@ const books = [
         grade: "六年级",
         subject: "科学",
         publisher: "人民教育出版社、湖北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1Tugrw0j5SXml-I12GuFoIA?pwd=1234" }
         ]
@@ -4307,7 +4307,7 @@ const books = [
         grade: "四年级",
         subject: "科学",
         publisher: "人民教育出版社、湖北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1tWNOvWdniJXK_Mn0gtRclQ?pwd=1234" }
         ]
@@ -4319,7 +4319,7 @@ const books = [
         grade: "四年级",
         subject: "科学",
         publisher: "人民教育出版社、湖北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1ZhOrIr2GbTg3CbsEp8Y5Bw?pwd=1234" }
         ]
@@ -4331,7 +4331,7 @@ const books = [
         grade: "一年级",
         subject: "科学",
         publisher: "河北人民出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1PZBSRyb82F85I7VLsJWs3A?pwd=1234" }
         ]
@@ -4343,7 +4343,7 @@ const books = [
         grade: "一年级",
         subject: "科学",
         publisher: "河北人民出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1mr71h_PuhPKFV5HaWsRt6w?pwd=1234" }
         ]
@@ -4355,7 +4355,7 @@ const books = [
         grade: "三年级",
         subject: "科学",
         publisher: "河北人民出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/12ThkHk3oyZD3q32LedCoEA?pwd=1234" }
         ]
@@ -4367,7 +4367,7 @@ const books = [
         grade: "三年级",
         subject: "科学",
         publisher: "河北人民出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1yKwxVsLJS-C8LfWb1054OQ?pwd=1234" }
         ]
@@ -4379,7 +4379,7 @@ const books = [
         grade: "二年级",
         subject: "科学",
         publisher: "河北人民出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1SIPAShGzbsvW8EZLfUwjCA?pwd=1234" }
         ]
@@ -4391,7 +4391,7 @@ const books = [
         grade: "二年级",
         subject: "科学",
         publisher: "河北人民出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1nXJsyb-WlAUZbqh2HTqXgw?pwd=1234" }
         ]
@@ -4403,7 +4403,7 @@ const books = [
         grade: "五年级",
         subject: "科学",
         publisher: "河北人民出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1vHLoBATBdX3hA8wRimM92A?pwd=1234" }
         ]
@@ -4415,7 +4415,7 @@ const books = [
         grade: "五年级",
         subject: "科学",
         publisher: "河北人民出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1loeOzI2W7lVTc2w_uuNkFg?pwd=1234" }
         ]
@@ -4427,7 +4427,7 @@ const books = [
         grade: "六年级",
         subject: "科学",
         publisher: "河北人民出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1F_A1qfivE1kS8eGtGuYnqw?pwd=1234" }
         ]
@@ -4439,7 +4439,7 @@ const books = [
         grade: "六年级",
         subject: "科学",
         publisher: "河北人民出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1cyhB46KOLFocc6DWwRfaIA?pwd=1234" }
         ]
@@ -4451,7 +4451,7 @@ const books = [
         grade: "四年级",
         subject: "科学",
         publisher: "河北人民出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1l6aUwneJX-wbCUEq-5lCVA?pwd=1234" }
         ]
@@ -4463,7 +4463,7 @@ const books = [
         grade: "四年级",
         subject: "科学",
         publisher: "河北人民出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1nMo2vi1kZQ5B6LKq-MqvgQ?pwd=1234" }
         ]
@@ -4475,7 +4475,7 @@ const books = [
         grade: "一年级",
         subject: "科学",
         publisher: "河北人民出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1Q32OzW17XxPMkvMDt1-_6w?pwd=1234" }
         ]
@@ -4487,7 +4487,7 @@ const books = [
         grade: "一年级",
         subject: "科学",
         publisher: "河北人民出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1nbnc1dPI9170NtBJOwdIIA?pwd=1234" }
         ]
@@ -4499,7 +4499,7 @@ const books = [
         grade: "三年级",
         subject: "科学",
         publisher: "河北人民出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1003xbBQeLvciQgmHc92Qvw?pwd=1234" }
         ]
@@ -4511,7 +4511,7 @@ const books = [
         grade: "三年级",
         subject: "科学",
         publisher: "河北人民出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1FzAe3SLjHozl26wwWiVtKA?pwd=1234" }
         ]
@@ -4523,7 +4523,7 @@ const books = [
         grade: "二年级",
         subject: "科学",
         publisher: "河北人民出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/16kROXwE9QA0a-ufLGUkw3Q?pwd=1234" }
         ]
@@ -4535,7 +4535,7 @@ const books = [
         grade: "二年级",
         subject: "科学",
         publisher: "河北人民出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1Fm85iTW_1GOe-BiMNEzHTg?pwd=1234" }
         ]
@@ -4547,7 +4547,7 @@ const books = [
         grade: "五年级",
         subject: "科学",
         publisher: "河北人民出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1RCTIbKxloid5htVrB5AVFA?pwd=1234" }
         ]
@@ -4559,7 +4559,7 @@ const books = [
         grade: "五年级",
         subject: "科学",
         publisher: "河北人民出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1OjiF7IAW0fY9A_vUuVnQCA?pwd=1234" }
         ]
@@ -4571,7 +4571,7 @@ const books = [
         grade: "六年级",
         subject: "科学",
         publisher: "河北人民出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/11rxhhssEQ3EbdSxDOCYvfg?pwd=1234" }
         ]
@@ -4583,7 +4583,7 @@ const books = [
         grade: "六年级",
         subject: "科学",
         publisher: "河北人民出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1XXUOPmbQjDpyE61zFIkicg?pwd=1234" }
         ]
@@ -4595,7 +4595,7 @@ const books = [
         grade: "四年级",
         subject: "科学",
         publisher: "河北人民出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1MRxsXXs-MR621uHC-K6H-g?pwd=1234" }
         ]
@@ -4607,7 +4607,7 @@ const books = [
         grade: "四年级",
         subject: "科学",
         publisher: "河北人民出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1g9HC2LR15Yux5OcrTXkAAw?pwd=1234" }
         ]
@@ -4619,7 +4619,7 @@ const books = [
         grade: "一年级",
         subject: "科学",
         publisher: "大象出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1DlJvA_VJgKrUTJaxgyGdwg?pwd=1234" }
         ]
@@ -4631,7 +4631,7 @@ const books = [
         grade: "一年级",
         subject: "科学",
         publisher: "大象出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1qLNPtfKzYUHEaqYNXEoZjw?pwd=1234" }
         ]
@@ -4643,7 +4643,7 @@ const books = [
         grade: "三年级",
         subject: "科学",
         publisher: "大象出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1mC8EMgvr-cQ3VWWu8WeWlQ?pwd=1234" }
         ]
@@ -4655,7 +4655,7 @@ const books = [
         grade: "三年级",
         subject: "科学",
         publisher: "大象出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1Er5jkqXKfH8MAdL6Vs2PUQ?pwd=1234" }
         ]
@@ -4667,7 +4667,7 @@ const books = [
         grade: "二年级",
         subject: "科学",
         publisher: "大象出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1BeAby28gzTH9U1YCIgQ8Fw?pwd=1234" }
         ]
@@ -4679,7 +4679,7 @@ const books = [
         grade: "二年级",
         subject: "科学",
         publisher: "大象出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1_uk5wS2mi93KshWRT9U4Qw?pwd=1234" }
         ]
@@ -4691,7 +4691,7 @@ const books = [
         grade: "五年级",
         subject: "科学",
         publisher: "大象出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1m6OivCUhQnPqlyP0SrD4bw?pwd=1234" }
         ]
@@ -4703,7 +4703,7 @@ const books = [
         grade: "五年级",
         subject: "科学",
         publisher: "大象出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/17VtTsGT02hCo3TrgDkDekQ?pwd=1234" }
         ]
@@ -4715,7 +4715,7 @@ const books = [
         grade: "六年级",
         subject: "科学",
         publisher: "大象出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1cOWzTB-aG65dlPsdvI0MEQ?pwd=1234" }
         ]
@@ -4727,7 +4727,7 @@ const books = [
         grade: "六年级",
         subject: "科学",
         publisher: "大象出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1jI84XiC62b24yNrqJsWkOQ?pwd=1234" }
         ]
@@ -4739,7 +4739,7 @@ const books = [
         grade: "四年级",
         subject: "科学",
         publisher: "大象出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/15yLQOHmWxYivjLYV-qw4VA?pwd=1234" }
         ]
@@ -4751,7 +4751,7 @@ const books = [
         grade: "四年级",
         subject: "科学",
         publisher: "大象出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1vk_2XjbhSB7P2l62n193GA?pwd=1234" }
         ]
@@ -4763,7 +4763,7 @@ const books = [
         grade: "一年级",
         subject: "科学",
         publisher: "大象出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1qGa3adxjdZe4Qpbvwq6qtA?pwd=1234" }
         ]
@@ -4775,7 +4775,7 @@ const books = [
         grade: "一年级",
         subject: "科学",
         publisher: "大象出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/19pa8mWUI4yJBC4ZXqLmwOQ?pwd=1234" }
         ]
@@ -4787,7 +4787,7 @@ const books = [
         grade: "三年级",
         subject: "科学",
         publisher: "大象出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/10gPpBFO9k50xJtMKIQf30g?pwd=1234" }
         ]
@@ -4799,7 +4799,7 @@ const books = [
         grade: "三年级",
         subject: "科学",
         publisher: "大象出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1ioGj6N2675vZQTikSKbkHA?pwd=1234" }
         ]
@@ -4811,7 +4811,7 @@ const books = [
         grade: "二年级",
         subject: "科学",
         publisher: "大象出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1Qtfv8ZVzjJNfrXQxqfn_-w?pwd=1234" }
         ]
@@ -4823,7 +4823,7 @@ const books = [
         grade: "二年级",
         subject: "科学",
         publisher: "大象出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1NcauyPJjOu83cF3izv5paw?pwd=1234" }
         ]
@@ -4835,7 +4835,7 @@ const books = [
         grade: "五年级",
         subject: "科学",
         publisher: "大象出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1UDWOm9WaG-zDwGz7j8_mIw?pwd=1234" }
         ]
@@ -4847,7 +4847,7 @@ const books = [
         grade: "五年级",
         subject: "科学",
         publisher: "大象出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1wlFdha72kin9dhsX2Bag1A?pwd=1234" }
         ]
@@ -4859,7 +4859,7 @@ const books = [
         grade: "六年级",
         subject: "科学",
         publisher: "大象出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1S6uGRena8N9ZGLCUvlcu7w?pwd=1234" }
         ]
@@ -4871,7 +4871,7 @@ const books = [
         grade: "六年级",
         subject: "科学",
         publisher: "大象出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1bSJorEVKSkx7ABEspf-Ikw?pwd=1234" }
         ]
@@ -4883,7 +4883,7 @@ const books = [
         grade: "四年级",
         subject: "科学",
         publisher: "大象出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1s5hqJunlbjgActSzuNc3Tg?pwd=1234" }
         ]
@@ -4895,7 +4895,7 @@ const books = [
         grade: "四年级",
         subject: "科学",
         publisher: "大象出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1xPoWzA1lsJpmFwrqLAwauw?pwd=1234" }
         ]
@@ -4907,7 +4907,7 @@ const books = [
         grade: "一年级",
         subject: "科学",
         publisher: "教育科学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1NzSgagq3zVGd4crcvX-rZg?pwd=1234" }
         ]
@@ -4919,7 +4919,7 @@ const books = [
         grade: "一年级",
         subject: "科学",
         publisher: "教育科学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1_sp3mVq_3ayQjo3i-Q7oKA?pwd=1234" }
         ]
@@ -4931,7 +4931,7 @@ const books = [
         grade: "三年级",
         subject: "科学",
         publisher: "教育科学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1RUvG31n6PnyeQdEevXsTUA?pwd=1234" }
         ]
@@ -4943,7 +4943,7 @@ const books = [
         grade: "三年级",
         subject: "科学",
         publisher: "教育科学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1ZHP9kirUeJwxFjnBxhY9yA?pwd=1234" }
         ]
@@ -4955,7 +4955,7 @@ const books = [
         grade: "二年级",
         subject: "科学",
         publisher: "教育科学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1lRsxmmuEwPF8ICvHrbiOZQ?pwd=1234" }
         ]
@@ -4967,7 +4967,7 @@ const books = [
         grade: "二年级",
         subject: "科学",
         publisher: "教育科学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1BePzn1waYPLA100t1n4TmQ?pwd=1234" }
         ]
@@ -4979,7 +4979,7 @@ const books = [
         grade: "五年级",
         subject: "科学",
         publisher: "教育科学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1yBF5qEN7QSSy23ROhsNQvw?pwd=1234" }
         ]
@@ -4991,7 +4991,7 @@ const books = [
         grade: "五年级",
         subject: "科学",
         publisher: "教育科学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1DKwRkYbdiUFoTlYo4O_tDw?pwd=1234" }
         ]
@@ -5003,7 +5003,7 @@ const books = [
         grade: "六年级",
         subject: "科学",
         publisher: "教育科学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/15enoTqMko_MyPRqJwZr9PQ?pwd=1234" }
         ]
@@ -5015,7 +5015,7 @@ const books = [
         grade: "六年级",
         subject: "科学",
         publisher: "教育科学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1liKKVZZ1-WbsUv56JlWCQQ?pwd=1234" }
         ]
@@ -5027,7 +5027,7 @@ const books = [
         grade: "四年级",
         subject: "科学",
         publisher: "教育科学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1l35ByyC_iUjmXJkULLnTUQ?pwd=1234" }
         ]
@@ -5039,7 +5039,7 @@ const books = [
         grade: "四年级",
         subject: "科学",
         publisher: "教育科学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1-Nh0Iv5WHGWHEdMrLxJ3Iw?pwd=1234" }
         ]
@@ -5051,7 +5051,7 @@ const books = [
         grade: "一年级",
         subject: "科学",
         publisher: "湖南科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1gyCYLqKA_F-Fzca4sUtXvg?pwd=1234" }
         ]
@@ -5063,7 +5063,7 @@ const books = [
         grade: "一年级",
         subject: "科学",
         publisher: "湖南科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1E5urAyhurD2u-khkycJVYg?pwd=1234" }
         ]
@@ -5075,7 +5075,7 @@ const books = [
         grade: "三年级",
         subject: "科学",
         publisher: "湖南科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1RB1aBJFYYPCIaYvfMZGwNQ?pwd=1234" }
         ]
@@ -5087,7 +5087,7 @@ const books = [
         grade: "三年级",
         subject: "科学",
         publisher: "湖南科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1-vHhESDUb7w-Ydr9cP6rqg?pwd=1234" }
         ]
@@ -5099,7 +5099,7 @@ const books = [
         grade: "二年级",
         subject: "科学",
         publisher: "湖南科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1wIGqZiCy4VT6JSg1nT9Ylw?pwd=1234" }
         ]
@@ -5111,7 +5111,7 @@ const books = [
         grade: "二年级",
         subject: "科学",
         publisher: "湖南科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1vgUCtfmP4cJBOfuGDPAZ7Q?pwd=1234" }
         ]
@@ -5123,7 +5123,7 @@ const books = [
         grade: "五年级",
         subject: "科学",
         publisher: "湖南科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1J-sYshEdZNIvOCC0_c82rA?pwd=1234" }
         ]
@@ -5135,7 +5135,7 @@ const books = [
         grade: "五年级",
         subject: "科学",
         publisher: "湖南科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1uR1bZqlEtGIKZHFqKHL77g?pwd=1234" }
         ]
@@ -5147,7 +5147,7 @@ const books = [
         grade: "六年级",
         subject: "科学",
         publisher: "湖南科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1fYAwbPuN29Y5kHAJkX-1RQ?pwd=1234" }
         ]
@@ -5159,7 +5159,7 @@ const books = [
         grade: "六年级",
         subject: "科学",
         publisher: "湖南科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1K3MmpdaEewBBUJhcj0rvpw?pwd=1234" }
         ]
@@ -5171,7 +5171,7 @@ const books = [
         grade: "四年级",
         subject: "科学",
         publisher: "湖南科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1KzpUmHVWhZKrXebWD0XfYQ?pwd=1234" }
         ]
@@ -5183,7 +5183,7 @@ const books = [
         grade: "四年级",
         subject: "科学",
         publisher: "湖南科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1ebu18FLiLEHnGg4PKhhzYQ?pwd=1234" }
         ]
@@ -5195,7 +5195,7 @@ const books = [
         grade: "一年级",
         subject: "科学",
         publisher: "湖南科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/195LyyNUN58v43KeX6HkaEA?pwd=1234" }
         ]
@@ -5207,7 +5207,7 @@ const books = [
         grade: "一年级",
         subject: "科学",
         publisher: "湖南科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1xTBnr33GeAQs5wSerpF-_Q?pwd=1234" }
         ]
@@ -5219,7 +5219,7 @@ const books = [
         grade: "三年级",
         subject: "科学",
         publisher: "湖南科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/12Pnqx8Aw2rBI_zRetxqw0w?pwd=1234" }
         ]
@@ -5231,7 +5231,7 @@ const books = [
         grade: "三年级",
         subject: "科学",
         publisher: "湖南科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1QvV32LeHEI_ESWhI4_dh5w?pwd=1234" }
         ]
@@ -5243,7 +5243,7 @@ const books = [
         grade: "二年级",
         subject: "科学",
         publisher: "湖南科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1rZTVKp4_ZC-_wRNLkJfIXg?pwd=1234" }
         ]
@@ -5255,7 +5255,7 @@ const books = [
         grade: "二年级",
         subject: "科学",
         publisher: "湖南科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1N9ESjfJRg9r43qeAp4bmJw?pwd=1234" }
         ]
@@ -5267,7 +5267,7 @@ const books = [
         grade: "五年级",
         subject: "科学",
         publisher: "湖南科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1gfjHuGUDR4TS-2LaF5hiZg?pwd=1234" }
         ]
@@ -5279,7 +5279,7 @@ const books = [
         grade: "五年级",
         subject: "科学",
         publisher: "湖南科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1YH2aGWC3xrYKmEh6FWa8Tg?pwd=1234" }
         ]
@@ -5291,7 +5291,7 @@ const books = [
         grade: "六年级",
         subject: "科学",
         publisher: "湖南科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1DMYOkSL6yRM7_gnJtgV85g?pwd=1234" }
         ]
@@ -5303,7 +5303,7 @@ const books = [
         grade: "六年级",
         subject: "科学",
         publisher: "湖南科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1Q8miPEtj5c64MQnB5wEqrg?pwd=1234" }
         ]
@@ -5315,7 +5315,7 @@ const books = [
         grade: "四年级",
         subject: "科学",
         publisher: "湖南科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1G4HWVK6Zdk9s6sFu7a2ARQ?pwd=1234" }
         ]
@@ -5327,7 +5327,7 @@ const books = [
         grade: "四年级",
         subject: "科学",
         publisher: "湖南科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/10kjwkP9YTZPVOPW3c5pZsQ?pwd=1234" }
         ]
@@ -5339,7 +5339,7 @@ const books = [
         grade: "一年级",
         subject: "科学",
         publisher: "广东教育出版社、广东科技出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/15I4WdqssF7S0S9QYoSuvOQ?pwd=1234" }
         ]
@@ -5351,7 +5351,7 @@ const books = [
         grade: "一年级",
         subject: "科学",
         publisher: "广东教育出版社、广东科技出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/17K6JYFB9nGJt5g2j7a46Ww?pwd=1234" }
         ]
@@ -5363,7 +5363,7 @@ const books = [
         grade: "三年级",
         subject: "科学",
         publisher: "广东教育出版社、广东科技出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1oq_Q7bJ3JNX_mA4q7aRY0A?pwd=1234" }
         ]
@@ -5375,7 +5375,7 @@ const books = [
         grade: "三年级",
         subject: "科学",
         publisher: "广东教育出版社、广东科技出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1qBBSCBJYrCkab7gXle111g?pwd=1234" }
         ]
@@ -5387,7 +5387,7 @@ const books = [
         grade: "二年级",
         subject: "科学",
         publisher: "广东教育出版社、广东科技出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1g8UqjJ5lSHgNxVAKnBs4Zg?pwd=1234" }
         ]
@@ -5399,7 +5399,7 @@ const books = [
         grade: "二年级",
         subject: "科学",
         publisher: "广东教育出版社、广东科技出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1A1-oANMaTC8fMwjDm7e8_A?pwd=1234" }
         ]
@@ -5411,7 +5411,7 @@ const books = [
         grade: "五年级",
         subject: "科学",
         publisher: "广东教育出版社、广东科技出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1GfsOgBoCyDsn3myN7wq4RA?pwd=1234" }
         ]
@@ -5423,7 +5423,7 @@ const books = [
         grade: "五年级",
         subject: "科学",
         publisher: "广东教育出版社、广东科技出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/13iG2iJy8NZ4NNGVLoBhePw?pwd=1234" }
         ]
@@ -5435,7 +5435,7 @@ const books = [
         grade: "六年级",
         subject: "科学",
         publisher: "广东教育出版社、广东科技出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1QMFDzs0w17-RURJv1KpdDQ?pwd=1234" }
         ]
@@ -5447,7 +5447,7 @@ const books = [
         grade: "六年级",
         subject: "科学",
         publisher: "广东教育出版社、广东科技出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1RfgYvtkWVcu08Z-cn-alnQ?pwd=1234" }
         ]
@@ -5459,7 +5459,7 @@ const books = [
         grade: "四年级",
         subject: "科学",
         publisher: "广东教育出版社、广东科技出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1h0zkQP9OXmRumwZ9pQGS-w?pwd=1234" }
         ]
@@ -5471,7 +5471,7 @@ const books = [
         grade: "四年级",
         subject: "科学",
         publisher: "广东教育出版社、广东科技出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/13sY67QCPRGlyF6eMM8CKhQ?pwd=1234" }
         ]
@@ -5483,7 +5483,7 @@ const books = [
         grade: "一年级",
         subject: "科学",
         publisher: "江苏凤凰教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1sPXA_10dOUnHd_W8IXnGog?pwd=1234" }
         ]
@@ -5495,7 +5495,7 @@ const books = [
         grade: "一年级",
         subject: "科学",
         publisher: "江苏凤凰教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1TMcZ9uD0nhpbGrZN6eW-GQ?pwd=1234" }
         ]
@@ -5507,7 +5507,7 @@ const books = [
         grade: "三年级",
         subject: "科学",
         publisher: "江苏凤凰教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/167BAefSBqJOePY5CAWgO9w?pwd=1234" }
         ]
@@ -5519,7 +5519,7 @@ const books = [
         grade: "三年级",
         subject: "科学",
         publisher: "江苏凤凰教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/13mJ_rgYGBOOGdhE4X5LwgA?pwd=1234" }
         ]
@@ -5531,7 +5531,7 @@ const books = [
         grade: "二年级",
         subject: "科学",
         publisher: "江苏凤凰教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1q5B6shQ2Cl86hkfGauobTw?pwd=1234" }
         ]
@@ -5543,7 +5543,7 @@ const books = [
         grade: "二年级",
         subject: "科学",
         publisher: "江苏凤凰教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1W7H0otMHvj024Wk4e4OH7Q?pwd=1234" }
         ]
@@ -5555,7 +5555,7 @@ const books = [
         grade: "五年级",
         subject: "科学",
         publisher: "江苏凤凰教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1Y2wzEC-Fi4ks4PkCQXCzxA?pwd=1234" }
         ]
@@ -5567,7 +5567,7 @@ const books = [
         grade: "五年级",
         subject: "科学",
         publisher: "江苏凤凰教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/15F40VQhi2SbSB7051bwIvg?pwd=1234" }
         ]
@@ -5579,7 +5579,7 @@ const books = [
         grade: "六年级",
         subject: "科学",
         publisher: "江苏凤凰教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1iTZBj7TN9bRP2jYDWLOEWQ?pwd=1234" }
         ]
@@ -5591,7 +5591,7 @@ const books = [
         grade: "六年级",
         subject: "科学",
         publisher: "江苏凤凰教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1tUYFhL3w1QisY-PCZSXywg?pwd=1234" }
         ]
@@ -5603,7 +5603,7 @@ const books = [
         grade: "四年级",
         subject: "科学",
         publisher: "江苏凤凰教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1EX-isRwfTRRX2BtDKyoMyA?pwd=1234" }
         ]
@@ -5615,7 +5615,7 @@ const books = [
         grade: "四年级",
         subject: "科学",
         publisher: "江苏凤凰教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1IH-WAloawb-xOJAWF-v-7w?pwd=1234" }
         ]
@@ -5627,7 +5627,7 @@ const books = [
         grade: "一年级",
         subject: "科学",
         publisher: "江苏凤凰教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1iqome4Y4YxxRyokXqJhGkA?pwd=1234" }
         ]
@@ -5639,7 +5639,7 @@ const books = [
         grade: "一年级",
         subject: "科学",
         publisher: "江苏凤凰教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1huhTR7tAE9KGETNXik0I8Q?pwd=1234" }
         ]
@@ -5651,7 +5651,7 @@ const books = [
         grade: "三年级",
         subject: "科学",
         publisher: "江苏凤凰教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1UeL4ORruAQ3R4_HkwgS-yg?pwd=1234" }
         ]
@@ -5663,7 +5663,7 @@ const books = [
         grade: "三年级",
         subject: "科学",
         publisher: "江苏凤凰教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/14jGHr1O4HJBFwIkcBKJksA?pwd=1234" }
         ]
@@ -5675,7 +5675,7 @@ const books = [
         grade: "二年级",
         subject: "科学",
         publisher: "江苏凤凰教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1-74TC71MyOqDyCmZ99RxDw?pwd=1234" }
         ]
@@ -5687,7 +5687,7 @@ const books = [
         grade: "二年级",
         subject: "科学",
         publisher: "江苏凤凰教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1PLdVcN19thLT-fi4p8MK0w?pwd=1234" }
         ]
@@ -5699,7 +5699,7 @@ const books = [
         grade: "五年级",
         subject: "科学",
         publisher: "江苏凤凰教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1r9-oKkqeKQWa-96cWzKksg?pwd=1234" }
         ]
@@ -5711,7 +5711,7 @@ const books = [
         grade: "五年级",
         subject: "科学",
         publisher: "江苏凤凰教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1vFWsjUWWlo7ianDj5pU8Cg?pwd=1234" }
         ]
@@ -5723,7 +5723,7 @@ const books = [
         grade: "六年级",
         subject: "科学",
         publisher: "江苏凤凰教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1yc4aI7HErw6IwYRzkD4ASQ?pwd=1234" }
         ]
@@ -5735,7 +5735,7 @@ const books = [
         grade: "六年级",
         subject: "科学",
         publisher: "江苏凤凰教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1KnlNsm5sXcqIKGoNekMd4g?pwd=1234" }
         ]
@@ -5747,7 +5747,7 @@ const books = [
         grade: "四年级",
         subject: "科学",
         publisher: "江苏凤凰教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/19-1OyELlVwH_RKu1hz5y2g?pwd=1234" }
         ]
@@ -5759,7 +5759,7 @@ const books = [
         grade: "四年级",
         subject: "科学",
         publisher: "江苏凤凰教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1lJxE7gPVjoFQMlrklUcFfw?pwd=1234" }
         ]
@@ -5771,7 +5771,7 @@ const books = [
         grade: "一年级",
         subject: "科学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/15tMkmnLEBaQ-PwT7IJN3xQ?pwd=1234" }
         ]
@@ -5783,7 +5783,7 @@ const books = [
         grade: "一年级",
         subject: "科学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1zDqNON9YEIxgYaGpDoj-sg?pwd=1234" }
         ]
@@ -5795,7 +5795,7 @@ const books = [
         grade: "三年级",
         subject: "科学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1ffLMa2_osWNOsZ8RM-TOrw?pwd=1234" }
         ]
@@ -5807,7 +5807,7 @@ const books = [
         grade: "三年级",
         subject: "科学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1q6vgVvwnBXhamtYihTZlkQ?pwd=1234" }
         ]
@@ -5819,7 +5819,7 @@ const books = [
         grade: "二年级",
         subject: "科学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1OxqQmGFQoUt9DBzFGiKwnw?pwd=1234" }
         ]
@@ -5831,7 +5831,7 @@ const books = [
         grade: "二年级",
         subject: "科学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1TEzAObyz3kbxTc28v4iIzA?pwd=1234" }
         ]
@@ -5843,7 +5843,7 @@ const books = [
         grade: "五年级",
         subject: "科学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1uijrSvwksEYRkpISze6RBw?pwd=1234" }
         ]
@@ -5855,7 +5855,7 @@ const books = [
         grade: "五年级",
         subject: "科学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1DojJ4-1CEvNgoIyT_YkkwQ?pwd=1234" }
         ]
@@ -5867,7 +5867,7 @@ const books = [
         grade: "四年级",
         subject: "科学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1gTe-amHB3LAljiXr-N2WNg?pwd=1234" }
         ]
@@ -5879,7 +5879,7 @@ const books = [
         grade: "四年级",
         subject: "科学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1X-9Ph4BPf8iaiKvD3yMyLQ?pwd=1234" }
         ]
@@ -5891,7 +5891,7 @@ const books = [
         grade: "一年级",
         subject: "科学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/11jKJrg-Z0PeBlHwf17wAhw?pwd=1234" }
         ]
@@ -5903,7 +5903,7 @@ const books = [
         grade: "一年级",
         subject: "科学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1UmpF1rS7xfbSph5_BiHACA?pwd=1234" }
         ]
@@ -5915,7 +5915,7 @@ const books = [
         grade: "三年级",
         subject: "科学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1FmoLlZyyO02J-Le9vYxofQ?pwd=1234" }
         ]
@@ -5927,7 +5927,7 @@ const books = [
         grade: "三年级",
         subject: "科学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1z8cjMdl6aI1W_d9TMFqZoA?pwd=1234" }
         ]
@@ -5939,7 +5939,7 @@ const books = [
         grade: "二年级",
         subject: "科学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1N5i9PgXfsR5qyeazN-jrkg?pwd=1234" }
         ]
@@ -5951,7 +5951,7 @@ const books = [
         grade: "二年级",
         subject: "科学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1RFEDI2Q90AzHhZkQXFhUSA?pwd=1234" }
         ]
@@ -5963,7 +5963,7 @@ const books = [
         grade: "五年级",
         subject: "科学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1ZZwilvF2I62ZcQsN5LW5-g?pwd=1234" }
         ]
@@ -5975,7 +5975,7 @@ const books = [
         grade: "五年级",
         subject: "科学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1zmQEo7mCeXonhhMpyiJ-iw?pwd=1234" }
         ]
@@ -5987,7 +5987,7 @@ const books = [
         grade: "六年级",
         subject: "科学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1mwvo6N_mzZyBhvTHcBjsGg?pwd=1234" }
         ]
@@ -5999,7 +5999,7 @@ const books = [
         grade: "六年级",
         subject: "科学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1YBCLCpFo_ZVogALIta9idw?pwd=1234" }
         ]
@@ -6011,7 +6011,7 @@ const books = [
         grade: "四年级",
         subject: "科学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1FTGAgIRg3PDoS83vb-4x5w?pwd=1234" }
         ]
@@ -6023,7 +6023,7 @@ const books = [
         grade: "四年级",
         subject: "科学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1xQbzSQQW7vIE3XpymlAiDA?pwd=1234" }
         ]
@@ -6035,7 +6035,7 @@ const books = [
         grade: "三年级",
         subject: "英语",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/13UFC-8WgPWimxoTSfjfxbQ?pwd=1234" }
         ]
@@ -6047,7 +6047,7 @@ const books = [
         grade: "五年级",
         subject: "英语",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1d58911M1nY7mLRwoZmN5aw?pwd=1234" }
         ]
@@ -6059,7 +6059,7 @@ const books = [
         grade: "六年级",
         subject: "英语",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1xPYMZ0PLx_M2_E93cPDEKQ?pwd=1234" }
         ]
@@ -6071,7 +6071,7 @@ const books = [
         grade: "四年级",
         subject: "英语",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1up8DVhhmtA7hd2Vyo9WPvg?pwd=1234" }
         ]
@@ -6083,7 +6083,7 @@ const books = [
         grade: "三年级",
         subject: "英语",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1CeM0h9EKR43lmJz2QeqEZw?pwd=1234" }
         ]
@@ -6095,7 +6095,7 @@ const books = [
         grade: "五年级",
         subject: "英语",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/138fYeLh_OgH5mWKXXrhyCQ?pwd=1234" }
         ]
@@ -6107,7 +6107,7 @@ const books = [
         grade: "六年级",
         subject: "英语",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1h7K36epHKMLN8jmBhO-qzQ?pwd=1234" }
         ]
@@ -6119,7 +6119,7 @@ const books = [
         grade: "四年级",
         subject: "英语",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1Ac6Rjwu_UHoErDYb8a-sLA?pwd=1234" }
         ]
@@ -6131,7 +6131,7 @@ const books = [
         grade: "一年级",
         subject: "英语",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1rUQF84L_mO1O8Yo3uzBUEA?pwd=1234" }
         ]
@@ -6143,7 +6143,7 @@ const books = [
         grade: "一年级",
         subject: "英语",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/13ErZqQIgmVaTwXQbQZieUw?pwd=1234" }
         ]
@@ -6155,7 +6155,7 @@ const books = [
         grade: "三年级",
         subject: "英语",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1mk7h3Q-WsRvFnH1wmTyqWA?pwd=1234" }
         ]
@@ -6167,7 +6167,7 @@ const books = [
         grade: "三年级",
         subject: "英语",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1TdzW9HnxXx3MasbSxSfsAQ?pwd=1234" }
         ]
@@ -6179,7 +6179,7 @@ const books = [
         grade: "二年级",
         subject: "英语",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/17fWxJv39pD4ubBZbmteagQ?pwd=1234" }
         ]
@@ -6191,7 +6191,7 @@ const books = [
         grade: "二年级",
         subject: "英语",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1iVzlJtsr7w6MzNbTh9Jtaw?pwd=1234" }
         ]
@@ -6203,7 +6203,7 @@ const books = [
         grade: "五年级",
         subject: "英语",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1KX40FmiHGoRTrDuCksCEig?pwd=1234" }
         ]
@@ -6215,7 +6215,7 @@ const books = [
         grade: "五年级",
         subject: "英语",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1gVDw8gXkT1UA8zbK5ecl5g?pwd=1234" }
         ]
@@ -6227,7 +6227,7 @@ const books = [
         grade: "六年级",
         subject: "英语",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/19CBvC5ZgM-7KajH2vVpvDQ?pwd=1234" }
         ]
@@ -6239,7 +6239,7 @@ const books = [
         grade: "六年级",
         subject: "英语",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1RS2Du0PjusJmFWHS-KDVbQ?pwd=1234" }
         ]
@@ -6251,7 +6251,7 @@ const books = [
         grade: "四年级",
         subject: "英语",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1HB87Slod9E-fP7zKsfwQKQ?pwd=1234" }
         ]
@@ -6263,7 +6263,7 @@ const books = [
         grade: "四年级",
         subject: "英语",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1BvZw9nNdV7FGesHZ3Uyoqw?pwd=1234" }
         ]
@@ -6275,7 +6275,7 @@ const books = [
         grade: "四年级",
         subject: "英语",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1a_ZFuszcjrsRgKE7duWflw?pwd=1234" }
         ]
@@ -6287,7 +6287,7 @@ const books = [
         grade: "三年级",
         subject: "英语",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/13Rbe_TNcbb92xYtYlwaKgQ?pwd=1234" }
         ]
@@ -6299,7 +6299,7 @@ const books = [
         grade: "五年级",
         subject: "英语",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1J4RwsNJEZV_KXWOTcfwyXw?pwd=1234" }
         ]
@@ -6311,7 +6311,7 @@ const books = [
         grade: "六年级",
         subject: "英语",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1vd-jbYLe-5c1rmjUBZIKRQ?pwd=1234" }
         ]
@@ -6323,7 +6323,7 @@ const books = [
         grade: "四年级",
         subject: "英语",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/19Myt-iUhN6DHT_nR-RXGlw?pwd=1234" }
         ]
@@ -6335,7 +6335,7 @@ const books = [
         grade: "一年级",
         subject: "英语",
         publisher: "河北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1Ygo4xa2EUJgUU-sPYunNsg?pwd=1234" }
         ]
@@ -6347,7 +6347,7 @@ const books = [
         grade: "一年级",
         subject: "英语",
         publisher: "河北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1TuE8IYq9hD0dyeTKziETtw?pwd=1234" }
         ]
@@ -6359,7 +6359,7 @@ const books = [
         grade: "三年级",
         subject: "英语",
         publisher: "河北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1ffMyDIRWFQJ4iOdytOSEUA?pwd=1234" }
         ]
@@ -6371,7 +6371,7 @@ const books = [
         grade: "三年级",
         subject: "英语",
         publisher: "河北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1VRTOeacaPv3O1EEOm2misQ?pwd=1234" }
         ]
@@ -6383,7 +6383,7 @@ const books = [
         grade: "二年级",
         subject: "英语",
         publisher: "河北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1kF-fjVw-SSbWhJyqW-WGdw?pwd=1234" }
         ]
@@ -6395,7 +6395,7 @@ const books = [
         grade: "二年级",
         subject: "英语",
         publisher: "河北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1DbYhyC2SDUGui58X9uiDpQ?pwd=1234" }
         ]
@@ -6407,7 +6407,7 @@ const books = [
         grade: "五年级",
         subject: "英语",
         publisher: "河北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1IpmJu9ofV3KLzwZWrWnolA?pwd=1234" }
         ]
@@ -6419,7 +6419,7 @@ const books = [
         grade: "五年级",
         subject: "英语",
         publisher: "河北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1b_TH7CxQBtQ-LSNkNYJu8A?pwd=1234" }
         ]
@@ -6431,7 +6431,7 @@ const books = [
         grade: "六年级",
         subject: "英语",
         publisher: "河北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1BRIS_sMpeEKYlYqqTMuH9w?pwd=1234" }
         ]
@@ -6443,7 +6443,7 @@ const books = [
         grade: "六年级",
         subject: "英语",
         publisher: "河北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1Eh-StvfWyTx6K8h3YKPKFg?pwd=1234" }
         ]
@@ -6455,7 +6455,7 @@ const books = [
         grade: "四年级",
         subject: "英语",
         publisher: "河北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1gIsP-NHKf44uk69krDi3eA?pwd=1234" }
         ]
@@ -6467,7 +6467,7 @@ const books = [
         grade: "四年级",
         subject: "英语",
         publisher: "河北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1cbQ8tX9IPD8uJIB2B63XXA?pwd=1234" }
         ]
@@ -6479,7 +6479,7 @@ const books = [
         grade: "三年级",
         subject: "英语",
         publisher: "河北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1y9dpotg_iO7wIo2Jv90LEw?pwd=1234" }
         ]
@@ -6491,7 +6491,7 @@ const books = [
         grade: "三年级",
         subject: "英语",
         publisher: "河北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1uDzpP16Dp7Oorg9Uxm44hA?pwd=1234" }
         ]
@@ -6503,7 +6503,7 @@ const books = [
         grade: "五年级",
         subject: "英语",
         publisher: "河北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1mxHPesapmD4JbeqEuEdNAA?pwd=1234" }
         ]
@@ -6515,7 +6515,7 @@ const books = [
         grade: "五年级",
         subject: "英语",
         publisher: "河北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1cOHEwumOdQ8XYMfBcGxTNQ?pwd=1234" }
         ]
@@ -6527,7 +6527,7 @@ const books = [
         grade: "六年级",
         subject: "英语",
         publisher: "河北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1yiQhkhmGahXwKzDbeKPnpA?pwd=1234" }
         ]
@@ -6539,7 +6539,7 @@ const books = [
         grade: "六年级",
         subject: "英语",
         publisher: "河北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1seEokQnWP43xikMF5l_RhQ?pwd=1234" }
         ]
@@ -6551,7 +6551,7 @@ const books = [
         grade: "四年级",
         subject: "英语",
         publisher: "河北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1czguDi1_AS5EG8t9PExWJQ?pwd=1234" }
         ]
@@ -6563,7 +6563,7 @@ const books = [
         grade: "四年级",
         subject: "英语",
         publisher: "河北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1i6L65jq-3eJDwwCgf6jWkg?pwd=1234" }
         ]
@@ -6575,7 +6575,7 @@ const books = [
         grade: "一年级",
         subject: "英语",
         publisher: "北京出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/15K2CFN7POPnO1hS6nd6Osw?pwd=1234" }
         ]
@@ -6587,7 +6587,7 @@ const books = [
         grade: "一年级",
         subject: "英语",
         publisher: "北京出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/13QSsxV7l92kvxSbE3YVpIw?pwd=1234" }
         ]
@@ -6599,7 +6599,7 @@ const books = [
         grade: "三年级",
         subject: "英语",
         publisher: "北京出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1TRJHj2SzBUNqj9hwq3DCsQ?pwd=1234" }
         ]
@@ -6611,7 +6611,7 @@ const books = [
         grade: "三年级",
         subject: "英语",
         publisher: "北京出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1Zyd_ATYovwfrIF4S1gZQCQ?pwd=1234" }
         ]
@@ -6623,7 +6623,7 @@ const books = [
         grade: "二年级",
         subject: "英语",
         publisher: "北京出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1tT5LiKPiMQJHv2XbWs7l-A?pwd=1234" }
         ]
@@ -6635,7 +6635,7 @@ const books = [
         grade: "二年级",
         subject: "英语",
         publisher: "北京出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1-W3IjbM6WMsuYND4tY3Hpw?pwd=1234" }
         ]
@@ -6647,7 +6647,7 @@ const books = [
         grade: "五年级",
         subject: "英语",
         publisher: "北京出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1ZayzTIAW4VKp5IbZOrtBpQ?pwd=1234" }
         ]
@@ -6659,7 +6659,7 @@ const books = [
         grade: "五年级",
         subject: "英语",
         publisher: "北京出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1RSBk93dKc8FnbcyL-eMasw?pwd=1234" }
         ]
@@ -6671,7 +6671,7 @@ const books = [
         grade: "六年级",
         subject: "英语",
         publisher: "北京出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1gGrHCCzgiRM97EPyMAyiQw?pwd=1234" }
         ]
@@ -6683,7 +6683,7 @@ const books = [
         grade: "六年级",
         subject: "英语",
         publisher: "北京出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1W3V3zU7y5z6p3VTHEagfYg?pwd=1234" }
         ]
@@ -6695,7 +6695,7 @@ const books = [
         grade: "四年级",
         subject: "英语",
         publisher: "北京出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1T-Bz4oulpwdsvXdNMKkSBA?pwd=1234" }
         ]
@@ -6707,7 +6707,7 @@ const books = [
         grade: "四年级",
         subject: "英语",
         publisher: "北京出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1gE4qEGaSeUv6DP8RVEkimw?pwd=1234" }
         ]
@@ -6719,7 +6719,7 @@ const books = [
         grade: "三年级",
         subject: "英语",
         publisher: "北京师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1CI8vGrz5R6Dqkwxj8LlaLA?pwd=1234" }
         ]
@@ -6731,7 +6731,7 @@ const books = [
         grade: "三年级",
         subject: "英语",
         publisher: "北京师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1LqN0fJkgG9-OXLasgFt2WQ?pwd=1234" }
         ]
@@ -6743,7 +6743,7 @@ const books = [
         grade: "五年级",
         subject: "英语",
         publisher: "北京师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1tuYbX8T8yBALrFAqhmnkVQ?pwd=1234" }
         ]
@@ -6755,7 +6755,7 @@ const books = [
         grade: "五年级",
         subject: "英语",
         publisher: "北京师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1c8C14OEJ_qHoROuDXaCKdA?pwd=1234" }
         ]
@@ -6767,7 +6767,7 @@ const books = [
         grade: "六年级",
         subject: "英语",
         publisher: "北京师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1LL2PbEFR-rDIrG21fOzPfw?pwd=1234" }
         ]
@@ -6779,7 +6779,7 @@ const books = [
         grade: "六年级",
         subject: "英语",
         publisher: "北京师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1qe6KU9ZjuA7ATv7bhKzq2w?pwd=1234" }
         ]
@@ -6791,7 +6791,7 @@ const books = [
         grade: "四年级",
         subject: "英语",
         publisher: "北京师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1A8RsZiH7IlrWLzM5NU75zg?pwd=1234" }
         ]
@@ -6803,7 +6803,7 @@ const books = [
         grade: "四年级",
         subject: "英语",
         publisher: "北京师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1Nrx_xwsC3_QtNqiom0Ocnw?pwd=1234" }
         ]
@@ -6815,7 +6815,7 @@ const books = [
         grade: "一年级",
         subject: "英语",
         publisher: "外语教学与研究出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1xI-xbiHnQin4GVdUWmRADQ?pwd=1234" }
         ]
@@ -6827,7 +6827,7 @@ const books = [
         grade: "一年级",
         subject: "英语",
         publisher: "外语教学与研究出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1f6AKIb2eBMdEWJLDXr0vzQ?pwd=1234" }
         ]
@@ -6839,7 +6839,7 @@ const books = [
         grade: "三年级",
         subject: "英语",
         publisher: "外语教学与研究出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1MdOXyo-skx5erg19rNo1Wg?pwd=1234" }
         ]
@@ -6851,7 +6851,7 @@ const books = [
         grade: "三年级",
         subject: "英语",
         publisher: "外语教学与研究出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1J_HUUc-bqMH_LVJ3YeUvfw?pwd=1234" }
         ]
@@ -6863,7 +6863,7 @@ const books = [
         grade: "二年级",
         subject: "英语",
         publisher: "外语教学与研究出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1JmQKN2LIcN4qjLVH0THTiw?pwd=1234" }
         ]
@@ -6875,7 +6875,7 @@ const books = [
         grade: "二年级",
         subject: "英语",
         publisher: "外语教学与研究出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1OzPUkiZYB2VRGpUUmQ1WRw?pwd=1234" }
         ]
@@ -6887,7 +6887,7 @@ const books = [
         grade: "五年级",
         subject: "英语",
         publisher: "外语教学与研究出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1f9e-iyWM6hRD8zgO6M338Q?pwd=1234" }
         ]
@@ -6899,7 +6899,7 @@ const books = [
         grade: "五年级",
         subject: "英语",
         publisher: "外语教学与研究出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1AJxJY3Oq8NjMpywEbszVHw?pwd=1234" }
         ]
@@ -6911,7 +6911,7 @@ const books = [
         grade: "六年级",
         subject: "英语",
         publisher: "外语教学与研究出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/18tSzghbs7m9hSTPgjygx0A?pwd=1234" }
         ]
@@ -6923,7 +6923,7 @@ const books = [
         grade: "六年级",
         subject: "英语",
         publisher: "外语教学与研究出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1EDuWqF2rqmoHCx_go87NhQ?pwd=1234" }
         ]
@@ -6935,7 +6935,7 @@ const books = [
         grade: "四年级",
         subject: "英语",
         publisher: "外语教学与研究出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/19DIQuO3z6w05IaroaBSOlQ?pwd=1234" }
         ]
@@ -6947,7 +6947,7 @@ const books = [
         grade: "四年级",
         subject: "英语",
         publisher: "外语教学与研究出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1RLKvJ6WZteZz_bsc6Xcuag?pwd=1234" }
         ]
@@ -6959,7 +6959,7 @@ const books = [
         grade: "三年级",
         subject: "英语",
         publisher: "外语教学与研究出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1bkzg20uJqAPjSZh47tgwSg?pwd=1234" }
         ]
@@ -6971,7 +6971,7 @@ const books = [
         grade: "三年级",
         subject: "英语",
         publisher: "外语教学与研究出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1LVJTfxvm_rZgeRls51VQlA?pwd=1234" }
         ]
@@ -6983,7 +6983,7 @@ const books = [
         grade: "五年级",
         subject: "英语",
         publisher: "外语教学与研究出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1BQZu0oly_Ez1PUs7aCiypg?pwd=1234" }
         ]
@@ -6995,7 +6995,7 @@ const books = [
         grade: "五年级",
         subject: "英语",
         publisher: "外语教学与研究出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1FaJd5G-Gn5OYEBOUL3KD7g?pwd=1234" }
         ]
@@ -7007,7 +7007,7 @@ const books = [
         grade: "六年级",
         subject: "英语",
         publisher: "外语教学与研究出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1XUVI8Q4TnlCyOiZLz5GtQg?pwd=1234" }
         ]
@@ -7019,7 +7019,7 @@ const books = [
         grade: "六年级",
         subject: "英语",
         publisher: "外语教学与研究出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1dpMuXvvKbIgbifYnmS-ToQ?pwd=1234" }
         ]
@@ -7031,7 +7031,7 @@ const books = [
         grade: "四年级",
         subject: "英语",
         publisher: "外语教学与研究出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1xlkCHmtXjZZA3OKjdNh-ow?pwd=1234" }
         ]
@@ -7043,7 +7043,7 @@ const books = [
         grade: "四年级",
         subject: "英语",
         publisher: "外语教学与研究出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/12GuyRRGwNgYF508XcEKyrg?pwd=1234" }
         ]
@@ -7055,7 +7055,7 @@ const books = [
         grade: "三年级",
         subject: "英语",
         publisher: "外语教学与研究出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1I3_uKzYc01UVoLeFFlj5jw?pwd=1234" }
         ]
@@ -7067,7 +7067,7 @@ const books = [
         grade: "三年级",
         subject: "英语",
         publisher: "外语教学与研究出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/19Xe9jSeErG27jteaOB0a7A?pwd=1234" }
         ]
@@ -7079,7 +7079,7 @@ const books = [
         grade: "五年级",
         subject: "英语",
         publisher: "外语教学与研究出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1Gekw0ef1d7fVnoe0JXeYOA?pwd=1234" }
         ]
@@ -7091,7 +7091,7 @@ const books = [
         grade: "五年级",
         subject: "英语",
         publisher: "外语教学与研究出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1EveDG9Db3fK3M8PNU9NZaA?pwd=1234" }
         ]
@@ -7103,7 +7103,7 @@ const books = [
         grade: "六年级",
         subject: "英语",
         publisher: "外语教学与研究出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1aqPgVlFAaS8OqdJgG4vxnA?pwd=1234" }
         ]
@@ -7115,7 +7115,7 @@ const books = [
         grade: "六年级",
         subject: "英语",
         publisher: "外语教学与研究出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1eiSFQ5O29EyX7brdsRWdFQ?pwd=1234" }
         ]
@@ -7127,7 +7127,7 @@ const books = [
         grade: "四年级",
         subject: "英语",
         publisher: "外语教学与研究出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1VSLlj6_3hVhyp1gajBl30g?pwd=1234" }
         ]
@@ -7139,7 +7139,7 @@ const books = [
         grade: "四年级",
         subject: "英语",
         publisher: "外语教学与研究出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1CfKAfgiyC0TfEuO2Yz40Zg?pwd=1234" }
         ]
@@ -7151,7 +7151,7 @@ const books = [
         grade: "三年级",
         subject: "英语",
         publisher: "外语教学与研究出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1Mmsx-TR7_OnX9XRFQVnaDg?pwd=1234" }
         ]
@@ -7163,7 +7163,7 @@ const books = [
         grade: "三年级",
         subject: "英语",
         publisher: "外语教学与研究出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1L4cAe7J2CUcW-AUvNTekGg?pwd=1234" }
         ]
@@ -7175,7 +7175,7 @@ const books = [
         grade: "五年级",
         subject: "英语",
         publisher: "外语教学与研究出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1htZxKEiyFRktIjZiR9TvCA?pwd=1234" }
         ]
@@ -7187,7 +7187,7 @@ const books = [
         grade: "五年级",
         subject: "英语",
         publisher: "外语教学与研究出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1nkusxnRtSEiqT4fYNuRd8A?pwd=1234" }
         ]
@@ -7199,7 +7199,7 @@ const books = [
         grade: "六年级",
         subject: "英语",
         publisher: "外语教学与研究出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1zX8SbWjttHwcQgb75_Rb3A?pwd=1234" }
         ]
@@ -7211,7 +7211,7 @@ const books = [
         grade: "六年级",
         subject: "英语",
         publisher: "外语教学与研究出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1i3_eFvzQIN_-24ab1lerqA?pwd=1234" }
         ]
@@ -7223,7 +7223,7 @@ const books = [
         grade: "四年级",
         subject: "英语",
         publisher: "外语教学与研究出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/10MjlsSVvo3UItk4uT6GZOQ?pwd=1234" }
         ]
@@ -7235,7 +7235,7 @@ const books = [
         grade: "四年级",
         subject: "英语",
         publisher: "外研社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1FEKkgd7XVQEQCgohZM8Xgw?pwd=1234" }
         ]
@@ -7247,7 +7247,7 @@ const books = [
         grade: "三年级",
         subject: "英语",
         publisher: "川教版出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/160y_3jXHnv6Kj7pqH1McMA?pwd=1234" }
         ]
@@ -7259,7 +7259,7 @@ const books = [
         grade: "三年级",
         subject: "英语",
         publisher: "川教版出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1rAaciDtO616gNJi0bQ3hzw?pwd=1234" }
         ]
@@ -7271,7 +7271,7 @@ const books = [
         grade: "五年级",
         subject: "英语",
         publisher: "川教版出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1c8eOBnsMt_qW77r0LudCaA?pwd=1234" }
         ]
@@ -7283,7 +7283,7 @@ const books = [
         grade: "五年级",
         subject: "英语",
         publisher: "川教版出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/13gDvUue-hmB4Nhx-OOlGxQ?pwd=1234" }
         ]
@@ -7295,7 +7295,7 @@ const books = [
         grade: "六年级",
         subject: "英语",
         publisher: "川教版出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1TE2b7Y0SoMbhD8CYq42TYg?pwd=1234" }
         ]
@@ -7307,7 +7307,7 @@ const books = [
         grade: "六年级",
         subject: "英语",
         publisher: "川教版出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1kTvv2q1kNIbOJAT2SRossg?pwd=1234" }
         ]
@@ -7319,7 +7319,7 @@ const books = [
         grade: "四年级",
         subject: "英语",
         publisher: "川教版出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1BGvByN7LptPd_f_rCOM1YQ?pwd=1234" }
         ]
@@ -7331,7 +7331,7 @@ const books = [
         grade: "四年级",
         subject: "英语",
         publisher: "川教版出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1x1vwOWg6_m9h4pBY60hLKw?pwd=1234" }
         ]
@@ -7343,7 +7343,7 @@ const books = [
         grade: "三年级",
         subject: "英语",
         publisher: "接力出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/14om8NUV3FQ3IwHn79iwZmg?pwd=1234" }
         ]
@@ -7355,7 +7355,7 @@ const books = [
         grade: "三年级",
         subject: "英语",
         publisher: "接力出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1wFsex3IPAJ4SduITyT-FZg?pwd=1234" }
         ]
@@ -7367,7 +7367,7 @@ const books = [
         grade: "五年级",
         subject: "英语",
         publisher: "接力出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1ObCDfYCaL0I1YWqTiyJJMw?pwd=1234" }
         ]
@@ -7379,7 +7379,7 @@ const books = [
         grade: "五年级",
         subject: "英语",
         publisher: "接力出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1zzfaUoMfHdpMyNxOOrvYJg?pwd=1234" }
         ]
@@ -7391,7 +7391,7 @@ const books = [
         grade: "六年级",
         subject: "英语",
         publisher: "接力出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/15aG4vMLClh1DmXSxoJZjGQ?pwd=1234" }
         ]
@@ -7403,7 +7403,7 @@ const books = [
         grade: "六年级",
         subject: "英语",
         publisher: "接力出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1Agig6bGsJOx8xh2IXu6UuA?pwd=1234" }
         ]
@@ -7415,7 +7415,7 @@ const books = [
         grade: "四年级",
         subject: "英语",
         publisher: "接力出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/186VJXsYDiTIBh1FNQ-z4rA?pwd=1234" }
         ]
@@ -7427,7 +7427,7 @@ const books = [
         grade: "四年级",
         subject: "英语",
         publisher: "接力出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1-sfp7PCUGfFTL_3O915kuw?pwd=1234" }
         ]
@@ -7439,7 +7439,7 @@ const books = [
         grade: "三年级",
         subject: "英语",
         publisher: "教科版（EEC学院）",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1GYwA4f39KDW88zKN-j78Tw?pwd=1234" }
         ]
@@ -7451,7 +7451,7 @@ const books = [
         grade: "三年级",
         subject: "英语",
         publisher: "教科版（EEC学院）",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1YUO5DReTdpqof2UCn8ltXA?pwd=1234" }
         ]
@@ -7463,7 +7463,7 @@ const books = [
         grade: "五年级",
         subject: "英语",
         publisher: "教科版（EEC学院）",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1Kb6pukizOS3HwgVtbZdtNA?pwd=1234" }
         ]
@@ -7475,7 +7475,7 @@ const books = [
         grade: "五年级",
         subject: "英语",
         publisher: "教科版（EEC学院）",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1Dz8N0dSV0M-zp8dqsQm86w?pwd=1234" }
         ]
@@ -7487,7 +7487,7 @@ const books = [
         grade: "六年级",
         subject: "英语",
         publisher: "教科版（EEC学院）",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/15EmeFaOJrFPSu6lys_WFMw?pwd=1234" }
         ]
@@ -7499,7 +7499,7 @@ const books = [
         grade: "六年级",
         subject: "英语",
         publisher: "教科版（EEC学院）",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1LiIHqu0H9eBvapXK4dAMqg?pwd=1234" }
         ]
@@ -7511,7 +7511,7 @@ const books = [
         grade: "四年级",
         subject: "英语",
         publisher: "教科版（EEC学院）",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1yXBTUdE75kCognxcDrM33g?pwd=1234" }
         ]
@@ -7523,7 +7523,7 @@ const books = [
         grade: "四年级",
         subject: "英语",
         publisher: "教科版（EEC学院）",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1yJWOCrnyCz6SRbQEloOTZg?pwd=1234" }
         ]
@@ -7535,7 +7535,7 @@ const books = [
         grade: "三年级",
         subject: "英语",
         publisher: "教科版",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1PE9vDQcT-QJfZHnLfeIFHw?pwd=1234" }
         ]
@@ -7547,7 +7547,7 @@ const books = [
         grade: "三年级",
         subject: "英语",
         publisher: "教科版",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1RiJUgSKJHJPrh1UJj2dpFw?pwd=1234" }
         ]
@@ -7559,7 +7559,7 @@ const books = [
         grade: "五年级",
         subject: "英语",
         publisher: "教科版",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1XEWsioEIfwtbnS4A4IJTPw?pwd=1234" }
         ]
@@ -7571,7 +7571,7 @@ const books = [
         grade: "五年级",
         subject: "英语",
         publisher: "教科版",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1Qkw9w3MgZWl_7Vc-rITC5A?pwd=1234" }
         ]
@@ -7583,7 +7583,7 @@ const books = [
         grade: "六年级",
         subject: "英语",
         publisher: "教科版",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1p6BeWvZcsfUKi6MXP5IQww?pwd=1234" }
         ]
@@ -7595,7 +7595,7 @@ const books = [
         grade: "六年级",
         subject: "英语",
         publisher: "教科版",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/10J-Kz5Z77cirdVTPS3poUw?pwd=1234" }
         ]
@@ -7607,7 +7607,7 @@ const books = [
         grade: "四年级",
         subject: "英语",
         publisher: "教科版",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1XhiGOIxzNMeiL4RF3DHwHA?pwd=1234" }
         ]
@@ -7619,7 +7619,7 @@ const books = [
         grade: "四年级",
         subject: "英语",
         publisher: "教科版",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/17BK39RqiITo7tnHeSE3Vng?pwd=1234" }
         ]
@@ -7631,7 +7631,7 @@ const books = [
         grade: "三年级",
         subject: "英语",
         publisher: "上海教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1A8fSYTvufZeo-3C17Cnh_w?pwd=1234" }
         ]
@@ -7643,7 +7643,7 @@ const books = [
         grade: "三年级",
         subject: "英语",
         publisher: "上海教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1XUpeuxCiVivkme1_x22wGA?pwd=1234" }
         ]
@@ -7655,7 +7655,7 @@ const books = [
         grade: "五年级",
         subject: "英语",
         publisher: "上海教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1MQgxkEjL9L5rHiJ3ZW2GTg?pwd=1234" }
         ]
@@ -7667,7 +7667,7 @@ const books = [
         grade: "五年级",
         subject: "英语",
         publisher: "上海教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/10d_yw3UHSxHyUXd9uM5A5w?pwd=1234" }
         ]
@@ -7679,7 +7679,7 @@ const books = [
         grade: "六年级",
         subject: "英语",
         publisher: "上海教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1ULl4tbCS7uiiH0ejp3G9Vw?pwd=1234" }
         ]
@@ -7691,7 +7691,7 @@ const books = [
         grade: "六年级",
         subject: "英语",
         publisher: "上海教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/16IcUCfZaxMe3wWa-MOk6dg?pwd=1234" }
         ]
@@ -7703,7 +7703,7 @@ const books = [
         grade: "四年级",
         subject: "英语",
         publisher: "上海教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/10TchR2vSwWtGUKNBp69WxA?pwd=1234" }
         ]
@@ -7715,7 +7715,7 @@ const books = [
         grade: "四年级",
         subject: "英语",
         publisher: "上海教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1ShkBbnHE9cArQpCfOJ7j3Q?pwd=1234" }
         ]
@@ -7727,7 +7727,7 @@ const books = [
         grade: "一年级",
         subject: "英语",
         publisher: "清华大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1--vXvEUkav50ZQA9vuRwMA?pwd=1234" }
         ]
@@ -7739,7 +7739,7 @@ const books = [
         grade: "一年级",
         subject: "英语",
         publisher: "清华大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1l9g4fr8f_Pa7YYsfX6VX7Q?pwd=1234" }
         ]
@@ -7751,7 +7751,7 @@ const books = [
         grade: "三年级",
         subject: "英语",
         publisher: "清华大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1HhMZXBktDNY9DdpWoN50eg?pwd=1234" }
         ]
@@ -7763,7 +7763,7 @@ const books = [
         grade: "三年级",
         subject: "英语",
         publisher: "清华大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/14Rj7IU9i5_BsVIkzK7smgw?pwd=1234" }
         ]
@@ -7775,7 +7775,7 @@ const books = [
         grade: "二年级",
         subject: "英语",
         publisher: "清华大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/10sAPAiummATEkcBr7beQZg?pwd=1234" }
         ]
@@ -7787,7 +7787,7 @@ const books = [
         grade: "二年级",
         subject: "英语",
         publisher: "清华大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/15VVodVNZF1ogtivsca8_Fw?pwd=1234" }
         ]
@@ -7799,7 +7799,7 @@ const books = [
         grade: "五年级",
         subject: "英语",
         publisher: "清华大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1hKsQfsQT36mnl4C6pPy-pA?pwd=1234" }
         ]
@@ -7811,7 +7811,7 @@ const books = [
         grade: "五年级",
         subject: "英语",
         publisher: "清华大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1mh1mBE_J-im1lboDuoQ7UA?pwd=1234" }
         ]
@@ -7823,7 +7823,7 @@ const books = [
         grade: "六年级",
         subject: "英语",
         publisher: "清华大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1GPdJtrhrN6ngHdHY93Earw?pwd=1234" }
         ]
@@ -7835,7 +7835,7 @@ const books = [
         grade: "六年级",
         subject: "英语",
         publisher: "清华大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1Zrnp0IoMqi7hccZebcRCXg?pwd=1234" }
         ]
@@ -7847,7 +7847,7 @@ const books = [
         grade: "四年级",
         subject: "英语",
         publisher: "清华大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1jl5hErhKAQipM0VJNY4Ntw?pwd=1234" }
         ]
@@ -7859,7 +7859,7 @@ const books = [
         grade: "四年级",
         subject: "英语",
         publisher: "清华大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1Hy1txnrVeQEg_2S865dcdw?pwd=1234" }
         ]
@@ -7871,7 +7871,7 @@ const books = [
         grade: "三年级",
         subject: "英语",
         publisher: "湖南少年儿童出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1F9IevN0rx-gvFVoOMVfz3A?pwd=1234" }
         ]
@@ -7883,7 +7883,7 @@ const books = [
         grade: "三年级",
         subject: "英语",
         publisher: "湖南少年儿童出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1Omqo0Dim7a8EYIGv1iOm6g?pwd=1234" }
         ]
@@ -7895,7 +7895,7 @@ const books = [
         grade: "五年级",
         subject: "英语",
         publisher: "湖南少年儿童出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/15XtDK2UOe1mo8oHl0hvlLA?pwd=1234" }
         ]
@@ -7907,7 +7907,7 @@ const books = [
         grade: "五年级",
         subject: "英语",
         publisher: "湖南少年儿童出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1PwlCaARtTZ0Q_toXkxhh8A?pwd=1234" }
         ]
@@ -7919,7 +7919,7 @@ const books = [
         grade: "六年级",
         subject: "英语",
         publisher: "湖南少年儿童出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1SfZXL78wAChGXSgnj6Envw?pwd=1234" }
         ]
@@ -7931,7 +7931,7 @@ const books = [
         grade: "六年级",
         subject: "英语",
         publisher: "湖南少年儿童出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/18kySq9QnIMappIPqdpOYTg?pwd=1234" }
         ]
@@ -7943,7 +7943,7 @@ const books = [
         grade: "四年级",
         subject: "英语",
         publisher: "湖南少年儿童出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1IZFa-u30rpP1C66TSlct8A?pwd=1234" }
         ]
@@ -7955,7 +7955,7 @@ const books = [
         grade: "四年级",
         subject: "英语",
         publisher: "湖南少年儿童出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1tH_0F9FG7g7syroVJKC55g?pwd=1234" }
         ]
@@ -7967,7 +7967,7 @@ const books = [
         grade: "三年级",
         subject: "英语",
         publisher: "科学普及出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1F5cPvi1pvE1oQnEFk_O_OQ?pwd=1234" }
         ]
@@ -7979,7 +7979,7 @@ const books = [
         grade: "三年级",
         subject: "英语",
         publisher: "科学普及出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1wiEsGbddVwxrlSkR8KWqIg?pwd=1234" }
         ]
@@ -7991,7 +7991,7 @@ const books = [
         grade: "五年级",
         subject: "英语",
         publisher: "科学普及出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1Fy3cY2EjHb2PEg47gcbPBg?pwd=1234" }
         ]
@@ -8003,7 +8003,7 @@ const books = [
         grade: "五年级",
         subject: "英语",
         publisher: "科学普及出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1zFTL3R9HDGfOsbcZOsDW6A?pwd=1234" }
         ]
@@ -8015,7 +8015,7 @@ const books = [
         grade: "六年级",
         subject: "英语",
         publisher: "科学普及出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/19HN7iyK3uOdrngyYYhz4Qw?pwd=1234" }
         ]
@@ -8027,7 +8027,7 @@ const books = [
         grade: "六年级",
         subject: "英语",
         publisher: "科学普及出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1IokoIBlqrLlh7kmhbZ4Dzg?pwd=1234" }
         ]
@@ -8039,7 +8039,7 @@ const books = [
         grade: "四年级",
         subject: "英语",
         publisher: "科学普及出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1oacPTjqI2KuvbICvN2Zi8Q?pwd=1234" }
         ]
@@ -8051,7 +8051,7 @@ const books = [
         grade: "四年级",
         subject: "英语",
         publisher: "科学普及出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1oAnhDX4Wx6WjXE9OrlTlhw?pwd=1234" }
         ]
@@ -8063,7 +8063,7 @@ const books = [
         grade: "三年级",
         subject: "英语",
         publisher: "粤教粤人出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1B23VM8ODcj3B-wsbMdm_pA?pwd=1234" }
         ]
@@ -8075,7 +8075,7 @@ const books = [
         grade: "五年级",
         subject: "英语",
         publisher: "粤教粤人出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1FHuvuMW9wF58VtnlOV12lQ?pwd=1234" }
         ]
@@ -8087,7 +8087,7 @@ const books = [
         grade: "五年级",
         subject: "英语",
         publisher: "粤教粤人出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1PV609mPBg8s2P6uMAJzDow?pwd=1234" }
         ]
@@ -8099,7 +8099,7 @@ const books = [
         grade: "六年级",
         subject: "英语",
         publisher: "粤教粤人出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1zYmRdX4V17fI3glUa5qAYA?pwd=1234" }
         ]
@@ -8111,7 +8111,7 @@ const books = [
         grade: "六年级",
         subject: "英语",
         publisher: "粤教粤人出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/15WaH1HIaD5BdOI9w-nU8TQ?pwd=1234" }
         ]
@@ -8123,7 +8123,7 @@ const books = [
         grade: "四年级",
         subject: "英语",
         publisher: "粤教粤人出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1y4_GViFcv1Ab0M6Ew1FY3A?pwd=1234" }
         ]
@@ -8135,7 +8135,7 @@ const books = [
         grade: "三年级",
         subject: "英语",
         publisher: "辽宁师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/10xRhZ3s2t51m-Yc3fYoYxw?pwd=1234" }
         ]
@@ -8147,7 +8147,7 @@ const books = [
         grade: "三年级",
         subject: "英语",
         publisher: "辽宁师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1FxVl9OAbSZX_-vBU0RXpJQ?pwd=1234" }
         ]
@@ -8159,7 +8159,7 @@ const books = [
         grade: "五年级",
         subject: "英语",
         publisher: "辽宁师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1u7smkeh2UWq1KVHnPlrmAQ?pwd=1234" }
         ]
@@ -8171,7 +8171,7 @@ const books = [
         grade: "五年级",
         subject: "英语",
         publisher: "辽宁师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1KZ3xM7OnhfcrHRl09gUTdg?pwd=1234" }
         ]
@@ -8183,7 +8183,7 @@ const books = [
         grade: "六年级",
         subject: "英语",
         publisher: "辽宁师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1FU5f4SxKiaNdEmMFxsgqPw?pwd=1234" }
         ]
@@ -8195,7 +8195,7 @@ const books = [
         grade: "六年级",
         subject: "英语",
         publisher: "辽宁师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1NwCp0F6nzxyOVAomXpNulg?pwd=1234" }
         ]
@@ -8207,7 +8207,7 @@ const books = [
         grade: "四年级",
         subject: "英语",
         publisher: "辽宁师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/18tIHykJZlJE1WBLCg0cAUA?pwd=1234" }
         ]
@@ -8219,7 +8219,7 @@ const books = [
         grade: "四年级",
         subject: "英语",
         publisher: "辽宁师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/15H25dx9a0BZ2k2fREpWm6Q?pwd=1234" }
         ]
@@ -8231,7 +8231,7 @@ const books = [
         grade: "三年级",
         subject: "英语",
         publisher: "重庆大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1fEPtyVE9RadG_cxNMk7taw?pwd=1234" }
         ]
@@ -8243,7 +8243,7 @@ const books = [
         grade: "三年级",
         subject: "英语",
         publisher: "重庆大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1sJLlhdO0mDG2Qko_pQdjbw?pwd=1234" }
         ]
@@ -8255,7 +8255,7 @@ const books = [
         grade: "五年级",
         subject: "英语",
         publisher: "重庆大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1zQ6nBSZy_hE2e8KlDaFk9w?pwd=1234" }
         ]
@@ -8267,7 +8267,7 @@ const books = [
         grade: "五年级",
         subject: "英语",
         publisher: "重庆大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1KwS97AF_BtceWTinBlVzDQ?pwd=1234" }
         ]
@@ -8279,7 +8279,7 @@ const books = [
         grade: "六年级",
         subject: "英语",
         publisher: "重庆大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1AYrjEB54Pezwiw8UAEkx1A?pwd=1234" }
         ]
@@ -8291,7 +8291,7 @@ const books = [
         grade: "六年级",
         subject: "英语",
         publisher: "重庆大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1BivrqFKmHIooiT4uiq6szw?pwd=1234" }
         ]
@@ -8303,7 +8303,7 @@ const books = [
         grade: "四年级",
         subject: "英语",
         publisher: "重庆大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1Q87ML3kgDJJODaIwsk_B0g?pwd=1234" }
         ]
@@ -8315,7 +8315,7 @@ const books = [
         grade: "四年级",
         subject: "英语",
         publisher: "重庆大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1r37eOnm4v5JoqbF5pcyenA?pwd=1234" }
         ]
@@ -8327,7 +8327,7 @@ const books = [
         grade: "三年级",
         subject: "英语",
         publisher: "福建教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1HNHujMm41uVlN9z1zO79Nw?pwd=1234" }
         ]
@@ -8339,7 +8339,7 @@ const books = [
         grade: "三年级",
         subject: "英语",
         publisher: "陕西旅游出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1VtHqx2M0cNUTxm9JDIf4xw?pwd=1234" }
         ]
@@ -8351,7 +8351,7 @@ const books = [
         grade: "三年级",
         subject: "英语",
         publisher: "陕西旅游出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1LSAzTuxRYiHqt0_OTAHr7A?pwd=1234" }
         ]
@@ -8363,7 +8363,7 @@ const books = [
         grade: "五年级",
         subject: "英语",
         publisher: "陕西旅游出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1Ff0grqhIlQ17KYssrj1aWw?pwd=1234" }
         ]
@@ -8375,7 +8375,7 @@ const books = [
         grade: "五年级",
         subject: "英语",
         publisher: "陕西旅游出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1AhoFYC5lvGZmCz7lLF2HPw?pwd=1234" }
         ]
@@ -8387,7 +8387,7 @@ const books = [
         grade: "六年级",
         subject: "英语",
         publisher: "陕西旅游出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1M76ulfLMIw3KOrbczHgeFA?pwd=1234" }
         ]
@@ -8399,7 +8399,7 @@ const books = [
         grade: "六年级",
         subject: "英语",
         publisher: "陕西旅游出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1q1ATrCaiQDjRoDyiV3q8OQ?pwd=1234" }
         ]
@@ -8411,7 +8411,7 @@ const books = [
         grade: "四年级",
         subject: "英语",
         publisher: "陕西旅游出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1c7JA5qEmixgIno1bPrdlNg?pwd=1234" }
         ]
@@ -8423,7 +8423,7 @@ const books = [
         grade: "四年级",
         subject: "英语",
         publisher: "陕西旅游出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/11YJUWeFfuHGH7q6X2U-iHw?pwd=1234" }
         ]
@@ -8435,7 +8435,7 @@ const books = [
         grade: "三年级",
         subject: "英语",
         publisher: "鲁教湘教版出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1FmvhibdzOBdXQNPeox556Q?pwd=1234" }
         ]
@@ -8447,7 +8447,7 @@ const books = [
         grade: "三年级",
         subject: "英语",
         publisher: "鲁教湘教版出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1UMzeHx4QdUJwUKwxwwc6PA?pwd=1234" }
         ]
@@ -8459,7 +8459,7 @@ const books = [
         grade: "五年级",
         subject: "英语",
         publisher: "鲁教湘教版出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1Q4foRNL0zOHampJBHkszQw?pwd=1234" }
         ]
@@ -8471,7 +8471,7 @@ const books = [
         grade: "五年级",
         subject: "英语",
         publisher: "鲁教湘教版出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1clGKaUXKICVLQD8emqgiOQ?pwd=1234" }
         ]
@@ -8483,7 +8483,7 @@ const books = [
         grade: "六年级",
         subject: "英语",
         publisher: "鲁教湘教版出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1okRrUUb5pj7vi3iQTgFqRA?pwd=1234" }
         ]
@@ -8495,7 +8495,7 @@ const books = [
         grade: "六年级",
         subject: "英语",
         publisher: "鲁教湘教版出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1vW4QBD5uqGx9qVY6PtVmGA?pwd=1234" }
         ]
@@ -8507,7 +8507,7 @@ const books = [
         grade: "四年级",
         subject: "英语",
         publisher: "鲁教湘教版出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1MI9tii4bcuNz4EaNzYWL0A?pwd=1234" }
         ]
@@ -8519,7 +8519,7 @@ const books = [
         grade: "四年级",
         subject: "英语",
         publisher: "鲁教湘教版出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1RXDMNcAn789qVEMiwM5T8A?pwd=1234" }
         ]
@@ -8557,7 +8557,7 @@ const books = [
         grade: "三年级",
         subject: "语文",
         publisher: "统编版出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1DbsrIUFyZHqxibrMykWjZQ?pwd=1234" }
         ]
@@ -8569,7 +8569,7 @@ const books = [
         grade: "三年级",
         subject: "语文",
         publisher: "统编版出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1mIAWao-IMtYS2opx4mNyZw?pwd=1234" }
         ]
@@ -8581,7 +8581,7 @@ const books = [
         grade: "二年级",
         subject: "语文",
         publisher: "统编版出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1FBKCODEULaUPu8yEpDtxdA?pwd=1234" }
         ]
@@ -8593,7 +8593,7 @@ const books = [
         grade: "二年级",
         subject: "语文",
         publisher: "统编版出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1SFVSOA17Rob3aDWdeuxYow?pwd=1234" }
         ]
@@ -8605,7 +8605,7 @@ const books = [
         grade: "五年级",
         subject: "语文",
         publisher: "统编版出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1xjefbQcYw_AOmRcTRovRXg?pwd=1234" }
         ]
@@ -8617,7 +8617,7 @@ const books = [
         grade: "五年级",
         subject: "语文",
         publisher: "统编版出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1s8cpNlCrBsYu1zzlDZsksw?pwd=1234" }
         ]
@@ -8629,7 +8629,7 @@ const books = [
         grade: "六年级",
         subject: "语文",
         publisher: "统编版出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/18QhHLLy0vTcA4_ibI6fD0A?pwd=1234" }
         ]
@@ -8641,7 +8641,7 @@ const books = [
         grade: "六年级",
         subject: "语文",
         publisher: "统编版出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1tGwq3pVmSboHecEzE2-eyg?pwd=1234" }
         ]
@@ -8653,7 +8653,7 @@ const books = [
         grade: "四年级",
         subject: "语文",
         publisher: "统编版出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1kgQjoaO4aB3_GZu3Hftgcw?pwd=1234" }
         ]
@@ -8665,7 +8665,7 @@ const books = [
         grade: "四年级",
         subject: "语文",
         publisher: "统编版出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1IlxrRkzBIXTxMPoK7yOR_g?pwd=1234" }
         ]
@@ -8677,7 +8677,7 @@ const books = [
         grade: "一年级",
         subject: "数学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1SKMHI4lnuZqshq-lyJcybw?pwd=1234" }
         ]
@@ -8689,7 +8689,7 @@ const books = [
         grade: "一年级",
         subject: "数学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/14tdb31YK9PCc36ScIjQVqg?pwd=1234" }
         ]
@@ -8701,7 +8701,7 @@ const books = [
         grade: "三年级",
         subject: "数学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1bs6UevRkZxHZjwIozJrGyw?pwd=1234" }
         ]
@@ -8713,7 +8713,7 @@ const books = [
         grade: "三年级",
         subject: "数学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1xVq24k1BK8MeyV0Uege9HA?pwd=1234" }
         ]
@@ -8725,7 +8725,7 @@ const books = [
         grade: "二年级",
         subject: "数学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1f0-WEr9fl_gmR2sNeMO_MA?pwd=1234" }
         ]
@@ -8737,7 +8737,7 @@ const books = [
         grade: "二年级",
         subject: "数学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1QM03fQESasfgtXWoiDW21A?pwd=1234" }
         ]
@@ -8749,7 +8749,7 @@ const books = [
         grade: "五年级",
         subject: "数学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1S1tItTJUoKmx_uXKSIoJzQ?pwd=1234" }
         ]
@@ -8761,7 +8761,7 @@ const books = [
         grade: "五年级",
         subject: "数学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1Lre5_59wIxXJFmVYjwFGIQ?pwd=1234" }
         ]
@@ -8773,7 +8773,7 @@ const books = [
         grade: "四年级",
         subject: "数学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/15b-0GD7jYmzg7LwiVOm2Xg?pwd=1234" }
         ]
@@ -8785,7 +8785,7 @@ const books = [
         grade: "四年级",
         subject: "数学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1snJ85zVKaFLxc6_lbv2W6w?pwd=1234" }
         ]
@@ -8797,7 +8797,7 @@ const books = [
         grade: "一年级",
         subject: "科学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/13k4Icqy5tYlRYoZX8vUr1A?pwd=1234" }
         ]
@@ -8809,7 +8809,7 @@ const books = [
         grade: "一年级",
         subject: "科学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1kxSBL84DZEm3ZtXZGYad-g?pwd=1234" }
         ]
@@ -8821,7 +8821,7 @@ const books = [
         grade: "一年级",
         subject: "科学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1j6tpdf-LV-RyStjwgezz1g?pwd=1234" }
         ]
@@ -8833,7 +8833,7 @@ const books = [
         grade: "一年级",
         subject: "科学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1BXm9ICh9Vm5J3-nUCg0-SQ?pwd=1234" }
         ]
@@ -8845,7 +8845,7 @@ const books = [
         grade: "三年级",
         subject: "科学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/13NBxWLiZGBmuerA8a1ipjA?pwd=1234" }
         ]
@@ -8857,7 +8857,7 @@ const books = [
         grade: "三年级",
         subject: "科学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1Uo0Quv9eCOpgp6Ut2EZRrA?pwd=1234" }
         ]
@@ -8869,7 +8869,7 @@ const books = [
         grade: "三年级",
         subject: "科学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1Nj4NgEaoekfRZccJO0RuTw?pwd=1234" }
         ]
@@ -8881,7 +8881,7 @@ const books = [
         grade: "三年级",
         subject: "科学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1yKTV26TUDMTvKBk2d3QEbw?pwd=1234" }
         ]
@@ -8893,7 +8893,7 @@ const books = [
         grade: "二年级",
         subject: "科学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1X3GGSCpICWHmpDSO-4cSLA?pwd=1234" }
         ]
@@ -8905,7 +8905,7 @@ const books = [
         grade: "二年级",
         subject: "科学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1w5R7-FmrQIHVjcXnSu0TdQ?pwd=1234" }
         ]
@@ -8917,7 +8917,7 @@ const books = [
         grade: "二年级",
         subject: "科学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1TkzSmcxVJvyEjqjb2IGrXw?pwd=1234" }
         ]
@@ -8929,7 +8929,7 @@ const books = [
         grade: "二年级",
         subject: "科学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1SroK0T0e4rQfgcC-TgX4lw?pwd=1234" }
         ]
@@ -8941,7 +8941,7 @@ const books = [
         grade: "五年级",
         subject: "科学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1chhkcb-OH_FPYyHR0OpSHQ?pwd=1234" }
         ]
@@ -8953,7 +8953,7 @@ const books = [
         grade: "五年级",
         subject: "科学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1mKQ7GtqabrdM-p2M0oL-XA?pwd=1234" }
         ]
@@ -8965,7 +8965,7 @@ const books = [
         grade: "五年级",
         subject: "科学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1SkUbKbbe4r9HgO25WDKtVg?pwd=1234" }
         ]
@@ -8977,7 +8977,7 @@ const books = [
         grade: "五年级",
         subject: "科学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1f9DeMSK99uK2o59jR6Q3eQ?pwd=1234" }
         ]
@@ -8989,7 +8989,7 @@ const books = [
         grade: "四年级",
         subject: "科学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1k_w4GLB--5g688KiypZZBA?pwd=1234" }
         ]
@@ -9001,7 +9001,7 @@ const books = [
         grade: "四年级",
         subject: "科学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1L_vImsbL9HjybCFrIPkHrQ?pwd=1234" }
         ]
@@ -9013,7 +9013,7 @@ const books = [
         grade: "四年级",
         subject: "科学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/14bAT5yRHJ2nNHh4Aw3zMGA?pwd=1234" }
         ]
@@ -9025,7 +9025,7 @@ const books = [
         grade: "四年级",
         subject: "科学",
         publisher: "青岛出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1S4WRQ_4a37XadC7OydSOEA?pwd=1234" }
         ]
@@ -9037,7 +9037,7 @@ const books = [
         grade: "三年级",
         subject: "英语",
         publisher: "山东科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1G4pi1CAM7CO2Eu0A59d94w?pwd=1234" }
         ]
@@ -9049,7 +9049,7 @@ const books = [
         grade: "三年级",
         subject: "英语",
         publisher: "山东科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1eSIOgtaWMotqwLjpSTlXew?pwd=1234" }
         ]
@@ -9061,7 +9061,7 @@ const books = [
         grade: "五年级",
         subject: "英语",
         publisher: "山东科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1Rvq8L2xqiSlfWERNHqlm_A?pwd=1234" }
         ]
@@ -9073,7 +9073,7 @@ const books = [
         grade: "五年级",
         subject: "英语",
         publisher: "山东科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/18bOUHW0GD5Y6DE5UBiGLig?pwd=1234" }
         ]
@@ -9085,7 +9085,7 @@ const books = [
         grade: "四年级",
         subject: "英语",
         publisher: "山东科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/17kAQUhet5P_2GP5L-sZFpw?pwd=1234" }
         ]
@@ -9097,7 +9097,7 @@ const books = [
         grade: "四年级",
         subject: "英语",
         publisher: "山东科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1S4X0UR6OKr5pzwYisDlUgw?pwd=1234" }
         ]
@@ -9109,7 +9109,7 @@ const books = [
         grade: "不分年级",
         subject: "信息技术",
         publisher: "人民教育出版社、中国地图出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1jei5B2rlGUd_LSjK_-c9kw?pwd=1234" }
         ]
@@ -9121,7 +9121,7 @@ const books = [
         grade: "不分年级",
         subject: "信息技术",
         publisher: "人民教育出版社、中国地图出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1rJQ368LvUoE_gqLMRfXQrA?pwd=1234" }
         ]
@@ -9133,7 +9133,7 @@ const books = [
         grade: "不分年级",
         subject: "信息技术",
         publisher: "人民教育出版社、中国地图出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1LCMg43H7a1rzPkU5FUl24g?pwd=1234" }
         ]
@@ -9145,7 +9145,7 @@ const books = [
         grade: "不分年级",
         subject: "信息技术",
         publisher: "人民教育出版社、中国地图出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1214V_vESWcYBNHXBWu5oZg?pwd=1234" }
         ]
@@ -9157,7 +9157,7 @@ const books = [
         grade: "不分年级",
         subject: "信息技术",
         publisher: "人民教育出版社、中国地图出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1y5y_MDciouzWRhf8cqaL5A?pwd=1234" }
         ]
@@ -9169,7 +9169,7 @@ const books = [
         grade: "不分年级",
         subject: "信息技术",
         publisher: "人民教育出版社、中国地图出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1x-cbEK-WjQtex64Xq7vx9w?pwd=1234" }
         ]
@@ -9181,7 +9181,7 @@ const books = [
         grade: "不分年级",
         subject: "信息技术",
         publisher: "人民教育出版社、中国地图出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1ytf8qJCXAJCrswr5uU519g?pwd=1234" }
         ]
@@ -9193,7 +9193,7 @@ const books = [
         grade: "不分年级",
         subject: "信息技术",
         publisher: "人民教育出版社、中国地图出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/12GHLIm8raZcGQFyNw8J9WA?pwd=1234" }
         ]
@@ -9205,7 +9205,7 @@ const books = [
         grade: "不分年级",
         subject: "信息技术",
         publisher: "华东师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1wjTMheJZUADSontrQO1W6g?pwd=1234" }
         ]
@@ -9217,7 +9217,7 @@ const books = [
         grade: "不分年级",
         subject: "信息技术",
         publisher: "华东师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1EBSVonvIpgtlILEraLGmDg?pwd=1234" }
         ]
@@ -9229,7 +9229,7 @@ const books = [
         grade: "不分年级",
         subject: "信息技术",
         publisher: "华东师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1FiPZGTvEjgBkl603x8ebvQ?pwd=1234" }
         ]
@@ -9241,7 +9241,7 @@ const books = [
         grade: "不分年级",
         subject: "信息技术",
         publisher: "华东师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1KV3GJVERblPoVM_sArnnzw?pwd=1234" }
         ]
@@ -9253,7 +9253,7 @@ const books = [
         grade: "不分年级",
         subject: "信息技术",
         publisher: "华东师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1R9qwAcz7tBYnkCuf7rg3pg?pwd=1234" }
         ]
@@ -9265,7 +9265,7 @@ const books = [
         grade: "不分年级",
         subject: "信息技术",
         publisher: "华东师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/13isboHrhBMeDNMDlXgWmGg?pwd=1234" }
         ]
@@ -9277,7 +9277,7 @@ const books = [
         grade: "不分年级",
         subject: "信息技术",
         publisher: "华东师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1501TKdacqlM93iSlceXjQg?pwd=1234" }
         ]
@@ -9289,7 +9289,7 @@ const books = [
         grade: "不分年级",
         subject: "信息技术",
         publisher: "华东师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1WR-5iQzIMKYuPP_VRCrC2w?pwd=1234" }
         ]
@@ -9301,7 +9301,7 @@ const books = [
         grade: "不分年级",
         subject: "信息技术",
         publisher: "教育科学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1LivrF9KDLTMCybYiU3Iz4g?pwd=1234" }
         ]
@@ -9313,7 +9313,7 @@ const books = [
         grade: "不分年级",
         subject: "信息技术",
         publisher: "教育科学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/12KQib-HCP3FMy-1MIkw-eQ?pwd=1234" }
         ]
@@ -9325,7 +9325,7 @@ const books = [
         grade: "不分年级",
         subject: "信息技术",
         publisher: "教育科学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1R-u6XNzKf0FzYbq1QAkpYg?pwd=1234" }
         ]
@@ -9337,7 +9337,7 @@ const books = [
         grade: "不分年级",
         subject: "信息技术",
         publisher: "教育科学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1yj7oW94nTS_KFJ_7I8FoZw?pwd=1234" }
         ]
@@ -9349,7 +9349,7 @@ const books = [
         grade: "不分年级",
         subject: "信息技术",
         publisher: "教育科学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1tdhQsRh4jOPzRBsk5JRgUA?pwd=1234" }
         ]
@@ -9361,7 +9361,7 @@ const books = [
         grade: "不分年级",
         subject: "信息技术",
         publisher: "教育科学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1KUq9hJxY7GRtEqnBvGStug?pwd=1234" }
         ]
@@ -9373,7 +9373,7 @@ const books = [
         grade: "不分年级",
         subject: "信息技术",
         publisher: "上海科技教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/10dJ0IbS7KAgP5Du1EOLI_A?pwd=1234" }
         ]
@@ -9385,7 +9385,7 @@ const books = [
         grade: "不分年级",
         subject: "信息技术",
         publisher: "上海科技教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1mxR1ZS4aWRDucdyvLulLuA?pwd=1234" }
         ]
@@ -9397,7 +9397,7 @@ const books = [
         grade: "不分年级",
         subject: "信息技术",
         publisher: "上海科技教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1ZhDr7JNEW33Ijjr9SAuFMQ?pwd=1234" }
         ]
@@ -9409,7 +9409,7 @@ const books = [
         grade: "不分年级",
         subject: "信息技术",
         publisher: "上海科技教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1hY8nxrdJ3O8QRsKidlwL7g?pwd=1234" }
         ]
@@ -9421,7 +9421,7 @@ const books = [
         grade: "不分年级",
         subject: "信息技术",
         publisher: "上海科技教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/15dTA9Y28XtypDZ6W9WO0dg?pwd=1234" }
         ]
@@ -9433,7 +9433,7 @@ const books = [
         grade: "不分年级",
         subject: "信息技术",
         publisher: "上海科技教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/14n7qeigzz-5FZ3f1ZCfevw?pwd=1234" }
         ]
@@ -9445,7 +9445,7 @@ const books = [
         grade: "不分年级",
         subject: "信息技术",
         publisher: "上海科技教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1giKB3JD8WQOePvXQtcrVkw?pwd=1234" }
         ]
@@ -9457,7 +9457,7 @@ const books = [
         grade: "不分年级",
         subject: "信息技术",
         publisher: "上海科技教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1WrmhmxN84rIRn-zdMgPqHg?pwd=1234" }
         ]
@@ -9469,7 +9469,7 @@ const books = [
         grade: "不分年级",
         subject: "信息技术",
         publisher: "浙江教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/19squiRbS0LF4tc-0iIfyAA?pwd=1234" }
         ]
@@ -9481,7 +9481,7 @@ const books = [
         grade: "不分年级",
         subject: "信息技术",
         publisher: "浙江教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1RZGS_PvDa6GBZvIU0zt97A?pwd=1234" }
         ]
@@ -9493,7 +9493,7 @@ const books = [
         grade: "不分年级",
         subject: "信息技术",
         publisher: "广东教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/10iLd1AU65pd8kZ__8VRusA?pwd=1234" }
         ]
@@ -9505,7 +9505,7 @@ const books = [
         grade: "不分年级",
         subject: "信息技术",
         publisher: "广东教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1arrEfQvHji7yLW8TEtcRkw?pwd=1234" }
         ]
@@ -9517,7 +9517,7 @@ const books = [
         grade: "不分年级",
         subject: "信息技术",
         publisher: "广东教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1OdPD-exD27Z_u4uZK9UZmQ?pwd=1234" }
         ]
@@ -9529,7 +9529,7 @@ const books = [
         grade: "不分年级",
         subject: "信息技术",
         publisher: "广东教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1nMzUk7anbU7DbvtzUCGqTw?pwd=1234" }
         ]
@@ -9541,7 +9541,7 @@ const books = [
         grade: "不分年级",
         subject: "信息技术",
         publisher: "广东教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/10TaRe_q39COWrG7hwp6log?pwd=1234" }
         ]
@@ -9553,7 +9553,7 @@ const books = [
         grade: "不分年级",
         subject: "信息技术",
         publisher: "广东教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/19Qkd8azM3baoCxid5-EByQ?pwd=1234" }
         ]
@@ -9565,7 +9565,7 @@ const books = [
         grade: "不分年级",
         subject: "信息技术",
         publisher: "广东教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1AO2Ml_mIx0AbarzMhxVLEQ?pwd=1234" }
         ]
@@ -9577,7 +9577,7 @@ const books = [
         grade: "不分年级",
         subject: "信息技术",
         publisher: "广东教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1Tx17xdPDxLY-nmEQffdFHw?pwd=1234" }
         ]
@@ -9589,7 +9589,7 @@ const books = [
         grade: "不分年级",
         subject: "化学",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1ucyvWxGwEmDL6kOIXOrhmw?pwd=1234" }
         ]
@@ -9601,7 +9601,7 @@ const books = [
         grade: "不分年级",
         subject: "化学",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1kUcg887zUTvgewaGtAOq-A?pwd=1234" }
         ]
@@ -9613,7 +9613,7 @@ const books = [
         grade: "不分年级",
         subject: "化学",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1Y5NhjZ--qKxbEToip_pNMA?pwd=1234" }
         ]
@@ -9625,7 +9625,7 @@ const books = [
         grade: "不分年级",
         subject: "化学",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1D52pdB9S8U6Sar8iQIIslg?pwd=1234" }
         ]
@@ -9637,7 +9637,7 @@ const books = [
         grade: "不分年级",
         subject: "化学",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1kxHgAAY3u_CZryvCdbDOVQ?pwd=1234" }
         ]
@@ -9649,7 +9649,7 @@ const books = [
         grade: "不分年级",
         subject: "化学",
         publisher: "上海科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1sGfhnZyKawhnZbC9QSJUmg?pwd=1234" }
         ]
@@ -9661,7 +9661,7 @@ const books = [
         grade: "不分年级",
         subject: "化学",
         publisher: "上海科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1NER1XIHP_bvyZT6WwbYP7w?pwd=1234" }
         ]
@@ -9673,7 +9673,7 @@ const books = [
         grade: "不分年级",
         subject: "化学",
         publisher: "江苏凤凰教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1-DdS36J_ZY6nuJXRFraBHA?pwd=1234" }
         ]
@@ -9685,7 +9685,7 @@ const books = [
         grade: "不分年级",
         subject: "化学",
         publisher: "江苏凤凰教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1yPSlXGHtSuyV_w3uEN-qVg?pwd=1234" }
         ]
@@ -9697,7 +9697,7 @@ const books = [
         grade: "不分年级",
         subject: "化学",
         publisher: "江苏凤凰教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1UsxQO3YeiH8z8_tsLTaS7g?pwd=1234" }
         ]
@@ -9709,7 +9709,7 @@ const books = [
         grade: "不分年级",
         subject: "化学",
         publisher: "江苏凤凰教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/14Fe33XEXb4DebKE7G7l6LQ?pwd=1234" }
         ]
@@ -9721,7 +9721,7 @@ const books = [
         grade: "不分年级",
         subject: "化学",
         publisher: "江苏凤凰教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1yqItCkhFXVZoRPzMimQ6rw?pwd=1234" }
         ]
@@ -9733,7 +9733,7 @@ const books = [
         grade: "不分年级",
         subject: "化学",
         publisher: "山东科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/16eKsTqOqjO3d8u0_s3bTDA?pwd=1234" }
         ]
@@ -9745,7 +9745,7 @@ const books = [
         grade: "不分年级",
         subject: "化学",
         publisher: "山东科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/19tKl3vTE6Ws0nnEedZJlww?pwd=1234" }
         ]
@@ -9757,7 +9757,7 @@ const books = [
         grade: "不分年级",
         subject: "化学",
         publisher: "山东科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1C8vc5V2NH6n2jfTm6AHWzQ?pwd=1234" }
         ]
@@ -9769,7 +9769,7 @@ const books = [
         grade: "不分年级",
         subject: "化学",
         publisher: "山东科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/17U7L10MvWZn1SU--ak0yiw?pwd=1234" }
         ]
@@ -9781,7 +9781,7 @@ const books = [
         grade: "不分年级",
         subject: "化学",
         publisher: "山东科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1z2S8eblKKnqmpefjJGxrjQ?pwd=1234" }
         ]
@@ -9793,7 +9793,7 @@ const books = [
         grade: "不分年级",
         subject: "历史",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1C20Fi22F1kiXiDpySnj32A?pwd=1234" }
         ]
@@ -9805,7 +9805,7 @@ const books = [
         grade: "不分年级",
         subject: "历史",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1W2EtapFh5RDl0cWt8nJPRg?pwd=1234" }
         ]
@@ -9817,7 +9817,7 @@ const books = [
         grade: "不分年级",
         subject: "历史",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1_uIh5hyePqLuE6qJ3izziA?pwd=1234" }
         ]
@@ -9829,7 +9829,7 @@ const books = [
         grade: "不分年级",
         subject: "历史",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1-3C4PM2GG7Mk65_L9LYWDA?pwd=1234" }
         ]
@@ -9841,7 +9841,7 @@ const books = [
         grade: "不分年级",
         subject: "历史",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1s-2QAT1zRbRIHi8XJJ1krA?pwd=1234" }
         ]
@@ -9853,7 +9853,7 @@ const books = [
         grade: "不分年级",
         subject: "地理",
         publisher: "中国地图出版社、中华地图学社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1H-j9J3Tg3XhcWxph9aqJxQ?pwd=1234" }
         ]
@@ -9865,7 +9865,7 @@ const books = [
         grade: "不分年级",
         subject: "地理",
         publisher: "中国地图出版社、中华地图学社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1fHZ0yPfVVJ1KSIb9WAK9_Q?pwd=1234" }
         ]
@@ -9877,7 +9877,7 @@ const books = [
         grade: "不分年级",
         subject: "地理",
         publisher: "中国地图出版社、中华地图学社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1jv0cHv6NSERbbkdPXYjsqg?pwd=1234" }
         ]
@@ -9889,7 +9889,7 @@ const books = [
         grade: "不分年级",
         subject: "地理",
         publisher: "中国地图出版社、中华地图学社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1pbot7h-nLQULLwltefVvxA?pwd=1234" }
         ]
@@ -9901,7 +9901,7 @@ const books = [
         grade: "不分年级",
         subject: "地理",
         publisher: "中国地图出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1uQBjqXt0F-05C3fOjbxM5Q?pwd=1234" }
         ]
@@ -9913,7 +9913,7 @@ const books = [
         grade: "不分年级",
         subject: "地理",
         publisher: "中国地图出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1-DguGTAlL-fo9w2iqpvRbg?pwd=1234" }
         ]
@@ -9925,7 +9925,7 @@ const books = [
         grade: "不分年级",
         subject: "地理",
         publisher: "中国地图出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1-KLkESe8I51LMI0ntvZJaA?pwd=1234" }
         ]
@@ -9937,7 +9937,7 @@ const books = [
         grade: "不分年级",
         subject: "地理",
         publisher: "中国地图出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1DNF9fsWG3Kxqx49FkrTQJg?pwd=1234" }
         ]
@@ -9949,7 +9949,7 @@ const books = [
         grade: "不分年级",
         subject: "地理",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/19iU70KIWYvn3ntH2cYbdaQ?pwd=1234" }
         ]
@@ -9961,7 +9961,7 @@ const books = [
         grade: "不分年级",
         subject: "地理",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/19MPSbDg4GIhAWqtBHMJbQA?pwd=1234" }
         ]
@@ -9973,7 +9973,7 @@ const books = [
         grade: "不分年级",
         subject: "地理",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1HQkSHOzo1TiwSwUkU5_3lw?pwd=1234" }
         ]
@@ -9985,7 +9985,7 @@ const books = [
         grade: "不分年级",
         subject: "地理",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1k3yCf_QUt6FPMOHzpeWFnw?pwd=1234" }
         ]
@@ -9997,7 +9997,7 @@ const books = [
         grade: "不分年级",
         subject: "地理",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1l75gcZlkfqAWaMKfRBNmcQ?pwd=1234" }
         ]
@@ -10009,7 +10009,7 @@ const books = [
         grade: "不分年级",
         subject: "地理",
         publisher: "湖南教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1RanE9Oljfs4JZEV5eKIiaA?pwd=1234" }
         ]
@@ -10021,7 +10021,7 @@ const books = [
         grade: "不分年级",
         subject: "地理",
         publisher: "湖南教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1HUF9yrujY8d0nE6fkMFwZA?pwd=1234" }
         ]
@@ -10033,7 +10033,7 @@ const books = [
         grade: "不分年级",
         subject: "地理",
         publisher: "湖南教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1MmR8u-mNuxjLmiYdpf0lcQ?pwd=1234" }
         ]
@@ -10045,7 +10045,7 @@ const books = [
         grade: "不分年级",
         subject: "地理",
         publisher: "湖南教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/113wUQhTPqqCHSWGrIXk4vw?pwd=1234" }
         ]
@@ -10057,7 +10057,7 @@ const books = [
         grade: "不分年级",
         subject: "地理",
         publisher: "湖南教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1Qyu3dFJYeYOpSwsmR6-Xwg?pwd=1234" }
         ]
@@ -10069,7 +10069,7 @@ const books = [
         grade: "不分年级",
         subject: "地理",
         publisher: "山东教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1GWRHtgE2YLgVjIaZBgJAaw?pwd=1234" }
         ]
@@ -10081,7 +10081,7 @@ const books = [
         grade: "不分年级",
         subject: "地理",
         publisher: "山东教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/19xZH45kLO44QK6xZBIr1ZQ?pwd=1234" }
         ]
@@ -10093,7 +10093,7 @@ const books = [
         grade: "不分年级",
         subject: "地理",
         publisher: "山东教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1RVRtmTNX1i_hbzebdaf2aQ?pwd=1234" }
         ]
@@ -10105,7 +10105,7 @@ const books = [
         grade: "不分年级",
         subject: "地理",
         publisher: "山东教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1VtJrkZRrBGiPVPWX1RnXZQ?pwd=1234" }
         ]
@@ -10117,7 +10117,7 @@ const books = [
         grade: "不分年级",
         subject: "地理",
         publisher: "山东教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1W0ir2gKCf5WTnrwtO_3x1w?pwd=1234" }
         ]
@@ -10129,7 +10129,7 @@ const books = [
         grade: "不分年级",
         subject: "思想政治",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1scCPq_AJY7vy14m389TP3g?pwd=1234" }
         ]
@@ -10141,7 +10141,7 @@ const books = [
         grade: "不分年级",
         subject: "思想政治",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1h0ybJs_rI-dxxClDX-Upng?pwd=1234" }
         ]
@@ -10153,7 +10153,7 @@ const books = [
         grade: "不分年级",
         subject: "思想政治",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1h2oj00F8Uauz4pj37N7Gyg?pwd=1234" }
         ]
@@ -10165,7 +10165,7 @@ const books = [
         grade: "不分年级",
         subject: "思想政治",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1BYoc3s07h4Kl14iA6lXfYA?pwd=1234" }
         ]
@@ -10177,7 +10177,7 @@ const books = [
         grade: "不分年级",
         subject: "思想政治",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/18HLlAoA4OIB4VHHq4ljKLQ?pwd=1234" }
         ]
@@ -10189,7 +10189,7 @@ const books = [
         grade: "不分年级",
         subject: "思想政治",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1rktgUUXupkH3lfGhdN0Tug?pwd=1234" }
         ]
@@ -10201,7 +10201,7 @@ const books = [
         grade: "不分年级",
         subject: "思想政治",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1CPZ3E6a3rsJxhecrgxomeg?pwd=1234" }
         ]
@@ -10213,7 +10213,7 @@ const books = [
         grade: "不分年级",
         subject: "思想政治",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/11fCqBH0mdI7vrNyqkpoQUQ?pwd=1234" }
         ]
@@ -10225,7 +10225,7 @@ const books = [
         grade: "不分年级",
         subject: "数学",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/17cssoXk0Qc8VYGMNEQgvug?pwd=1234" }
         ]
@@ -10237,7 +10237,7 @@ const books = [
         grade: "不分年级",
         subject: "数学",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1aZMZ3q3leiBVuTB9v4pcNA?pwd=1234" }
         ]
@@ -10249,7 +10249,7 @@ const books = [
         grade: "不分年级",
         subject: "数学",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/17YTMLi0ggg-xfJoEoUkIGQ?pwd=1234" }
         ]
@@ -10261,7 +10261,7 @@ const books = [
         grade: "不分年级",
         subject: "数学",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1LHD9vObhiyJDKT5-OUcsTw?pwd=1234" }
         ]
@@ -10273,7 +10273,7 @@ const books = [
         grade: "不分年级",
         subject: "数学",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1ooy5BisRtral7fvfjV0Org?pwd=1234" }
         ]
@@ -10285,7 +10285,7 @@ const books = [
         grade: "不分年级",
         subject: "数学",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/146vdNbXFZtMudxeInnD48g?pwd=1234" }
         ]
@@ -10297,7 +10297,7 @@ const books = [
         grade: "不分年级",
         subject: "数学",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1ybtuZ3gfofRcn_HVcJ8rtQ?pwd=1234" }
         ]
@@ -10309,7 +10309,7 @@ const books = [
         grade: "不分年级",
         subject: "数学",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1sB7GsOFv6eKvgmZ5dldsmw?pwd=1234" }
         ]
@@ -10321,7 +10321,7 @@ const books = [
         grade: "不分年级",
         subject: "数学",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1HaJsWtZm2OSk5WXQCSmWpw?pwd=1234" }
         ]
@@ -10333,7 +10333,7 @@ const books = [
         grade: "不分年级",
         subject: "数学",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1nXGud_kDBoY78yE52cq8kQ?pwd=1234" }
         ]
@@ -10345,7 +10345,7 @@ const books = [
         grade: "不分年级",
         subject: "数学",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1kRQ5pd1EmH7r4dYa8HZmCQ?pwd=1234" }
         ]
@@ -10357,7 +10357,7 @@ const books = [
         grade: "不分年级",
         subject: "数学",
         publisher: "北京师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1cNd8siAAwtvru-3dSSq8cw?pwd=1234" }
         ]
@@ -10369,7 +10369,7 @@ const books = [
         grade: "不分年级",
         subject: "数学",
         publisher: "北京师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1j6fBW9b6Ols08cLPRCfTow?pwd=1234" }
         ]
@@ -10381,7 +10381,7 @@ const books = [
         grade: "不分年级",
         subject: "数学",
         publisher: "北京师范大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/18nfdPM0MWtRILYNiJtbN2g?pwd=1234" }
         ]
@@ -10393,7 +10393,7 @@ const books = [
         grade: "不分年级",
         subject: "数学",
         publisher: "上海教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1KAhxWb7-c0NPCKT3HgXEJg?pwd=1234" }
         ]
@@ -10405,7 +10405,7 @@ const books = [
         grade: "不分年级",
         subject: "数学",
         publisher: "上海教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1sE5Fv63Mu--PThg4uW5c7Q?pwd=1234" }
         ]
@@ -10417,7 +10417,7 @@ const books = [
         grade: "不分年级",
         subject: "数学",
         publisher: "上海教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1me26ACjSV7RQomHRC5v35g?pwd=1234" }
         ]
@@ -10429,7 +10429,7 @@ const books = [
         grade: "不分年级",
         subject: "数学",
         publisher: "上海教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1wb5vWAg1diQjSa62xTc7Hg?pwd=1234" }
         ]
@@ -10441,7 +10441,7 @@ const books = [
         grade: "不分年级",
         subject: "数学",
         publisher: "上海教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1g7JMl6jqAEEuUczEGuxFuQ?pwd=1234" }
         ]
@@ -10453,7 +10453,7 @@ const books = [
         grade: "不分年级",
         subject: "数学",
         publisher: "上海教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1gKY_zj8BHy0Ff-EGEk5KeA?pwd=1234" }
         ]
@@ -10465,7 +10465,7 @@ const books = [
         grade: "不分年级",
         subject: "数学",
         publisher: "湖南教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1beywHtWV7Nux6ZbHHzhxTg?pwd=1234" }
         ]
@@ -10477,7 +10477,7 @@ const books = [
         grade: "不分年级",
         subject: "数学",
         publisher: "湖南教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1KsWXE51ubP36o65KOrbIOA?pwd=1234" }
         ]
@@ -10489,7 +10489,7 @@ const books = [
         grade: "不分年级",
         subject: "数学",
         publisher: "湖南教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1_PgkspPnsJuDrrxRYrWw6g?pwd=1234" }
         ]
@@ -10501,7 +10501,7 @@ const books = [
         grade: "不分年级",
         subject: "数学",
         publisher: "湖南教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1_K4BRdIvMcYot_osSU_8iw?pwd=1234" }
         ]
@@ -10513,7 +10513,7 @@ const books = [
         grade: "不分年级",
         subject: "数学",
         publisher: "江苏凤凰教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1fF2rrMThxk6dDZOslPFLFg?pwd=1234" }
         ]
@@ -10525,7 +10525,7 @@ const books = [
         grade: "不分年级",
         subject: "数学",
         publisher: "江苏凤凰教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1a1N47U03NgSCwUJF-dD3-g?pwd=1234" }
         ]
@@ -10537,7 +10537,7 @@ const books = [
         grade: "不分年级",
         subject: "数学",
         publisher: "江苏凤凰教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1G5wlhBa7_xcAQUV7yW5oGw?pwd=1234" }
         ]
@@ -10549,7 +10549,7 @@ const books = [
         grade: "不分年级",
         subject: "数学",
         publisher: "江苏凤凰教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1xP_K-A0m2TnGt9qdjrIZjw?pwd=1234" }
         ]
@@ -10561,7 +10561,7 @@ const books = [
         grade: "不分年级",
         subject: "数学",
         publisher: "湖北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1igfIGOQvCG6L65Gi0_xs6Q?pwd=1234" }
         ]
@@ -10573,7 +10573,7 @@ const books = [
         grade: "不分年级",
         subject: "数学",
         publisher: "湖北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1J_LYaeG5T9mpc07Nn2m9Ng?pwd=1234" }
         ]
@@ -10585,7 +10585,7 @@ const books = [
         grade: "不分年级",
         subject: "数学",
         publisher: "湖北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1CZBMYJJBLP9rNVCt1ewYFA?pwd=1234" }
         ]
@@ -10597,7 +10597,7 @@ const books = [
         grade: "不分年级",
         subject: "数学",
         publisher: "湖北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1ZCrChE4EXw9ri6A7nLGoDQ?pwd=1234" }
         ]
@@ -10609,7 +10609,7 @@ const books = [
         grade: "不分年级",
         subject: "数学",
         publisher: "湖北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1DHLiHff54XPy5gIOaTI3vQ?pwd=1234" }
         ]
@@ -10621,7 +10621,7 @@ const books = [
         grade: "不分年级",
         subject: "数学",
         publisher: "湖北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1y5bHzobicXg_QVxgc2IO9g?pwd=1234" }
         ]
@@ -10633,7 +10633,7 @@ const books = [
         grade: "不分年级",
         subject: "数学",
         publisher: "湖北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/11foHq5KRl6DaYOekUfmiiw?pwd=1234" }
         ]
@@ -10645,7 +10645,7 @@ const books = [
         grade: "不分年级",
         subject: "物理",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1FPn7SI0NII8tZ4kXrLZIfQ?pwd=1234" }
         ]
@@ -10657,7 +10657,7 @@ const books = [
         grade: "不分年级",
         subject: "物理",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/16bgM2fmmWwC312oYlGa_cw?pwd=1234" }
         ]
@@ -10669,7 +10669,7 @@ const books = [
         grade: "不分年级",
         subject: "物理",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/19vg5oUVRwCD_y5qU62fU1w?pwd=1234" }
         ]
@@ -10681,7 +10681,7 @@ const books = [
         grade: "不分年级",
         subject: "物理",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1Vk4NrQTPcoWQPb6WTX6jzg?pwd=1234" }
         ]
@@ -10693,7 +10693,7 @@ const books = [
         grade: "不分年级",
         subject: "物理",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/16uzwyKCqXw3yE2vUq3y-QA?pwd=1234" }
         ]
@@ -10705,7 +10705,7 @@ const books = [
         grade: "不分年级",
         subject: "物理",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1jvEYUS5gEdFWGEFosMBLgA?pwd=1234" }
         ]
@@ -10717,7 +10717,7 @@ const books = [
         grade: "不分年级",
         subject: "物理",
         publisher: "教育科学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1ZBq9JMFO4EzXDhyEgrCWaQ?pwd=1234" }
         ]
@@ -10729,7 +10729,7 @@ const books = [
         grade: "不分年级",
         subject: "物理",
         publisher: "教育科学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1_fHO97xoNstlv9NNj37GBA?pwd=1234" }
         ]
@@ -10741,7 +10741,7 @@ const books = [
         grade: "不分年级",
         subject: "物理",
         publisher: "教育科学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1ih-j4B_3eDyCgveSXjmsRA?pwd=1234" }
         ]
@@ -10753,7 +10753,7 @@ const books = [
         grade: "不分年级",
         subject: "物理",
         publisher: "教育科学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1e-C6sUFqlwDqChtBpwgNNQ?pwd=1234" }
         ]
@@ -10765,7 +10765,7 @@ const books = [
         grade: "不分年级",
         subject: "物理",
         publisher: "教育科学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1GVs-QzCqPPMzSchnlnPlFg?pwd=1234" }
         ]
@@ -10777,7 +10777,7 @@ const books = [
         grade: "不分年级",
         subject: "物理",
         publisher: "教育科学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1zy7CwkoUO-0yZkDPOqjCFw?pwd=1234" }
         ]
@@ -10789,7 +10789,7 @@ const books = [
         grade: "不分年级",
         subject: "物理",
         publisher: "上海科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1S2FIjMEToEUz-To4C5ohHw?pwd=1234" }
         ]
@@ -10801,7 +10801,7 @@ const books = [
         grade: "不分年级",
         subject: "物理",
         publisher: "上海科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1ImqD_2qad7LrYO0d56MrQQ?pwd=1234" }
         ]
@@ -10813,7 +10813,7 @@ const books = [
         grade: "不分年级",
         subject: "物理",
         publisher: "上海科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/18bZOp-Zm-ino52YYTGUvqg?pwd=1234" }
         ]
@@ -10825,7 +10825,7 @@ const books = [
         grade: "不分年级",
         subject: "物理",
         publisher: "上海科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/12oAjbRESdwhui9BQ9fcnIg?pwd=1234" }
         ]
@@ -10837,7 +10837,7 @@ const books = [
         grade: "不分年级",
         subject: "物理",
         publisher: "上海科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1WF2Iqj8I1clTJ_iMf1Fe_w?pwd=1234" }
         ]
@@ -10849,7 +10849,7 @@ const books = [
         grade: "不分年级",
         subject: "物理",
         publisher: "上海科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1zFNfigC0vUVO0Yl8XN8jXw?pwd=1234" }
         ]
@@ -10861,7 +10861,7 @@ const books = [
         grade: "不分年级",
         subject: "物理",
         publisher: "上海科技教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1LuNFe8uyDC5hgWYv3Ewxww?pwd=1234" }
         ]
@@ -10873,7 +10873,7 @@ const books = [
         grade: "不分年级",
         subject: "物理",
         publisher: "上海科技教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1DH8pWJdDS9n_SXZIyzBLRA?pwd=1234" }
         ]
@@ -10885,7 +10885,7 @@ const books = [
         grade: "不分年级",
         subject: "物理",
         publisher: "上海科技教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1R-7fKt4qYpaxYfOuzH97QQ?pwd=1234" }
         ]
@@ -10897,7 +10897,7 @@ const books = [
         grade: "不分年级",
         subject: "物理",
         publisher: "上海科技教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1oFLrs_UOKRqKQBnQEUd6ZQ?pwd=1234" }
         ]
@@ -10909,7 +10909,7 @@ const books = [
         grade: "不分年级",
         subject: "物理",
         publisher: "上海科技教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1S_rqTdJiya0qujFszushig?pwd=1234" }
         ]
@@ -10921,7 +10921,7 @@ const books = [
         grade: "不分年级",
         subject: "物理",
         publisher: "上海科技教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/19kQSlje1wBJEgipYA4xjpQ?pwd=1234" }
         ]
@@ -10933,7 +10933,7 @@ const books = [
         grade: "不分年级",
         subject: "物理",
         publisher: "广东教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1A0EjM4r8HUl8wizIOiq2eQ?pwd=1234" }
         ]
@@ -10945,7 +10945,7 @@ const books = [
         grade: "不分年级",
         subject: "物理",
         publisher: "广东教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1hPEVtMce7RKyPfQJ5Q00pw?pwd=1234" }
         ]
@@ -10957,7 +10957,7 @@ const books = [
         grade: "不分年级",
         subject: "物理",
         publisher: "广东教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1osVCnc0eIj8UQ5TnRQBELg?pwd=1234" }
         ]
@@ -10969,7 +10969,7 @@ const books = [
         grade: "不分年级",
         subject: "物理",
         publisher: "广东教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1WrPW44I1d1veeOqDFgP6-Q?pwd=1234" }
         ]
@@ -10981,7 +10981,7 @@ const books = [
         grade: "不分年级",
         subject: "物理",
         publisher: "广东教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1YuDTyQNQmjdl8PR9sSDoUg?pwd=1234" }
         ]
@@ -10993,7 +10993,7 @@ const books = [
         grade: "不分年级",
         subject: "物理",
         publisher: "广东教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1XXnuoFxMu_b1oR-Uy4V8hA?pwd=1234" }
         ]
@@ -11005,7 +11005,7 @@ const books = [
         grade: "不分年级",
         subject: "物理",
         publisher: "山东科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1ChvlH9YJqWGlUYPH_0tz0g?pwd=1234" }
         ]
@@ -11017,7 +11017,7 @@ const books = [
         grade: "不分年级",
         subject: "物理",
         publisher: "山东科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1soFBHSNKXcOa-72KPT8cmg?pwd=1234" }
         ]
@@ -11029,7 +11029,7 @@ const books = [
         grade: "不分年级",
         subject: "物理",
         publisher: "山东科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1oiwPBWRAH-NxpQcDT4aRlQ?pwd=1234" }
         ]
@@ -11041,7 +11041,7 @@ const books = [
         grade: "不分年级",
         subject: "物理",
         publisher: "山东科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1IKTO8CADs6groCvi-pv-vQ?pwd=1234" }
         ]
@@ -11053,7 +11053,7 @@ const books = [
         grade: "不分年级",
         subject: "物理",
         publisher: "山东科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1n4gEQjVl4_um2fjjbfxvHg?pwd=1234" }
         ]
@@ -11065,7 +11065,7 @@ const books = [
         grade: "不分年级",
         subject: "物理",
         publisher: "山东科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1m0_h92rWCxv0elU5yCHsTA?pwd=1234" }
         ]
@@ -11077,7 +11077,7 @@ const books = [
         grade: "不分年级",
         subject: "生物学",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/17X0Yw8KQ8CuKpu-izMbCTw?pwd=1234" }
         ]
@@ -11089,7 +11089,7 @@ const books = [
         grade: "不分年级",
         subject: "生物学",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1fnh3TsvCICmAOX2eU9SGbg?pwd=1234" }
         ]
@@ -11101,7 +11101,7 @@ const books = [
         grade: "不分年级",
         subject: "生物学",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1_cTJrGNt003pc5O4Oa4v_Q?pwd=1234" }
         ]
@@ -11113,7 +11113,7 @@ const books = [
         grade: "不分年级",
         subject: "生物学",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1xpIIc0upTDfOhYjCiNCMXw?pwd=1234" }
         ]
@@ -11125,7 +11125,7 @@ const books = [
         grade: "不分年级",
         subject: "生物学",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1oIzuy-tTY4zfl4yiE7lhmQ?pwd=1234" }
         ]
@@ -11137,7 +11137,7 @@ const books = [
         grade: "不分年级",
         subject: "生物学",
         publisher: "上海科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/13YmxnD1YdndkuUJ56RCUiA?pwd=1234" }
         ]
@@ -11149,7 +11149,7 @@ const books = [
         grade: "不分年级",
         subject: "生物学",
         publisher: "上海科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1yBd58TYaayY8s-GBlWyq8w?pwd=1234" }
         ]
@@ -11161,7 +11161,7 @@ const books = [
         grade: "不分年级",
         subject: "生物学",
         publisher: "上海科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1UnGhgu3L38uz-_ucjwJK-Q?pwd=1234" }
         ]
@@ -11173,7 +11173,7 @@ const books = [
         grade: "不分年级",
         subject: "生物学",
         publisher: "上海科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1nc-STKxb4vTJMpQ0yPiDGQ?pwd=1234" }
         ]
@@ -11185,7 +11185,7 @@ const books = [
         grade: "不分年级",
         subject: "生物学",
         publisher: "上海科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1H6kX2b7OLn5-6CKL9ibI5w?pwd=1234" }
         ]
@@ -11197,7 +11197,7 @@ const books = [
         grade: "不分年级",
         subject: "生物学",
         publisher: "上海科技教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1nYXdigICwBlbEiVqyPpx0w?pwd=1234" }
         ]
@@ -11209,7 +11209,7 @@ const books = [
         grade: "不分年级",
         subject: "生物学",
         publisher: "上海科技教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1vKglRJDuPGBPLEMaxfss8Q?pwd=1234" }
         ]
@@ -11221,7 +11221,7 @@ const books = [
         grade: "不分年级",
         subject: "生物学",
         publisher: "上海科技教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1QZy8WRLLryxWkBrIe3PokA?pwd=1234" }
         ]
@@ -11233,7 +11233,7 @@ const books = [
         grade: "不分年级",
         subject: "生物学",
         publisher: "上海科技教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1Rk3nbpwjeE-_F1pl1uxfiA?pwd=1234" }
         ]
@@ -11245,7 +11245,7 @@ const books = [
         grade: "不分年级",
         subject: "生物学",
         publisher: "上海科技教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/10KayTrvOWvd3OzLM3l0Tiw?pwd=1234" }
         ]
@@ -11257,7 +11257,7 @@ const books = [
         grade: "不分年级",
         subject: "生物学",
         publisher: "浙江科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1OwZfaQhp5fXv8YCtD3iFiw?pwd=1234" }
         ]
@@ -11269,7 +11269,7 @@ const books = [
         grade: "不分年级",
         subject: "生物学",
         publisher: "浙江科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1Q41-OnnA3ApWeE02pcRCKA?pwd=1234" }
         ]
@@ -11281,7 +11281,7 @@ const books = [
         grade: "不分年级",
         subject: "生物学",
         publisher: "浙江科学技术出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1_FAUfo27nEaQhGdiIFQahg?pwd=1234" }
         ]
@@ -11293,7 +11293,7 @@ const books = [
         grade: "不分年级",
         subject: "生物学",
         publisher: "江苏凤凰教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1LLyLKP49CYdzYv3sO5d4bw?pwd=1234" }
         ]
@@ -11305,7 +11305,7 @@ const books = [
         grade: "不分年级",
         subject: "生物学",
         publisher: "江苏凤凰教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1IfTzOJro4fU1sJvDvqOqtg?pwd=1234" }
         ]
@@ -11317,7 +11317,7 @@ const books = [
         grade: "不分年级",
         subject: "生物学",
         publisher: "江苏凤凰教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1rEwfThoUGA4oEnUo_wJajg?pwd=1234" }
         ]
@@ -11329,7 +11329,7 @@ const books = [
         grade: "不分年级",
         subject: "生物学",
         publisher: "江苏凤凰教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/10wgmPK0IjQ2ID8pvEgY9PA?pwd=1234" }
         ]
@@ -11341,7 +11341,7 @@ const books = [
         grade: "不分年级",
         subject: "生物学",
         publisher: "江苏凤凰教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/12y46HP1GBk84TKWa2hlRuw?pwd=1234" }
         ]
@@ -11353,7 +11353,7 @@ const books = [
         grade: "不分年级",
         subject: "英语",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1IrbfJJl12_Y3omasgLq0rg?pwd=1234" }
         ]
@@ -11365,7 +11365,7 @@ const books = [
         grade: "不分年级",
         subject: "英语",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1hNCDlCjGrNlUxDqegkdMtw?pwd=1234" }
         ]
@@ -11377,7 +11377,7 @@ const books = [
         grade: "不分年级",
         subject: "英语",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1vAbJQOhGb8ljF-v3rpvSIA?pwd=1234" }
         ]
@@ -11389,7 +11389,7 @@ const books = [
         grade: "不分年级",
         subject: "英语",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1L2MfXaH0KF4oOibIkEqojg?pwd=1234" }
         ]
@@ -11401,7 +11401,7 @@ const books = [
         grade: "不分年级",
         subject: "英语",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1ZPgEjoTBxrX8XLTfuREc5Q?pwd=1234" }
         ]
@@ -11413,7 +11413,7 @@ const books = [
         grade: "不分年级",
         subject: "英语",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1CQsjzp4YbOhcLV2I52rN0g?pwd=1234" }
         ]
@@ -11425,7 +11425,7 @@ const books = [
         grade: "不分年级",
         subject: "英语",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1P7BuUh9gwBUtMnj_IigONQ?pwd=1234" }
         ]
@@ -11437,7 +11437,7 @@ const books = [
         grade: "不分年级",
         subject: "英语",
         publisher: "河北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1GyxVlCe9rpMB2BKu3TQu1Q?pwd=1234" }
         ]
@@ -11449,7 +11449,7 @@ const books = [
         grade: "不分年级",
         subject: "英语",
         publisher: "河北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1gnT47nYiXiNMIBPOrejEnw?pwd=1234" }
         ]
@@ -11461,7 +11461,7 @@ const books = [
         grade: "不分年级",
         subject: "英语",
         publisher: "河北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/14NwLuDOqF7ENUUROzwFtZg?pwd=1234" }
         ]
@@ -11473,7 +11473,7 @@ const books = [
         grade: "不分年级",
         subject: "英语",
         publisher: "河北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1tHQJkP4-gnRZ6s6BZLZjUQ?pwd=1234" }
         ]
@@ -11485,7 +11485,7 @@ const books = [
         grade: "不分年级",
         subject: "英语",
         publisher: "河北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1-Sfcynp0l__CanUcXClptQ?pwd=1234" }
         ]
@@ -11497,7 +11497,7 @@ const books = [
         grade: "不分年级",
         subject: "英语",
         publisher: "河北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1eg2ZTv019vSapCsvCkl4dw?pwd=1234" }
         ]
@@ -11509,7 +11509,7 @@ const books = [
         grade: "不分年级",
         subject: "英语",
         publisher: "河北教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1BNLxm4XlAy-w4OoE6B77vg?pwd=1234" }
         ]
@@ -11521,7 +11521,7 @@ const books = [
         grade: "不分年级",
         subject: "英语",
         publisher: "外语教学与研究出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1gVdISU-Il-uZkBXyy3Mbww?pwd=1234" }
         ]
@@ -11533,7 +11533,7 @@ const books = [
         grade: "不分年级",
         subject: "英语",
         publisher: "外语教学与研究出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1iXSUBRjWGiRk9Evw9oLpVw?pwd=1234" }
         ]
@@ -11545,7 +11545,7 @@ const books = [
         grade: "不分年级",
         subject: "英语",
         publisher: "外语教学与研究出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1FCQCR31MBJ6XNFKDCeAH2g?pwd=1234" }
         ]
@@ -11557,7 +11557,7 @@ const books = [
         grade: "不分年级",
         subject: "英语",
         publisher: "外语教学与研究出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1wY4AYGbp1vxReuqK-kM1hw?pwd=1234" }
         ]
@@ -11569,7 +11569,7 @@ const books = [
         grade: "不分年级",
         subject: "英语",
         publisher: "外语教学与研究出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1XurH5pjV7b5nnbxTu9KO_g?pwd=1234" }
         ]
@@ -11581,7 +11581,7 @@ const books = [
         grade: "不分年级",
         subject: "英语",
         publisher: "外语教学与研究出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1j4XV5u6ELBI0A67k9MJFHw?pwd=1234" }
         ]
@@ -11593,7 +11593,7 @@ const books = [
         grade: "不分年级",
         subject: "英语",
         publisher: "外语教学与研究出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1_a7r1JyR7ZznYKsgG3QR0g?pwd=1234" }
         ]
@@ -11605,7 +11605,7 @@ const books = [
         grade: "不分年级",
         subject: "英语",
         publisher: "上海外语教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1N8daO3A4y-mJ69s-_dCPUg?pwd=1234" }
         ]
@@ -11617,7 +11617,7 @@ const books = [
         grade: "不分年级",
         subject: "英语",
         publisher: "上海外语教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1TcZ37337VUWQMAFvfPYcRg?pwd=1234" }
         ]
@@ -11629,7 +11629,7 @@ const books = [
         grade: "不分年级",
         subject: "英语",
         publisher: "上海外语教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1RFEK9AStPtSBAa9B3HxC3w?pwd=1234" }
         ]
@@ -11641,7 +11641,7 @@ const books = [
         grade: "不分年级",
         subject: "英语",
         publisher: "上海外语教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1oaFViHjCZDcfrB6I74-eng?pwd=1234" }
         ]
@@ -11653,7 +11653,7 @@ const books = [
         grade: "不分年级",
         subject: "英语",
         publisher: "上海外语教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1pL0_kENgy0iVurKQ8P54bA?pwd=1234" }
         ]
@@ -11665,7 +11665,7 @@ const books = [
         grade: "不分年级",
         subject: "英语",
         publisher: "上海外语教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1dJdh57lR2yW3D4_yg925Sw?pwd=1234" }
         ]
@@ -11677,7 +11677,7 @@ const books = [
         grade: "不分年级",
         subject: "英语",
         publisher: "上海外语教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1cGmu1ggSl3GQRWDP1gDadA?pwd=1234" }
         ]
@@ -11689,7 +11689,7 @@ const books = [
         grade: "不分年级",
         subject: "英语",
         publisher: "上海教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1Htbgxz3LLY_sOMfRG18-LA?pwd=1234" }
         ]
@@ -11701,7 +11701,7 @@ const books = [
         grade: "不分年级",
         subject: "英语",
         publisher: "上海教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1Em2FMvg9Y6zYHuEac75-mg?pwd=1234" }
         ]
@@ -11713,7 +11713,7 @@ const books = [
         grade: "不分年级",
         subject: "英语",
         publisher: "上海教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1inve4Vhioxykyj7tlkzGSw?pwd=1234" }
         ]
@@ -11725,7 +11725,7 @@ const books = [
         grade: "不分年级",
         subject: "英语",
         publisher: "上海教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1acBtZwG7D5N2nnrEhmnUvQ?pwd=1234" }
         ]
@@ -11737,7 +11737,7 @@ const books = [
         grade: "不分年级",
         subject: "英语",
         publisher: "上海教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/15sW7Ts6o8cDSFAH3K3h43w?pwd=1234" }
         ]
@@ -11749,7 +11749,7 @@ const books = [
         grade: "不分年级",
         subject: "英语",
         publisher: "上海教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/19p_eM3frWdQN8KtMR8OG4Q?pwd=1234" }
         ]
@@ -11761,7 +11761,7 @@ const books = [
         grade: "不分年级",
         subject: "英语",
         publisher: "译林出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1_6VC8d7n8_4SOjLz0UtRog?pwd=1234" }
         ]
@@ -11773,7 +11773,7 @@ const books = [
         grade: "不分年级",
         subject: "英语",
         publisher: "译林出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1eDuMkrzj7_6T1s1GF4TNOA?pwd=1234" }
         ]
@@ -11785,7 +11785,7 @@ const books = [
         grade: "不分年级",
         subject: "英语",
         publisher: "译林出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/10elzDNBLv6cRLb8Rg6226g?pwd=1234" }
         ]
@@ -11797,7 +11797,7 @@ const books = [
         grade: "不分年级",
         subject: "英语",
         publisher: "译林出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1qv0ettM0y4J56nBY1pVPsw?pwd=1234" }
         ]
@@ -11809,7 +11809,7 @@ const books = [
         grade: "不分年级",
         subject: "英语",
         publisher: "译林出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1l1g3fpzQjO3drL_MKp7TsQ?pwd=1234" }
         ]
@@ -11821,7 +11821,7 @@ const books = [
         grade: "不分年级",
         subject: "英语",
         publisher: "译林出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1S6CHtBha-pg0JIWY7zYEjg?pwd=1234" }
         ]
@@ -11833,7 +11833,7 @@ const books = [
         grade: "不分年级",
         subject: "英语",
         publisher: "译林出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1D4MTUe3Aj-U3HxD9xsgRhQ?pwd=1234" }
         ]
@@ -11845,7 +11845,7 @@ const books = [
         grade: "不分年级",
         subject: "英语",
         publisher: "重庆大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1JCcENqJDS1GU-fwoob_A_w?pwd=1234" }
         ]
@@ -11857,7 +11857,7 @@ const books = [
         grade: "不分年级",
         subject: "英语",
         publisher: "重庆大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1Y5sZMYhTLXTTGqoTZcLoGA?pwd=1234" }
         ]
@@ -11869,7 +11869,7 @@ const books = [
         grade: "不分年级",
         subject: "英语",
         publisher: "重庆大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1HUk235sPZq8nFAXy_BJHiA?pwd=1234" }
         ]
@@ -11881,7 +11881,7 @@ const books = [
         grade: "不分年级",
         subject: "英语",
         publisher: "重庆大学出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/18DHuZuaf0I9cSdx9YDs3oA?pwd=1234" }
         ]
@@ -11893,7 +11893,7 @@ const books = [
         grade: "不分年级",
         subject: "语文",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1RKCWNCE3Jl1gmhnEYvkPAA?pwd=1234" }
         ]
@@ -11905,7 +11905,7 @@ const books = [
         grade: "不分年级",
         subject: "语文",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1oBv0r7rTrV96oR-_0pqu5A?pwd=1234" }
         ]
@@ -11917,7 +11917,7 @@ const books = [
         grade: "不分年级",
         subject: "语文",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1Sqlaofg6DZqUTlr1igL6YQ?pwd=1234" }
         ]
@@ -11929,7 +11929,7 @@ const books = [
         grade: "不分年级",
         subject: "语文",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1UgWeOOhKLDAnk_PLxJsFPA?pwd=1234" }
         ]
@@ -11941,7 +11941,7 @@ const books = [
         grade: "不分年级",
         subject: "语文",
         publisher: "人民教育出版社",
-        cover: "https://book.hikid.org/img/sample.jpg",
+        cover: "img/sample.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1k0m5JTOEbipcGQgN1_vztA?pwd=1234" }
         ]
