@@ -635,9 +635,9 @@ const books = [
         grade: "七年级",
         subject: "数学",
         publisher: "人民教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/sx7a01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1K3IX4MzRqWxwvHpf-CKV1Q?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/14QzCYx_6huzHWpgg6ozD0g?pwd=9tgr" }
         ]
     },
     {
@@ -647,9 +647,9 @@ const books = [
         grade: "七年级",
         subject: "数学",
         publisher: "人民教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/sx7b01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/14YQqC7p6jwkm-rumgKpq7g?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/14QzCYx_6huzHWpgg6ozD0g?pwd=9tgr" }
         ]
     },
     {
@@ -659,9 +659,9 @@ const books = [
         grade: "九年级",
         subject: "数学",
         publisher: "人民教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/sx9a01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1RgZiLh1K7PtuVPswJ0uzjQ?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/14QzCYx_6huzHWpgg6ozD0g?pwd=9tgr" }
         ]
     },
     {
@@ -671,9 +671,9 @@ const books = [
         grade: "九年级",
         subject: "数学",
         publisher: "人民教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/sx9b01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1q508HmMcQtUDrDBgcWyEMA?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/14QzCYx_6huzHWpgg6ozD0g?pwd=9tgr" }
         ]
     },
     {
@@ -683,9 +683,9 @@ const books = [
         grade: "八年级",
         subject: "数学",
         publisher: "人民教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/sx8a01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1jcI8X5zZQZKeRlywd0jZ9Q?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/14QzCYx_6huzHWpgg6ozD0g?pwd=9tgr" }
         ]
     },
     {
@@ -695,9 +695,9 @@ const books = [
         grade: "八年级",
         subject: "数学",
         publisher: "人民教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/sx8b01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1SsSQHGudkpQJOn0okcuwZg?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/14QzCYx_6huzHWpgg6ozD0g?pwd=9tgr" }
         ]
     },
     {
@@ -3155,9 +3155,9 @@ const books = [
         grade: "一年级",
         subject: "数学",
         publisher: "人民教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/sx1a01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1qGIN3aS2I4I8uvH7tNH-4g?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1x3FydVZ-VgSzpk-kX4ydAA?pwd=th2n" }
         ]
     },
     {
@@ -3167,9 +3167,9 @@ const books = [
         grade: "三年级",
         subject: "数学",
         publisher: "人民教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/sx3a01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1Vz8o7uEo9At4nDGWQGbJJw?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1x3FydVZ-VgSzpk-kX4ydAA?pwd=th2n" }
         ]
     },
     {
@@ -3179,9 +3179,9 @@ const books = [
         grade: "二年级",
         subject: "数学",
         publisher: "人民教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/sx2a01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1lN67pqkEbrYgRxpve-9Z5A?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1x3FydVZ-VgSzpk-kX4ydAA?pwd=th2n" }
         ]
     },
     {
@@ -3191,9 +3191,9 @@ const books = [
         grade: "五年级",
         subject: "数学",
         publisher: "人民教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/sx5a01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1MpLf1vIa7tthKtZD2I1Htg?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1x3FydVZ-VgSzpk-kX4ydAA?pwd=th2n" }
         ]
     },
     {
@@ -3203,9 +3203,9 @@ const books = [
         grade: "六年级",
         subject: "数学",
         publisher: "人民教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/sx6a01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1GNy66wEvpLLji_56K8l0qg?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1x3FydVZ-VgSzpk-kX4ydAA?pwd=th2n" }
         ]
     },
     {
@@ -3215,9 +3215,9 @@ const books = [
         grade: "四年级",
         subject: "数学",
         publisher: "人民教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/sx4a01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1BHOVJ-v_2FtzuDUba1MVTg?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1x3FydVZ-VgSzpk-kX4ydAA?pwd=th2n" }
         ]
     },
     {
@@ -3227,9 +3227,9 @@ const books = [
         grade: "一年级",
         subject: "数学",
         publisher: "人民教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/sx1b01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1qAnhVfw6BEZmPU5cbwIGWw?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1x3FydVZ-VgSzpk-kX4ydAA?pwd=th2n" }
         ]
     },
     {
@@ -3239,9 +3239,9 @@ const books = [
         grade: "三年级",
         subject: "数学",
         publisher: "人民教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/sx3b01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1ZztSM-x1dGQ7tG_yfOWljA?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1x3FydVZ-VgSzpk-kX4ydAA?pwd=th2n" }
         ]
     },
     {
@@ -3251,9 +3251,9 @@ const books = [
         grade: "二年级",
         subject: "数学",
         publisher: "人民教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/sx2b01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1YFMPovN_wggQWa07sTbTqw?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1x3FydVZ-VgSzpk-kX4ydAA?pwd=th2n" }
         ]
     },
     {
@@ -3263,9 +3263,9 @@ const books = [
         grade: "五年级",
         subject: "数学",
         publisher: "人民教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/sx1b05.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1EHXBfMyTxi8iC08Jb7l60g?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1x3FydVZ-VgSzpk-kX4ydAA?pwd=th2n" }
         ]
     },
     {
@@ -3275,9 +3275,9 @@ const books = [
         grade: "六年级",
         subject: "数学",
         publisher: "人民教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/sx6b01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/19dLw5cevkIuiLTwwyWHEHw?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1x3FydVZ-VgSzpk-kX4ydAA?pwd=th2n" }
         ]
     },
     {
@@ -3287,9 +3287,9 @@ const books = [
         grade: "四年级",
         subject: "数学",
         publisher: "人民教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/sx4b01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1r5sszNxdx1vCw5rgIxIwJw?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1x3FydVZ-VgSzpk-kX4ydAA?pwd=th2n" }
         ]
     },
     {
