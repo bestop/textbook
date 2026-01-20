@@ -35,9 +35,9 @@ const books = [
         grade: "九年级",
         subject: "化学",
         publisher: "人民教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/hx9a01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1l_FvlkXmI1USbdtZ2GwbXw?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1TC-Tnir8s8fnvAVD9ky3Kg?pwd=ejw8" }
         ]
     },
     {
@@ -47,9 +47,9 @@ const books = [
         grade: "九年级",
         subject: "化学",
         publisher: "人民教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/hx9b01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1oMq-x5lE2cI0J48uqVk0oQ?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1TC-Tnir8s8fnvAVD9ky3Kg?pwd=ejw8" }
         ]
     },
     {
@@ -59,9 +59,9 @@ const books = [
         grade: "九年级",
         subject: "化学",
         publisher: "北京出版社",
-        cover: "img/sample.jpg",
+        cover: "img/hx9abj.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1ObkQDMNmhpe7WaNu0Vnq4w?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1PboYI8hqJEOFjW2rOHXIvA?pwd=zhe7" }
         ]
     },
     {
@@ -71,9 +71,9 @@ const books = [
         grade: "九年级",
         subject: "化学",
         publisher: "北京出版社",
-        cover: "img/sample.jpg",
+        cover: "img/hx9bbj.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1ALivkk-sjdcJ7VXdE8NUOA?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1PboYI8hqJEOFjW2rOHXIvA?pwd=zhe7" }
         ]
     },
     {
@@ -83,9 +83,9 @@ const books = [
         grade: "九年级",
         subject: "化学",
         publisher: "上海教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/hx9ash.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1nSrJjEOfPC4uYW5AdVgvbw?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1xewCDwuV8BRMymnwe1AUdQ?pwd=a2pv" }
         ]
     },
     {
@@ -95,9 +95,9 @@ const books = [
         grade: "九年级",
         subject: "化学",
         publisher: "上海教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/hx9bsh.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1KuXTonaLChBmFrzGU6m0Qw?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1xewCDwuV8BRMymnwe1AUdQ?pwd=a2pv" }
         ]
     },
     {
@@ -107,9 +107,9 @@ const books = [
         grade: "九年级",
         subject: "化学",
         publisher: "科学出版社、广东教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/hx9agd.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1-1abCoNojS8z9XwDCSfJlg?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1bO4c2CZdJe9Wp-6JzjiFbw?pwd=xpbx" }
         ]
     },
     {
@@ -119,9 +119,9 @@ const books = [
         grade: "九年级",
         subject: "化学",
         publisher: "科学出版社、广东教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/hx9bgd.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1VFuCE5PZbgsCd1H9u2KWlw?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1bO4c2CZdJe9Wp-6JzjiFbw?pwd=xpbx" }
         ]
     },
     {
@@ -131,9 +131,9 @@ const books = [
         grade: "九年级",
         subject: "化学",
         publisher: "科学普及出版社",
-        cover: "img/sample.jpg",
+        cover: "img/hx9akp.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1K1Z-T-K0iStMITnHoFoeRw?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1cqszRXp4IcMQ_gcJw6ZqSw?pwd=3m4a" }
         ]
     },
     {
@@ -143,9 +143,9 @@ const books = [
         grade: "九年级",
         subject: "化学",
         publisher: "科学普及出版社",
-        cover: "img/sample.jpg",
+        cover: "img/hx9bkp.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/12UKe2FyKkoLRzIxZVwyeVg?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1cqszRXp4IcMQ_gcJw6ZqSw?pwd=3m4a" }
         ]
     },
     {
