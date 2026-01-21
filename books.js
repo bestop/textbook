@@ -2671,54 +2671,7 @@ const books = [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1MVxp7o2vM7L9pE425m6FGg?pwd=1234" }
         ]
     },
-    {
-        id: 236,
-        school: "初中",
-        title: "物理九年级上册",
-        grade: "九年级",
-        subject: "物理",
-        publisher: "山东科学技术出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1m9dzYyy--8xG2hHaqKajZQ?pwd=1234" }
-        ]
-    },
-    {
-        id: 237,
-        school: "初中",
-        title: "物理九年级下册",
-        grade: "九年级",
-        subject: "物理",
-        publisher: "山东科学技术出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1lkkCI7RBMogFt1jb2xfZYw?pwd=1234" }
-        ]
-    },
-    {
-        id: 238,
-        school: "初中",
-        title: "物理八年级上册",
-        grade: "八年级",
-        subject: "物理",
-        publisher: "山东科学技术出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1E4m8Bhx-Zd_eNs1ipiz9qA?pwd=1234" }
-        ]
-    },
-    {
-        id: 239,
-        school: "初中",
-        title: "物理八年级下册",
-        grade: "八年级",
-        subject: "物理",
-        publisher: "山东科学技术出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1DCZaWAJCyX_8PYnyxmVCMQ?pwd=1234" }
-        ]
-    },
+    
     {
         id: 240,
         school: "初中",
