@@ -80,7 +80,7 @@ const books = [
         id: 5,
         school: "初中",
         title: "化学九年级",
-        grade: "九年级",
+        grade: "地方版",
         subject: "化学",
         publisher: "北京出版社",
         cover: "img/hx9abj.jpg",
@@ -92,7 +92,7 @@ const books = [
         id: 6,
         school: "初中",
         title: "化学九年级",
-        grade: "九年级",
+        grade: "地方版",
         subject: "化学",
         publisher: "上海教育出版社",
         cover: "img/hx9ash.jpg",
@@ -104,7 +104,7 @@ const books = [
         id: 7,
         school: "初中",
         title: "化学九年级",
-        grade: "九年级",
+        grade: "地方版",
         subject: "化学",
         publisher: "科学出版社、广东教育出版社",
         cover: "img/hx9agd.jpg",
@@ -116,7 +116,7 @@ const books = [
         id: 8,
         school: "初中",
         title: "化学九年级",
-        grade: "九年级",
+        grade: "地方版",
         subject: "化学",
         publisher: "科学普及出版社",
         cover: "img/hx9akp.jpg",
@@ -128,7 +128,7 @@ const books = [
         id: 9,
         school: "初中",
         title: "化学九年级",
-        grade: "九年级",
+        grade: "地方版",
         subject: "化学",
         publisher: "山东教育出版社",
         cover: "img/hx9asd.jpg",
@@ -140,7 +140,7 @@ const books = [
         id: 10,
         school: "初中",
         title: "化学八年级 全一册 五四制",
-        grade: "八年级",
+        grade: "地方版",
         subject: "化学",
         publisher: "上海科学技术出版社",
         cover: "img/hx8ask.jpg",
@@ -152,7 +152,7 @@ const books = [
         id: 11,
         school: "初中",
         title: "化学八至九年级 五四制",
-        grade: "九年级",
+        grade: "地方版",
         subject: "化学",
         publisher: "山东教育出版社",
         cover: "img/hx8as2.jpg",
@@ -1268,95 +1268,95 @@ const books = [
     {
         id: 105,
         school: "初中",
-        title: "物理九年级全一册",
-        grade: "九年级",
+        title: "物理八至九年级 郭玉英",
+        grade: "地方版",
         subject: "物理",
         publisher: "北京师范大学出版社",
-        cover: "img/sample.jpg",
+        cover: "img/wl8ab1.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1XIHHUrYHuhpSNifrISR6mA?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1pveoN9hdesRZ1f-O_L2j5w?pwd=m6cv" }
         ]
     },
     {
         id: 106,
         school: "初中",
-        title: "物理八年级全一册",
-        grade: "八年级",
+        title: "物理八至九年级 闫金铎",
+        grade: "地方版",
         subject: "物理",
         publisher: "北京师范大学出版社",
-        cover: "img/sample.jpg",
+        cover: "img/wl8ab2.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1DwUTXux-0oMV8yhg7YJcLA?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1SLVCtaox78cinFVxYa_dBg?pwd=ffuq" }
         ]
     },
     {
         id: 107,
         school: "初中",
-        title: "物理九年级全一册",
-        grade: "九年级",
+        title: "物理八年级全一册 李春密",
+        grade: "地方版",
         subject: "物理",
         publisher: "北京师范大学出版社",
-        cover: "img/sample.jpg",
+        cover: "img/wl8ab3.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1AME6dvkUhAlQUA90wa2uXQ?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1zQVfCbAsiDC7RO6SrhsVlA?pwd=hc73" }
         ]
     },
     {
         id: 108,
         school: "初中",
-        title: "物理八年级上册",
-        grade: "八年级",
+        title: "物理八至九年级",
+        grade: "地方版",
         subject: "物理",
-        publisher: "北京师范大学出版社",
-        cover: "img/sample.jpg",
+        publisher: "教育科学出版社",
+        cover: "img/wl8ajk.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1G0nmBq35dpeyT08yyxO6hw?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1V0i-CoYtzM9QqqHZEbcfDg?pwd=xxzq" }
         ]
     },
     {
         id: 109,
         school: "初中",
-        title: "物理八年级下册",
-        grade: "八年级",
+        title: "物理八至九年级",
+        grade: "地方版",
         subject: "物理",
-        publisher: "北京师范大学出版社",
-        cover: "img/sample.jpg",
+        publisher: "上海科学技术出版社",
+        cover: "img/wl8ask.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1llP0KdRRmZWIes67ELC73A?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1M2zV53W_YmorYQVAUEpICQ?pwd=cynp" }
         ]
     },
     {
         id: 110,
         school: "初中",
-        title: "物理九年级上册",
-        grade: "九年级",
+        title: "物理八至九年级",
+        grade: "地方版",
         subject: "物理",
-        publisher: "教育科学出版社",
-        cover: "img/sample.jpg",
+        publisher: "上海科学技术出版社、广东教育出版社",
+        cover: "img/wl8asg.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1NLdEt5Az-vSeRKr5uLIt1A?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/13JhFYnKy-WYHozxhbPeoIA?pwd=zdtm" }
         ]
     },
     {
         id: 111,
         school: "初中",
-        title: "物理九年级下册",
-        grade: "九年级",
+        title: "物理八至九年级",
+        grade: "地方版",
         subject: "物理",
-        publisher: "教育科学出版社",
-        cover: "img/sample.jpg",
+        publisher: "江苏凤凰科学技术出版社",
+        cover: "img/wl8ajs.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1ZtD6Z8FJsyxVInyA8dhDFA?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1dFJVp3qRZIYce7x4aqHSKg?pwd=kt14" }
         ]
     },
     {
         id: 112,
         school: "初中",
-        title: "物理八年级上册",
-        grade: "八年级",
+        title: "物理八至九年级 五四制",
+        grade: "地方版",
         subject: "物理",
-        publisher: "教育科学出版社",
-        cover: "img/sample.jpg",
+        publisher: "山东科学技术出版社",
+        cover: "img/wl8asd.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1zCKvJ0dC1A0vhsMTN_yBvQ?pwd=1234" }
         ]
@@ -1364,135 +1364,16 @@ const books = [
     {
         id: 113,
         school: "初中",
-        title: "物理八年级下册",
-        grade: "八年级",
-        subject: "物理",
-        publisher: "教育科学出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1RPpRqWF0cW7n4tJZPgH1sw?pwd=1234" }
-        ]
-    },
-    {
-        id: 114,
-        school: "初中",
-        title: "物理九年级全一册",
-        grade: "九年级",
+        title: "物理八年级 五四制",
+        grade: "地方版",
         subject: "物理",
         publisher: "上海科学技术出版社",
-        cover: "img/sample.jpg",
+        cover: "img/wl8as2.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1YVaKfC8e7qM4vpFMwVBTAQ?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1uzaplK8AxBL4TTcYU5CznQ?pwd=swbg" }
         ]
     },
-    {
-        id: 115,
-        school: "初中",
-        title: "物理八年级全一册",
-        grade: "八年级",
-        subject: "物理",
-        publisher: "上海科学技术出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1P0gRTEohT7z6Zz7uQvMdEQ?pwd=1234" }
-        ]
-    },
-    {
-        id: 116,
-        school: "初中",
-        title: "物理九年级上册",
-        grade: "九年级",
-        subject: "物理",
-        publisher: "上海科学技术出版社、广东教育出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1QHlkiIPtxnT7FreN_a5j8Q?pwd=1234" }
-        ]
-    },
-    {
-        id: 117,
-        school: "初中",
-        title: "物理九年级下册",
-        grade: "九年级",
-        subject: "物理",
-        publisher: "上海科学技术出版社、广东教育出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1j52BenSQvFLeyySmrY_lBQ?pwd=1234" }
-        ]
-    },
-    {
-        id: 118,
-        school: "初中",
-        title: "物理八年级上册",
-        grade: "八年级",
-        subject: "物理",
-        publisher: "上海科学技术出版社、广东教育出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1qVhUD9ldNdfS5f9bqeS3Bg?pwd=1234" }
-        ]
-    },
-    {
-        id: 119,
-        school: "初中",
-        title: "物理八年级下册",
-        grade: "八年级",
-        subject: "物理",
-        publisher: "上海科学技术出版社、广东教育出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1w82HUCGCi-BM_NlWlOEDbQ?pwd=1234" }
-        ]
-    },
-    {
-        id: 120,
-        school: "初中",
-        title: "物理九年级上册",
-        grade: "九年级",
-        subject: "物理",
-        publisher: "江苏凤凰科学技术出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/12Sf3pxJ1l_W7GuXYBP-WFQ?pwd=1234" }
-        ]
-    },
-    {
-        id: 121,
-        school: "初中",
-        title: "物理九年级下册",
-        grade: "九年级",
-        subject: "物理",
-        publisher: "江苏凤凰科学技术出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/18Wu4F5JnMPs1iYtawjAX6Q?pwd=1234" }
-        ]
-    },
-    {
-        id: 122,
-        school: "初中",
-        title: "物理八年级上册",
-        grade: "八年级",
-        subject: "物理",
-        publisher: "江苏凤凰科学技术出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1PPCxwKCvEAUAxgRSfPcf9A?pwd=1234" }
-        ]
-    },
-    {
-        id: 123,
-        school: "初中",
-        title: "物理八年级下册",
-        grade: "八年级",
-        subject: "物理",
-        publisher: "江苏凤凰科学技术出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1oVQHdVrQyz3mDcJYgtWC_w?pwd=1234" }
-        ]
-    },
+    
     {
         id: 124,
         school: "初中",
