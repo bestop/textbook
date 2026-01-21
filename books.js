@@ -55,7 +55,31 @@ const books = [
     {
         id: 3,
         school: "初中",
-        title: "化学九年级上册",
+        title: "化学八年级 全一册 五四制",
+        grade: "八年级",
+        subject: "化学",
+        publisher: "人民教育出版社",
+        cover: "img/hx8a02.jpg",
+        links: [
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1rDF-oc-KRSvOybcp_aNa3w?pwd=axyb" }
+        ]
+    },
+    {
+        id: 4,
+        school: "初中",
+        title: "化学九年级 全一册 五四制",
+        grade: "九年级",
+        subject: "化学",
+        publisher: "人民教育出版社",
+        cover: "img/hx9a02.jpg",
+        links: [
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1rDF-oc-KRSvOybcp_aNa3w?pwd=axyb" }
+        ]
+    },
+    {
+        id: 5,
+        school: "初中",
+        title: "化学九年级",
         grade: "九年级",
         subject: "化学",
         publisher: "北京出版社",
@@ -65,21 +89,9 @@ const books = [
         ]
     },
     {
-        id: 4,
+        id: 6,
         school: "初中",
-        title: "化学九年级下册",
-        grade: "九年级",
-        subject: "化学",
-        publisher: "北京出版社",
-        cover: "img/hx9bbj.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1PboYI8hqJEOFjW2rOHXIvA?pwd=zhe7" }
-        ]
-    },
-    {
-        id: 5,
-        school: "初中",
-        title: "化学九年级上册",
+        title: "化学九年级",
         grade: "九年级",
         subject: "化学",
         publisher: "上海教育出版社",
@@ -89,21 +101,9 @@ const books = [
         ]
     },
     {
-        id: 6,
-        school: "初中",
-        title: "化学九年级下册",
-        grade: "九年级",
-        subject: "化学",
-        publisher: "上海教育出版社",
-        cover: "img/hx9bsh.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1xewCDwuV8BRMymnwe1AUdQ?pwd=a2pv" }
-        ]
-    },
-    {
         id: 7,
         school: "初中",
-        title: "化学九年级上册",
+        title: "化学九年级",
         grade: "九年级",
         subject: "化学",
         publisher: "科学出版社、广东教育出版社",
@@ -115,19 +115,7 @@ const books = [
     {
         id: 8,
         school: "初中",
-        title: "化学九年级下册",
-        grade: "九年级",
-        subject: "化学",
-        publisher: "科学出版社、广东教育出版社",
-        cover: "img/hx9bgd.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1bO4c2CZdJe9Wp-6JzjiFbw?pwd=xpbx" }
-        ]
-    },
-    {
-        id: 9,
-        school: "初中",
-        title: "化学九年级上册",
+        title: "化学九年级",
         grade: "九年级",
         subject: "化学",
         publisher: "科学普及出版社",
@@ -137,41 +125,42 @@ const books = [
         ]
     },
     {
-        id: 10,
+        id: 9,
         school: "初中",
-        title: "化学九年级下册",
+        title: "化学九年级",
         grade: "九年级",
         subject: "化学",
-        publisher: "科学普及出版社",
-        cover: "img/hx9bkp.jpg",
+        publisher: "山东教育出版社",
+        cover: "img/hx9asd.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1cqszRXp4IcMQ_gcJw6ZqSw?pwd=3m4a" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1FcEop1vyEFrpjjdzQ-I-6g?pwd=vbk6" }
+        ]
+    },
+    {
+        id: 10,
+        school: "初中",
+        title: "化学八年级 全一册 五四制",
+        grade: "八年级",
+        subject: "化学",
+        publisher: "上海科学技术出版社",
+        cover: "img/hx8ask.jpg",
+        links: [
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1vNqoxKfZocC-oj3qo__dKQ?pwd=73hr" }
         ]
     },
     {
         id: 11,
         school: "初中",
-        title: "化学九年级上册",
+        title: "化学八至九年级 五四制",
         grade: "九年级",
         subject: "化学",
         publisher: "山东教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/hx8as2.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1AziQixi6cKwkKv-X44cEzw?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1Rh52_LrNFYBthgkKF8Ba5Q?pwd=fwqu" }
         ]
     },
-    {
-        id: 12,
-        school: "初中",
-        title: "化学九年级下册",
-        grade: "九年级",
-        subject: "化学",
-        publisher: "山东教育出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/147Fw2sa_r3VW87Qi1dS0lw?pwd=1234" }
-        ]
-    },
+    
     {
         id: 13,
         school: "初中",
@@ -1247,9 +1236,9 @@ const books = [
         grade: "九年级",
         subject: "物理",
         publisher: "人民教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/wl9a01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/12gwq3DIbfS3IFDu594AyyQ?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1mH7bYUU0Ym-CNVCVDMxn-w?pwd=fu97" }
         ]
     },
     {
@@ -1259,9 +1248,9 @@ const books = [
         grade: "八年级",
         subject: "物理",
         publisher: "人民教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/wl8a01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1p4fWL2xxVld90Ub8DW4aog?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1mH7bYUU0Ym-CNVCVDMxn-w?pwd=fu97" }
         ]
     },
     {
@@ -1271,9 +1260,9 @@ const books = [
         grade: "八年级",
         subject: "物理",
         publisher: "人民教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/wl8b01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1dqo-sSkrZlR1EZ3aa0DiAg?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1mH7bYUU0Ym-CNVCVDMxn-w?pwd=fu97" }
         ]
     },
     {
@@ -2608,54 +2597,7 @@ const books = [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1kZjTxS_VvHWs2LKmBjG-qQ?pwd=3b8s" }
         ]
     },
-    {
-        id: 216,
-        school: "初中",
-        title: "化学九年级全一册",
-        grade: "九年级",
-        subject: "化学",
-        publisher: "人民教育出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1zg-IAn_Kmg93f0M8x6lXQw?pwd=1234" }
-        ]
-    },
-    {
-        id: 217,
-        school: "初中",
-        title: "化学八年级全一册",
-        grade: "八年级",
-        subject: "化学",
-        publisher: "人民教育出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/10RTOCdXmiE_YbyXoIaIxpg?pwd=1234" }
-        ]
-    },
-    {
-        id: 218,
-        school: "初中",
-        title: "化学九年级全一册",
-        grade: "九年级",
-        subject: "化学",
-        publisher: "山东教育出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1yTkFX_P3mxRAqK64j9RXzg?pwd=1234" }
-        ]
-    },
-    {
-        id: 219,
-        school: "初中",
-        title: "化学八年级全一册",
-        grade: "八年级",
-        subject: "化学",
-        publisher: "山东教育出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1hWR49SQrQ7soFE4wWY41Tw?pwd=1234" }
-        ]
-    },
+    
     {
         id: 220,
         school: "初中",
