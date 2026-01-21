@@ -4199,9 +4199,9 @@ const books = [
         grade: "一年级",
         subject: "科学",
         publisher: "人民教育出版社、湖北教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/kx1a01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1K3NJUQhSHr8Jt-lLM2E9PA?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1U8iDGJNnotzgKBY9L4ewZg?pwd=kpex" }
         ]
     },
     {
@@ -4211,9 +4211,9 @@ const books = [
         grade: "一年级",
         subject: "科学",
         publisher: "人民教育出版社、湖北教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/kx1b01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1O8s3JsGIelM81Nsjm4N_XQ?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1U8iDGJNnotzgKBY9L4ewZg?pwd=kpex" }
         ]
     },
     {
@@ -4223,9 +4223,9 @@ const books = [
         grade: "三年级",
         subject: "科学",
         publisher: "人民教育出版社、湖北教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/kx3a01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1_nDR3qiqQi6vXbWMY5YP8A?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1U8iDGJNnotzgKBY9L4ewZg?pwd=kpex" }
         ]
     },
     {
@@ -4235,9 +4235,9 @@ const books = [
         grade: "三年级",
         subject: "科学",
         publisher: "人民教育出版社、湖北教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/kx3b01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1aOQ2E3E2j1yvM5MWFb17QA?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1U8iDGJNnotzgKBY9L4ewZg?pwd=kpex" }
         ]
     },
     {
@@ -4247,9 +4247,9 @@ const books = [
         grade: "二年级",
         subject: "科学",
         publisher: "人民教育出版社、湖北教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/kx2a01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1bHv7glLtVhXUpgUL8jJuTQ?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1U8iDGJNnotzgKBY9L4ewZg?pwd=kpex" }
         ]
     },
     {
@@ -4259,9 +4259,9 @@ const books = [
         grade: "二年级",
         subject: "科学",
         publisher: "人民教育出版社、湖北教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/kx2b01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1zW1opI3VFGcDXfyMDudYIw?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1U8iDGJNnotzgKBY9L4ewZg?pwd=kpex" }
         ]
     },
     {
@@ -4271,9 +4271,9 @@ const books = [
         grade: "五年级",
         subject: "科学",
         publisher: "人民教育出版社、湖北教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/kx5b01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1TQIwGTG8GuKrArK2PQ0WDg?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1U8iDGJNnotzgKBY9L4ewZg?pwd=kpex" }
         ]
     },
     {
@@ -4283,9 +4283,9 @@ const books = [
         grade: "六年级",
         subject: "科学",
         publisher: "人民教育出版社、湖北教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/kx6a01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1Y4Sy-UR1MowEo0yyGqlQbA?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1U8iDGJNnotzgKBY9L4ewZg?pwd=kpex" }
         ]
     },
     {
@@ -4295,9 +4295,9 @@ const books = [
         grade: "六年级",
         subject: "科学",
         publisher: "人民教育出版社、湖北教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/kx6b01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1Tugrw0j5SXml-I12GuFoIA?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1U8iDGJNnotzgKBY9L4ewZg?pwd=kpex" }
         ]
     },
     {
@@ -4307,9 +4307,9 @@ const books = [
         grade: "四年级",
         subject: "科学",
         publisher: "人民教育出版社、湖北教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/kx4a01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1tWNOvWdniJXK_Mn0gtRclQ?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1U8iDGJNnotzgKBY9L4ewZg?pwd=kpex" }
         ]
     },
     {
@@ -4319,33 +4319,33 @@ const books = [
         grade: "四年级",
         subject: "科学",
         publisher: "人民教育出版社、湖北教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/kx4b01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1ZhOrIr2GbTg3CbsEp8Y5Bw?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1U8iDGJNnotzgKBY9L4ewZg?pwd=kpex" }
         ]
     },
     {
         id: 359,
         school: "小学",
-        title: "科学学生活动手册一年级上册",
-        grade: "一年级",
+        title: "科学五年级上册",
+        grade: "五年级",
         subject: "科学",
-        publisher: "河北人民出版社",
-        cover: "img/sample.jpg",
+        publisher: "人民教育出版社、湖北教育出版社",
+        cover: "img/kx5a01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1PZBSRyb82F85I7VLsJWs3A?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1U8iDGJNnotzgKBY9L4ewZg?pwd=kpex" }
         ]
     },
     {
         id: 360,
         school: "小学",
-        title: "科学学生活动手册一年级下册",
-        grade: "一年级",
+        title: "科学一至六年级",
+        grade: "地方版",
         subject: "科学",
         publisher: "河北人民出版社",
-        cover: "img/sample.jpg",
+        cover: "img/kx1ahb.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1mr71h_PuhPKFV5HaWsRt6w?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1iE5IHZnyOubbd5NXelliGQ?pwd=v1fg" }
         ]
     },
     {
