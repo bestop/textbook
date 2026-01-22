@@ -910,18 +910,6 @@ const books = [
     },
     
     {
-        id: 152,
-        school: "初中",
-        title: "科学七年级上册",
-        grade: "七年级",
-        subject: "科学",
-        publisher: "华东师范大学出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1bFwGR9Lbg7YnaGuQol_UdA?pwd=1234" }
-        ]
-    },
-    {
         id: 153,
         school: "初中",
         title: "科学七至九年级",
