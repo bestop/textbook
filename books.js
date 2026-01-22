@@ -924,279 +924,64 @@ const books = [
     {
         id: 153,
         school: "初中",
-        title: "科学七年级下册",
-        grade: "七年级",
+        title: "科学七至九年级",
+        grade: "地方版",
         subject: "科学",
         publisher: "华东师范大学出版社",
-        cover: "img/sample.jpg",
+        cover: "img/kx7ahd.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1egWaDu7ptl9SXb9U5EoOfw?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/18XlJag48o3QMpmANomxdgA?pwd=5m5t" }
         ]
     },
     {
         id: 154,
         school: "初中",
-        title: "科学九年级上册",
-        grade: "九年级",
+        title: "科学七至九年级",
+        grade: "地方版",
         subject: "科学",
-        publisher: "华东师范大学出版社",
-        cover: "img/sample.jpg",
+        publisher: "武汉出版社",
+        cover: "img/kx7awh.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1fAVJXyAJOj7Mf3SozJCjUA?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1QFRRm-ofEmLidSoR0vitlQ?pwd=nakk" }
         ]
     },
     {
         id: 155,
         school: "初中",
-        title: "科学九年级下册",
-        grade: "九年级",
+        title: "科学七至九年级",
+        grade: "地方版",
         subject: "科学",
-        publisher: "华东师范大学出版社",
-        cover: "img/sample.jpg",
+        publisher: "上海教育出版社",
+        cover: "img/kx7ash.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1b_MrUmg6HEnsULkF-kaBYA?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1kGWnKJOPt96_cqhP0KGx0A?pwd=6b7z" }
         ]
     },
     {
         id: 156,
         school: "初中",
-        title: "科学八年级上册",
-        grade: "八年级",
+        title: "科学七至九年级",
+        grade: "地方版",
         subject: "科学",
-        publisher: "华东师范大学出版社",
-        cover: "img/sample.jpg",
+        publisher: "浙江教育出版社",
+        cover: "img/kx7azj.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1hpcuYBTlNnWvQ-gzwtmpAw?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/10aKf5U65yTFyzz5utdQr3Q?pwd=p25x" }
         ]
     },
     {
         id: 157,
         school: "初中",
-        title: "科学八年级下册",
-        grade: "八年级",
+        title: "科学六年级 五四制",
+        grade: "地方版",
         subject: "科学",
-        publisher: "华东师范大学出版社",
-        cover: "img/sample.jpg",
+        publisher: "上海科学技术出版社",
+        cover: "img/kx6ask.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1iCMXTyTAyc_XKxbAraSySg?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1sXoxojWc0kIbh7hmGknr_Q?pwd=tnbe" }
         ]
     },
-    {
-        id: 158,
-        school: "初中",
-        title: "科学七年级上册",
-        grade: "七年级",
-        subject: "科学",
-        publisher: "武汉出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1yE8SYlG9mmeskDBntLU11A?pwd=1234" }
-        ]
-    },
-    {
-        id: 159,
-        school: "初中",
-        title: "科学七年级下册",
-        grade: "七年级",
-        subject: "科学",
-        publisher: "武汉出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1ZfGLRaNLqd5augoJPcuEEA?pwd=1234" }
-        ]
-    },
-    {
-        id: 160,
-        school: "初中",
-        title: "科学九年级上册",
-        grade: "九年级",
-        subject: "科学",
-        publisher: "武汉出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1IDblinAEyiIcMZ2c3GIrZg?pwd=1234" }
-        ]
-    },
-    {
-        id: 161,
-        school: "初中",
-        title: "科学九年级下册",
-        grade: "九年级",
-        subject: "科学",
-        publisher: "武汉出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1R3ycCCyUr9MM0h0-ZHPViw?pwd=1234" }
-        ]
-    },
-    {
-        id: 162,
-        school: "初中",
-        title: "科学八年级上册",
-        grade: "八年级",
-        subject: "科学",
-        publisher: "武汉出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1OzTQXi5LlDoxMlhMpeb_yg?pwd=1234" }
-        ]
-    },
-    {
-        id: 163,
-        school: "初中",
-        title: "科学八年级下册",
-        grade: "八年级",
-        subject: "科学",
-        publisher: "武汉出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1vTSMP8QUi09wYNNKVyxoLA?pwd=1234" }
-        ]
-    },
-    {
-        id: 164,
-        school: "初中",
-        title: "科学七年级上册",
-        grade: "七年级",
-        subject: "科学",
-        publisher: "上海教育出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1AKGQQJf1vSw75OBnSSikLw?pwd=1234" }
-        ]
-    },
-    {
-        id: 165,
-        school: "初中",
-        title: "科学七年级下册",
-        grade: "七年级",
-        subject: "科学",
-        publisher: "上海教育出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1q4CtsOb-Tj8BYaC-JvayAQ?pwd=1234" }
-        ]
-    },
-    {
-        id: 166,
-        school: "初中",
-        title: "科学九年级上册",
-        grade: "九年级",
-        subject: "科学",
-        publisher: "上海教育出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1UI-UhbfaLS3wJ0aM0W7HMA?pwd=1234" }
-        ]
-    },
-    {
-        id: 167,
-        school: "初中",
-        title: "科学九年级下册",
-        grade: "九年级",
-        subject: "科学",
-        publisher: "上海教育出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1QIn5k5hk6W1w6ivfd2Y7QA?pwd=1234" }
-        ]
-    },
-    {
-        id: 168,
-        school: "初中",
-        title: "科学八年级上册",
-        grade: "八年级",
-        subject: "科学",
-        publisher: "上海教育出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1F3WUhtM_gHv-ztJ32_WdYg?pwd=1234" }
-        ]
-    },
-    {
-        id: 169,
-        school: "初中",
-        title: "科学八年级下册",
-        grade: "八年级",
-        subject: "科学",
-        publisher: "上海教育出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1glwhBPO6Fr1b2rlwey-Ldg?pwd=1234" }
-        ]
-    },
-    {
-        id: 170,
-        school: "初中",
-        title: "科学七年级上册",
-        grade: "七年级",
-        subject: "科学",
-        publisher: "浙江教育出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1KPccecu9O0CWlTVnjh0wXQ?pwd=1234" }
-        ]
-    },
-    {
-        id: 171,
-        school: "初中",
-        title: "科学七年级下册",
-        grade: "七年级",
-        subject: "科学",
-        publisher: "浙江教育出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1ZXYiZ4lyj6YliO6e_2CFqQ?pwd=1234" }
-        ]
-    },
-    {
-        id: 172,
-        school: "初中",
-        title: "科学九年级上册",
-        grade: "九年级",
-        subject: "科学",
-        publisher: "浙江教育出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1nhiSGKew6Pnd7pa6Ufg-zA?pwd=1234" }
-        ]
-    },
-    {
-        id: 173,
-        school: "初中",
-        title: "科学九年级下册",
-        grade: "九年级",
-        subject: "科学",
-        publisher: "浙江教育出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1nYhCHT-CS8jiu5MsXKFJGA?pwd=1234" }
-        ]
-    },
-    {
-        id: 174,
-        school: "初中",
-        title: "科学八年级上册",
-        grade: "八年级",
-        subject: "科学",
-        publisher: "浙江教育出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1-_GLrTDMNkPfhqlQiFF77Q?pwd=1234" }
-        ]
-    },
-    {
-        id: 175,
-        school: "初中",
-        title: "科学八年级下册",
-        grade: "八年级",
-        subject: "科学",
-        publisher: "浙江教育出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1950sRQxWqSLGbThxhRdhOA?pwd=1234" }
-        ]
-    },
+    
     {
         id: 176,
         school: "初中",
