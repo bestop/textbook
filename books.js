@@ -771,9 +771,9 @@ const books = [
         grade: "七年级",
         subject: "生物学",
         publisher: "人民教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/sw7a01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/11kglhE1OvQArPyDA24WdEQ?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1A4Ysm34rWhFI1WHyM76h8g?pwd=pyjt" }
         ]
     },
     {
@@ -783,9 +783,9 @@ const books = [
         grade: "七年级",
         subject: "生物学",
         publisher: "人民教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/sw7b01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1BPcAFCvVi5EXJ6PVae0rYA?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1A4Ysm34rWhFI1WHyM76h8g?pwd=pyjt" }
         ]
     },
     {
@@ -795,9 +795,9 @@ const books = [
         grade: "八年级",
         subject: "生物学",
         publisher: "人民教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/sw8a01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1ZbD6Z2_EDR5tyS-6FtZ75A?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1A4Ysm34rWhFI1WHyM76h8g?pwd=pyjt" }
         ]
     },
     {
@@ -807,299 +807,108 @@ const books = [
         grade: "八年级",
         subject: "生物学",
         publisher: "人民教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/sw8b01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1fam6bcZOKajGHwb9gkYGAg?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1A4Ysm34rWhFI1WHyM76h8g?pwd=pyjt" }
         ]
     },
     {
         id: 128,
         school: "初中",
-        title: "生物学七年级上册",
-        grade: "七年级",
+        title: "生物学七至八年级",
+        grade: "地方版",
         subject: "生物学",
         publisher: "河北少年儿童出版社",
-        cover: "img/sample.jpg",
+        cover: "img/sw7ahb.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1Zyjh9XRBOQv0zd_S-13Ngg?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1w7oDXUW5A3Tetxb7PBgCdg?pwd=9ckm" }
         ]
     },
     {
         id: 129,
         school: "初中",
-        title: "生物学七年级下册",
-        grade: "七年级",
+        title: "生物学七至八年级",
+        grade: "地方版",
         subject: "生物学",
-        publisher: "河北少年儿童出版社",
-        cover: "img/sample.jpg",
+        publisher: "北京出版社",
+        cover: "img/sw7abj.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1Dh5TCJR9qCiY8LMsMXnkdg?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1gKeKDr_wJrPN3HcZ_ha36A?pwd=azf5" }
         ]
     },
     {
         id: 130,
         school: "初中",
-        title: "生物学八年级上册",
-        grade: "八年级",
+        title: "生物学七至八年级",
+        grade: "地方版",
         subject: "生物学",
-        publisher: "河北少年儿童出版社",
-        cover: "img/sample.jpg",
+        publisher: "北京师范大学出版社",
+        cover: "img/sw7abs.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1rIRkUO1xu8lZ-Q-ZclWfNw?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/10imvPN5DxTk71Tnm9odZww?pwd=pdk6" }
         ]
     },
     {
         id: 131,
         school: "初中",
-        title: "生物学八年级下册",
-        grade: "八年级",
+        title: "生物学七至八年级",
+        grade: "地方版",
         subject: "生物学",
-        publisher: "河北少年儿童出版社",
-        cover: "img/sample.jpg",
+        publisher: "济南出版社",
+        cover: "img/sw7ajn.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1piRRJvWT_nRXa3YHK0k6eg?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1SsUdZWARHE4O5QsPfL7YtA?pwd=w2tv" }
         ]
     },
     {
         id: 132,
         school: "初中",
-        title: "生物学七年级上册",
-        grade: "七年级",
+        title: "生物学七至八年级",
+        grade: "地方版",
         subject: "生物学",
-        publisher: "北京出版社",
-        cover: "img/sample.jpg",
+        publisher: "江苏凤凰教育出版社",
+        cover: "img/sw7ajs.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1MGLfebrUQ_s1oJK8JdOA3A?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1wS3EXYocV23ucteL9Eg46g?pwd=ai22" }
         ]
     },
     {
         id: 133,
         school: "初中",
-        title: "生物学七年级下册",
-        grade: "七年级",
+        title: "生物学七至八年级",
+        grade: "地方版",
         subject: "生物学",
-        publisher: "北京出版社",
-        cover: "img/sample.jpg",
+        publisher: "江苏凤凰科学技术出版社",
+        cover: "img/sw7ajk.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/11KEEjWYdTjKvDSzKKUPM4g?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/19J3xWco6PFjrsd1tZa30Nw?pwd=mq2t" }
         ]
     },
     {
         id: 134,
         school: "初中",
-        title: "生物学八年级上册",
-        grade: "八年级",
+        title: "生物学六至八年级 五四制",
+        grade: "地方版",
         subject: "生物学",
-        publisher: "北京出版社",
-        cover: "img/sample.jpg",
+        publisher: "山东科学技术出版社",
+        cover: "img/sw6asd.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/11YRl5zm6XunRNRdlBnAx4w?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1SpN6cEn5LtuDkUjLWTkEWA?pwd=2cdt" }
         ]
     },
     {
         id: 135,
         school: "初中",
-        title: "生物学八年级下册",
-        grade: "八年级",
+        title: "生物七年级 五四制",
+        grade: "地方版",
         subject: "生物学",
-        publisher: "北京出版社",
-        cover: "img/sample.jpg",
+        publisher: "上海教育出版社",
+        cover: "img/sw7ash.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/10_cClX9C4qQgbiyhxWlSGQ?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1z4mH77AMop7FwHnUOMo4Aw?pwd=8cm7" }
         ]
     },
-    {
-        id: 136,
-        school: "初中",
-        title: "生物学七年级上册",
-        grade: "七年级",
-        subject: "生物学",
-        publisher: "北京师范大学出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1MaDLgFBassx1pM7H49ay8A?pwd=1234" }
-        ]
-    },
-    {
-        id: 137,
-        school: "初中",
-        title: "生物学七年级下册",
-        grade: "七年级",
-        subject: "生物学",
-        publisher: "北京师范大学出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1QXF1fJSYDNX0myiOBjei5w?pwd=1234" }
-        ]
-    },
-    {
-        id: 138,
-        school: "初中",
-        title: "生物学八年级上册",
-        grade: "八年级",
-        subject: "生物学",
-        publisher: "北京师范大学出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1x9ufmOJNBYBdfX7gBvnS3Q?pwd=1234" }
-        ]
-    },
-    {
-        id: 139,
-        school: "初中",
-        title: "生物学八年级下册",
-        grade: "八年级",
-        subject: "生物学",
-        publisher: "北京师范大学出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1VnLO3Tbgbi5X7RY8cGm5CA?pwd=1234" }
-        ]
-    },
-    {
-        id: 140,
-        school: "初中",
-        title: "生物学七年级上册",
-        grade: "七年级",
-        subject: "生物学",
-        publisher: "济南出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1d3xfmaZSPwSpAkKlX8QF2w?pwd=1234" }
-        ]
-    },
-    {
-        id: 141,
-        school: "初中",
-        title: "生物学七年级下册",
-        grade: "七年级",
-        subject: "生物学",
-        publisher: "济南出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1_IcEbLRaaZjRUgN-4NGdnA?pwd=1234" }
-        ]
-    },
-    {
-        id: 142,
-        school: "初中",
-        title: "生物学八年级上册",
-        grade: "八年级",
-        subject: "生物学",
-        publisher: "济南出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/19ijwEThT46KnOWIsmanTdA?pwd=1234" }
-        ]
-    },
-    {
-        id: 143,
-        school: "初中",
-        title: "生物学八年级下册",
-        grade: "八年级",
-        subject: "生物学",
-        publisher: "济南出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1jhgthcof4ogm-HjANWCLXQ?pwd=1234" }
-        ]
-    },
-    {
-        id: 144,
-        school: "初中",
-        title: "生物学七年级上册",
-        grade: "七年级",
-        subject: "生物学",
-        publisher: "江苏凤凰教育出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1gspjsjZZenqS-hqYfvTIVQ?pwd=1234" }
-        ]
-    },
-    {
-        id: 145,
-        school: "初中",
-        title: "生物学七年级下册",
-        grade: "七年级",
-        subject: "生物学",
-        publisher: "江苏凤凰教育出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1ymW7tX94Z-_Qj6p4D6U04A?pwd=1234" }
-        ]
-    },
-    {
-        id: 146,
-        school: "初中",
-        title: "生物学八年级上册",
-        grade: "八年级",
-        subject: "生物学",
-        publisher: "江苏凤凰教育出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1ySKfe_CI3e6AY4RiztEg-w?pwd=1234" }
-        ]
-    },
-    {
-        id: 147,
-        school: "初中",
-        title: "生物学八年级下册",
-        grade: "八年级",
-        subject: "生物学",
-        publisher: "江苏凤凰教育出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/19wkTaZzJmUcQ5qnafgg1FA?pwd=1234" }
-        ]
-    },
-    {
-        id: 148,
-        school: "初中",
-        title: "生物学七年级上册",
-        grade: "七年级",
-        subject: "生物学",
-        publisher: "江苏凤凰科学技术出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1Nill0hDQ8U84aU-HW3bT1w?pwd=1234" }
-        ]
-    },
-    {
-        id: 149,
-        school: "初中",
-        title: "生物学七年级下册",
-        grade: "七年级",
-        subject: "生物学",
-        publisher: "江苏凤凰科学技术出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1Nh1A-tL00wbid5WTcHtFYQ?pwd=1234" }
-        ]
-    },
-    {
-        id: 150,
-        school: "初中",
-        title: "生物学八年级上册",
-        grade: "八年级",
-        subject: "生物学",
-        publisher: "江苏凤凰科学技术出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1BFgn4LltgFsm8mhyCytcIQ?pwd=1234" }
-        ]
-    },
-    {
-        id: 151,
-        school: "初中",
-        title: "生物学八年级下册",
-        grade: "八年级",
-        subject: "生物学",
-        publisher: "江苏凤凰科学技术出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1O82rveGA5ZA2WHsW1bzJdg?pwd=1234" }
-        ]
-    },
+    
     {
         id: 152,
         school: "初中",
@@ -1627,79 +1436,6 @@ const books = [
         cover: "img/yw8b01.jpg",
         links: [
             { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1kZjTxS_VvHWs2LKmBjG-qQ?pwd=3b8s" }
-        ]
-    },
-    
-    {
-        id: 240,
-        school: "初中",
-        title: "生物学七年级上册",
-        grade: "七年级",
-        subject: "生物学",
-        publisher: "山东科学技术出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1_dUaDSnvvAmLkOD6SzvY5A?pwd=1234" }
-        ]
-    },
-    {
-        id: 241,
-        school: "初中",
-        title: "生物学七年级下册",
-        grade: "七年级",
-        subject: "生物学",
-        publisher: "山东科学技术出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1MuKQtDCvmcJI3bPdN0To_g?pwd=1234" }
-        ]
-    },
-    {
-        id: 242,
-        school: "初中",
-        title: "生物学八年级上册",
-        grade: "八年级",
-        subject: "生物学",
-        publisher: "山东科学技术出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1ee0aS1t9gCSmStKj_fvIug?pwd=1234" }
-        ]
-    },
-    {
-        id: 243,
-        school: "初中",
-        title: "生物学八年级下册",
-        grade: "八年级",
-        subject: "生物学",
-        publisher: "山东科学技术出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1F8IvHOVM_iW_bXFcrlxqHA?pwd=1234" }
-        ]
-    },
-    {
-        id: 244,
-        school: "初中",
-        title: "生物学六年级上册",
-        grade: "六年级",
-        subject: "生物学",
-        publisher: "山东科学技术出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1yf1pzHz_AoJjk3iYBNkZYQ?pwd=1234" }
-        ]
-    },
-    {
-        id: 245,
-        school: "初中",
-        title: "生物学六年级下册",
-        grade: "六年级",
-        subject: "生物学",
-        publisher: "山东科学技术出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/14jv4reCBJ4lzS5M7hoWK3w?pwd=1234" }
         ]
     },
     
