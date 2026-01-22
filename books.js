@@ -168,9 +168,9 @@ const books = [
         grade: "七年级",
         subject: "历史",
         publisher: "人民教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/ls7a01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1QojbbgHf11Jb-X5jFNOXGg?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1jNkSLSXhchWoZHFLG9sJYg?pwd=a9jr" }
         ]
     },
     {
@@ -180,9 +180,9 @@ const books = [
         grade: "七年级",
         subject: "历史",
         publisher: "人民教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/ls7b01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/10wVqBCMmHxE9NOmAf7jd0w?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1jNkSLSXhchWoZHFLG9sJYg?pwd=a9jr" }
         ]
     },
     {
@@ -192,9 +192,9 @@ const books = [
         grade: "九年级",
         subject: "历史",
         publisher: "人民教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/ls9a01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/18GJ_9UpRLN9CiJiN98QMVA?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1jNkSLSXhchWoZHFLG9sJYg?pwd=a9jr" }
         ]
     },
     {
@@ -204,9 +204,9 @@ const books = [
         grade: "九年级",
         subject: "历史",
         publisher: "人民教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/ls9b01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1pIs5xU_OVhV_9Loa9m3lHw?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1jNkSLSXhchWoZHFLG9sJYg?pwd=a9jr" }
         ]
     },
     {
@@ -216,9 +216,9 @@ const books = [
         grade: "八年级",
         subject: "历史",
         publisher: "人民教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/ls8a01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1khSLtFMlVUSshFOSoMt26Q?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1jNkSLSXhchWoZHFLG9sJYg?pwd=a9jr" }
         ]
     },
     {
@@ -228,9 +228,9 @@ const books = [
         grade: "八年级",
         subject: "历史",
         publisher: "人民教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/ls8b01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/11N8X7NXEs9jeXwb9UMS8gQ?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1jNkSLSXhchWoZHFLG9sJYg?pwd=a9jr" }
         ]
     },
     {
@@ -239,10 +239,10 @@ const books = [
         title: "地理七年级上册",
         grade: "七年级",
         subject: "地理",
-        publisher: "中国地图出版社",
-        cover: "img/sample.jpg",
+        publisher: "人民教育出版社",
+        cover: "img/dl7a01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1HpyBOAm83myWnycJ5HpwXQ?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1Y0WS03Jfj6lrvlKJ9QAOew?pwd=ezxr" }
         ]
     },
     {
@@ -251,10 +251,10 @@ const books = [
         title: "地理七年级下册",
         grade: "七年级",
         subject: "地理",
-        publisher: "中国地图出版社",
-        cover: "img/sample.jpg",
+        publisher: "人民教育出版社",
+        cover: "img/dl7b01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1vtBk43STmrxCv5hcqjD_Ag?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1Y0WS03Jfj6lrvlKJ9QAOew?pwd=ezxr" }
         ]
     },
     {
@@ -263,10 +263,10 @@ const books = [
         title: "地理八年级上册",
         grade: "八年级",
         subject: "地理",
-        publisher: "中国地图出版社",
-        cover: "img/sample.jpg",
+        publisher: "人民教育出版社",
+        cover: "img/dl8a01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1lZsm342bhrOUCpCheQMSfw?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1Y0WS03Jfj6lrvlKJ9QAOew?pwd=ezxr" }
         ]
     },
     {
@@ -275,348 +275,133 @@ const books = [
         title: "地理八年级下册",
         grade: "八年级",
         subject: "地理",
-        publisher: "中国地图出版社",
-        cover: "img/sample.jpg",
+        publisher: "人民教育出版社",
+        cover: "img/dl8b01.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1dlZLTldBI5uUptXmLyDmyw?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1Y0WS03Jfj6lrvlKJ9QAOew?pwd=ezxr" }
         ]
     },
     {
         id: 23,
         school: "初中",
-        title: "地理七年级上册",
-        grade: "七年级",
+        title: "地理七至八年级 王民",
+        grade: "地方版",
         subject: "地理",
         publisher: "中国地图出版社",
-        cover: "img/sample.jpg",
+        cover: "img/dl7azt.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1bjmrZbwVXURx7DdEvJlFzA?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/109Fgai8fPKmtL9lOmhw34g?pwd=4xpa" }
         ]
     },
     {
         id: 24,
         school: "初中",
-        title: "地理七年级下册",
-        grade: "七年级",
+        title: "地理七至八年级 钟作慈",
+        grade: "地方版",
         subject: "地理",
         publisher: "中国地图出版社",
-        cover: "img/sample.jpg",
+        cover: "img/dl7az2.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1cCgKeejZvecnpq6oUlkdEA?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1oLBCTjHB-PeZF3TbSb6QDA?pwd=msei" }
         ]
     },
     {
         id: 25,
         school: "初中",
-        title: "地理八年级上册",
-        grade: "八年级",
+        title: "地理七至八年级",
+        grade: "地方版",
         subject: "地理",
-        publisher: "中国地图出版社",
-        cover: "img/sample.jpg",
+        publisher: "商务印书馆、星球地图出版社",
+        cover: "img/dl7asw.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1p78WMPnYkOrWzdnOh8t2tw?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1-DHS1rh8-UpQ5uMNYipcTQ?pwd=brt7" }
         ]
     },
     {
         id: 26,
         school: "初中",
-        title: "地理八年级下册",
-        grade: "八年级",
+        title: "地理七至八年级",
+        grade: "地方版",
         subject: "地理",
-        publisher: "中国地图出版社",
-        cover: "img/sample.jpg",
+        publisher: "山西教育出版社",
+        cover: "img/dl7asx.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/12jPILECCIq9S2Bc5iyA3pg?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1yeKGCSO_7FJHXx1RsCO45A?pwd=umki" }
         ]
     },
     {
         id: 27,
         school: "初中",
-        title: "地理七年级上册",
-        grade: "七年级",
+        title: "地理七至八年级",
+        grade: "地方版",
         subject: "地理",
-        publisher: "人民教育出版社",
-        cover: "img/sample.jpg",
+        publisher: "湖南教育出版社",
+        cover: "img/dl7ahn.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/10BFjwbQV9tq8FzriSmZd-w?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1uzCvACtWO1w018uadRVIlg?pwd=gd7r" }
         ]
     },
     {
         id: 28,
         school: "初中",
-        title: "地理七年级下册",
-        grade: "七年级",
+        title: "地理七至八年级",
+        grade: "地方版",
         subject: "地理",
-        publisher: "人民教育出版社",
-        cover: "img/sample.jpg",
+        publisher: "科学普及出版社",
+        cover: "img/dl7akp.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1BgUxcvvc6KT7HC85HtAMbw?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1X9Ye6IetngR-HxuidR8T-A?pwd=bc4q" }
         ]
     },
     {
         id: 29,
         school: "初中",
-        title: "地理八年级上册",
-        grade: "八年级",
+        title: "地理七至八年级",
+        grade: "地方版",
         subject: "地理",
-        publisher: "人民教育出版社",
-        cover: "img/sample.jpg",
+        publisher: "广东教育出版社、广东人民出版社",
+        cover: "img/dl7agd.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1tt8UPVHUU6fnUcMjYxyO-A?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1iRj8ZoTsbPZrKPYcqtFd2Q?pwd=vtzz" }
         ]
     },
     {
         id: 30,
         school: "初中",
-        title: "地理八年级下册",
-        grade: "八年级",
+        title: "地理六至七年级 五四制",
+        grade: "地方版",
         subject: "地理",
-        publisher: "人民教育出版社",
-        cover: "img/sample.jpg",
+        publisher: "中华地图学社、中国地图出版社",
+        cover: "img/dl6azt.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1I1k6Mb8hytiV9OL5CK5NVA?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1y_LgFYWohjdqlo0F5BUeyg?pwd=wcj9" }
         ]
     },
     {
         id: 31,
         school: "初中",
-        title: "地理七年级上册",
-        grade: "七年级",
+        title: "地理六至七年级 五四制",
+        grade: "地方版",
         subject: "地理",
-        publisher: "商务印书馆、星球地图出版社",
-        cover: "img/sample.jpg",
+        publisher: "山东科技出版社",
+        cover: "img/dl6asd.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1a0JQt-9jzDZMmyQq-K-YlQ?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1RP25SgJOJ2KKrZZktOdJpQ?pwd=fa5j" }
         ]
     },
     {
         id: 32,
         school: "初中",
-        title: "地理七年级下册",
-        grade: "七年级",
+        title: "地理图册 七至八年级",
+        grade: "地方版",
         subject: "地理",
-        publisher: "商务印书馆、星球地图出版社",
-        cover: "img/sample.jpg",
+        publisher: "各大出版社",
+        cover: "img/dl7a02.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1ZiGwF8DtfDOS50yB-SLkWw?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1BvT-BKtmrzIzIMXCM9GI4w?pwd=yy8v" }
         ]
     },
-    {
-        id: 33,
-        school: "初中",
-        title: "地理八年级上册",
-        grade: "八年级",
-        subject: "地理",
-        publisher: "商务印书馆、星球地图出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1FPBTIE11t4Tw94gLO8s7Og?pwd=1234" }
-        ]
-    },
-    {
-        id: 34,
-        school: "初中",
-        title: "地理八年级下册",
-        grade: "八年级",
-        subject: "地理",
-        publisher: "商务印书馆、星球地图出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1TpG3GQcwzxO-0YZoeqPF9w?pwd=1234" }
-        ]
-    },
-    {
-        id: 35,
-        school: "初中",
-        title: "地理七年级上册",
-        grade: "七年级",
-        subject: "地理",
-        publisher: "山西教育出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1dwrWDQF-IQy9hDwSDuYyjA?pwd=1234" }
-        ]
-    },
-    {
-        id: 36,
-        school: "初中",
-        title: "地理七年级下册",
-        grade: "七年级",
-        subject: "地理",
-        publisher: "山西教育出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1uJ1ahJZgu1maruloNUTrrw?pwd=1234" }
-        ]
-    },
-    {
-        id: 37,
-        school: "初中",
-        title: "地理八年级上册",
-        grade: "八年级",
-        subject: "地理",
-        publisher: "山西教育出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1tLdFyRdK_qW2t7ZIEPWazA?pwd=1234" }
-        ]
-    },
-    {
-        id: 38,
-        school: "初中",
-        title: "地理八年级下册",
-        grade: "八年级",
-        subject: "地理",
-        publisher: "山西教育出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1HespZOy-aQKl-QJ897jiog?pwd=1234" }
-        ]
-    },
-    {
-        id: 39,
-        school: "初中",
-        title: "地理七年级上册",
-        grade: "七年级",
-        subject: "地理",
-        publisher: "湖南教育出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/17MfY8WxeNcY4p9eNrschUw?pwd=1234" }
-        ]
-    },
-    {
-        id: 40,
-        school: "初中",
-        title: "地理七年级下册",
-        grade: "七年级",
-        subject: "地理",
-        publisher: "湖南教育出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1K5gE23P-q3LhktzX5bKxiw?pwd=1234" }
-        ]
-    },
-    {
-        id: 41,
-        school: "初中",
-        title: "地理八年级上册",
-        grade: "八年级",
-        subject: "地理",
-        publisher: "湖南教育出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1l-0H_T376nQ3fcE_U8y73Q?pwd=1234" }
-        ]
-    },
-    {
-        id: 42,
-        school: "初中",
-        title: "地理八年级下册",
-        grade: "八年级",
-        subject: "地理",
-        publisher: "湖南教育出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1AmPLaYIuaJpbdJuyFkY7Vg?pwd=1234" }
-        ]
-    },
-    {
-        id: 43,
-        school: "初中",
-        title: "地理七年级上册",
-        grade: "七年级",
-        subject: "地理",
-        publisher: "科学普及出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/13VKAgcFFVk4ah-cgejpFdw?pwd=1234" }
-        ]
-    },
-    {
-        id: 44,
-        school: "初中",
-        title: "地理七年级下册",
-        grade: "七年级",
-        subject: "地理",
-        publisher: "科学普及出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1IKT_ArabJ2Ek1PYZj0h1BA?pwd=1234" }
-        ]
-    },
-    {
-        id: 45,
-        school: "初中",
-        title: "地理八年级上册",
-        grade: "八年级",
-        subject: "地理",
-        publisher: "科学普及出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1PoiBX8JIgEYaKa2aYpBjkw?pwd=1234" }
-        ]
-    },
-    {
-        id: 46,
-        school: "初中",
-        title: "地理八年级下册",
-        grade: "八年级",
-        subject: "地理",
-        publisher: "科学普及出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1lJ_G5_AGG3GbPfnsoB7XAQ?pwd=1234" }
-        ]
-    },
-    {
-        id: 47,
-        school: "初中",
-        title: "地理七年级上册",
-        grade: "七年级",
-        subject: "地理",
-        publisher: "广东教育出版社、广东人民出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1vtH_mnhdi4eggoXKvktMdQ?pwd=1234" }
-        ]
-    },
-    {
-        id: 48,
-        school: "初中",
-        title: "地理七年级下册",
-        grade: "七年级",
-        subject: "地理",
-        publisher: "广东教育出版社、广东人民出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1mo800UK-pvLRISSg90VV2w?pwd=1234" }
-        ]
-    },
-    {
-        id: 49,
-        school: "初中",
-        title: "地理八年级上册",
-        grade: "八年级",
-        subject: "地理",
-        publisher: "广东教育出版社、广东人民出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1rZhMuzPjSOLRdCQcxYmQrw?pwd=1234" }
-        ]
-    },
-    {
-        id: 50,
-        school: "初中",
-        title: "地理八年级下册",
-        grade: "八年级",
-        subject: "地理",
-        publisher: "广东教育出版社、广东人民出版社",
-        cover: "img/sample.jpg",
-        links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1j0mmGIWjVPF1SMILzG5VfQ?pwd=1234" }
-        ]
-    },
+    
     {
         id: 51,
         school: "初中",
