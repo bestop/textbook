@@ -5282,9 +5282,9 @@ const books = [
         grade: "不分年级",
         subject: "语文",
         publisher: "人民教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/ywb101.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1RKCWNCE3Jl1gmhnEYvkPAA?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1JAKLdb8MwyLIPrEUaA9nLQ?pwd=3dk5" }
         ]
     },
     {
@@ -5294,9 +5294,9 @@ const books = [
         grade: "不分年级",
         subject: "语文",
         publisher: "人民教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/ywb201.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1oBv0r7rTrV96oR-_0pqu5A?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1JAKLdb8MwyLIPrEUaA9nLQ?pwd=3dk5" }
         ]
     },
     {
@@ -5306,9 +5306,9 @@ const books = [
         grade: "不分年级",
         subject: "语文",
         publisher: "人民教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/ywx101.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1Sqlaofg6DZqUTlr1igL6YQ?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1JAKLdb8MwyLIPrEUaA9nLQ?pwd=3dk5" }
         ]
     },
     {
@@ -5318,9 +5318,9 @@ const books = [
         grade: "不分年级",
         subject: "语文",
         publisher: "人民教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/ywx201.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1UgWeOOhKLDAnk_PLxJsFPA?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1JAKLdb8MwyLIPrEUaA9nLQ?pwd=3dk5" }
         ]
     },
     {
@@ -5330,9 +5330,9 @@ const books = [
         grade: "不分年级",
         subject: "语文",
         publisher: "人民教育出版社",
-        cover: "img/sample.jpg",
+        cover: "img/ywx301.jpg",
         links: [
-            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1k0m5JTOEbipcGQgN1_vztA?pwd=1234" }
+            { name: "百度网盘", type: "baidu", url: "https://pan.baidu.com/s/1JAKLdb8MwyLIPrEUaA9nLQ?pwd=3dk5" }
         ]
     }
 ];
